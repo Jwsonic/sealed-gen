@@ -1,0 +1,1747 @@
+<cards><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/06d5o9l1b0_en.jpg">RTR
+        </set><name>Angel of Serenity
+        </name><pt>5/6
+        </pt><color>W
+        </color><text>Flying
+When Angel of Serenity enters the battlefield, you may exile up to three other target creatures from the battlefield and/or creature cards from graveyards.
+When Angel of Serenity leaves the battlefield, return the exiled cards to their owners' hands.
+        </text><tablerow>2
+        </tablerow><type>Creature - Angel
+        </type></card><card><set>RTR
+        </set><name>Armory Guard
+        </name><pt>2/5
+        </pt><color>W
+        </color><text>Armory Guard has vigilance as long as you control a Gate.
+        </text><tablerow>2
+        </tablerow><type>Creature - Giant Soldier
+        </type></card><card><set>RTR
+        </set><name>Arrest
+        </name><color>W
+        </color><text>Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><color>W
+        </color><text>Destroy target creature that dealt damage this turn.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Avenging Arrow
+        </name></card><card><set>RTR
+        </set><name>Azorius Arrester
+        </name><pt>2/1
+        </pt><color>W
+        </color><text>When Azorius Arrester enters the battlefield, detain target creature an opponent controls.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Soldier
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/4jo7t9snmh_en.jpg">RTR
+        </set><name>Azorius Justiciar
+        </name><pt>2/2
+        </pt><color>W
+        </color><text>When Azorius Justiciar enters the battlefield, detain up to two target creatures your opponents control. (Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Wizard
+        </type></card><card><set>RTR
+        </set><name>Bazaar Krovod
+        </name><pt>2/5
+        </pt><color>W
+        </color><text>Whenever Bazaar Krovod attacks, another target attacking creature gets +0/+2 until end of turn. Untap that creature.
+        </text><tablerow>2
+        </tablerow><type>Creature - Beast
+        </type></card><card><set>RTR
+        </set><name>Concordia Pegasus
+        </name><pt>1/3
+        </pt><color>W
+        </color><text>Flying
+        </text><tablerow>2
+        </tablerow><type>Creature - Pegasus
+        </type></card><card><set>RTR
+        </set><name>Ethereal Armor
+        </name><color>W
+        </color><text>Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has first strike.
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/ny6r76gna8_en.jpg">RTR
+        </set><name>Eyes in the Skies
+        </name><color>W
+        </color><text>Put a 1/1 white Bird creature token with flying onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
+        </text><type>Instant
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/vvp57grekg_en.jpg">RTR
+        </set><name>Fencing Ace
+        </name><pt>1/1
+        </pt><color>W
+        </color><text>Double Strike
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Soldier
+        </type></card><card><set>RTR
+        </set><name>Keening Apparition
+        </name><pt>2/2
+        </pt><color>W
+        </color><text>Sacrifice Keening Apparition: Destroy target enchantment.
+        </text><tablerow>2
+        </tablerow><type>Creature - Spirit
+        </type></card><card><set>RTR
+        </set><name>Knightly Valor
+        </name><color>W
+        </color><text>Enchant creature
+When Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield.
+Enchanted creature gets +2/+2 and has vigilance.
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/ufnw7a6kys_en.jpg">RTR
+        </set><name>Martial Law
+        </name><color>W
+        </color><text>At the beginning of your upkeep, detain target creature an opponent controls.
+        </text><type>Enchantment
+        </type></card><card><set>RTR
+        </set><name>Palisade Giant
+        </name><pt>2/7
+        </pt><color>W
+        </color><text>All damage that would be dealt to you or another permanent you control is dealt to Palisade Giant instead.
+        </text><tablerow>2
+        </tablerow><type>Creature - Giant Soldier
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/zw1g8zunwt_en.jpg">RTR
+        </set><name>Phantom General
+        </name><pt>2/3
+        </pt><color>W
+        </color><text>Creature tokens you control get +1/+1.
+        </text><tablerow>2
+        </tablerow><type>Creature - Spirit Soldier
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/wau362iyr9_en.jpg">RTR
+        </set><name>Precinct Captain
+        </name><pt>2/2
+        </pt><color>W
+        </color><text>First strike
+Whenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Soldier
+        </type></card><card><color>W
+        </color><text>When Rest in Peace enters the battlefield, exile all cards from all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.
+        </text><set>RTR
+        </set><type>Enchantment
+        </type><name>Rest in Peace
+        </name></card><card><color>W
+        </color><text>Populate. Creatures you control are indestructible this turn.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Rootborn Defenses
+        </name></card><card><set>RTR
+        </set><name>Security Blockade
+        </name><color>W
+        </color><text>Enchant land
+When Security Blockade enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield.
+Enchanted land has &quot;{T}: Prevent the next 1 damage that would be dealt to you this turn.&quot;
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set>RTR
+        </set><name>Selesnya Sentry
+        </name><pt>3/2
+        </pt><color>W
+        </color><text>{5}{G}: Regenerate Selesnya Sentry.
+        </text><tablerow>2
+        </tablerow><type>Creature - Elephant Soldier
+        </type></card><card><set>RTR
+        </set><name>Seller of Songbirds
+        </name><pt>1/2
+        </pt><color>W
+        </color><text>When Seller of Songbirds enters the battlefield, put a 1/1 white Bird creature token with flying onto the battlefield.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human
+        </type></card><card><set>RTR
+        </set><name>Soul Tithe
+        </name><color>W
+        </color><text>Enchant nonland permanent
+At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless he or she pays {X}, where X is its converted mana cost.
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><color>W
+        </color><text>Creatures can't attack you or a planeswalker you control unless their controller pays {X} for each of those creatures, where X is the number of enchantments you control.
+        </text><set>RTR
+        </set><type>Enchantment
+        </type><name>Sphere of Safety
+        </name></card><card><set>RTR
+        </set><name>Sunspire Griffin
+        </name><pt>2/3
+        </pt><color>W
+        </color><text>Flying
+        </text><tablerow>2
+        </tablerow><type>Creature - Griffin
+        </type></card><card><color>W
+        </color><text>Until end of turn, target creature gets +1/+0 and gains first strike and lifelink.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Swift Justice
+        </name></card><card><set>RTR
+        </set><name>Trained Caracal
+        </name><pt>1/1
+        </pt><color>W
+        </color><text>Lifelink
+        </text><tablerow>2
+        </tablerow><type>Creature - Cat
+        </type></card><card><color>W
+        </color><text>Exile target creature, then populate.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Trostani's Judgment
+        </name></card><card><set>RTR
+        </set><name>Aquus Steed
+        </name><pt>1/3
+        </pt><color>U
+        </color><text>{2}{u}, {t}: Target creature gets -2/-0 until end of turn.
+        </text><tablerow>2
+        </tablerow><type>Creature - Beast
+        </type></card><card><color>U
+        </color><text>Tap target creature you don't control.
+Overload {3}{u} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of &quot;target&quot; with 'each.&quot;)
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Blustersquall
+        </name></card><card><color>U
+        </color><text>Counter target spell.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Cancel
+        </name></card><card><set>RTR
+        </set><name>Chronic Flooding
+        </name><color>U
+        </color><text>Enchant land
+Whenever enchanted land becomes tapped, its controller puts the top three cards of his or her library into his or her graveyard.
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set>RTR
+        </set><name>Crosstown Courier
+        </name><pt>2/1
+        </pt><color>U
+        </color><text>Whenever Crosstown Courier deals combat damage to a player, that player puts that many cards from the top of his or her library into his or her graveyard.
+        </text><tablerow>2
+        </tablerow><type>Creature - Vedalken
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/v21b0f6up2_en.jpg">RTR
+        </set><name>Cyclonic Rift
+        </name><color>U
+        </color><text>Return target nonland permanent you don't control to its owner's hand.
+Overload {6}{U} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of &quot;target&quot; with &quot;each&quot;.)
+        </text><type>Instant
+        </type></card><card><color>U
+        </color><text>Counter target instant spell.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Dispel
+        </name></card><card><set>RTR
+        </set><name>Doorkeeper
+        </name><pt>0/4
+        </pt><color>U
+        </color><text>Defender
+{2}{u}, {T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of creatures with defender you control.
+        </text><tablerow>2
+        </tablerow><type>Creature - Homunculus
+        </type></card><card><color>U
+        </color><text>Target creature you don't control gets -4/-0 until end of turn.
+Overload {2}{u} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of &quot;target&quot; with 'each.&quot;)
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Downsize
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/zmnclp6sut_en.jpg">RTR
+        </set><name>Faerie Impostor
+        </name><pt>2/1
+        </pt><color>U
+        </color><text>Flying
+When Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand.
+        </text><tablerow>2
+        </tablerow><type>Creature - Faerie Rogue
+        </type></card><card><set>RTR
+        </set><name>Hover Barrier
+        </name><pt>0/6
+        </pt><color>U
+        </color><text>Defender, flying
+        </text><tablerow>2
+        </tablerow><type>Creature - Illusion Wall
+        </type></card><card><color>U
+        </color><text>Detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)
+Draw a card.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Inaction Injunction
+        </name></card><card><color>U
+        </color><text>Target player draws two cards.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Inspiration
+        </name></card><card><set>RTR
+        </set><name>Isperia's Skywatch
+        </name><pt>3/3
+        </pt><color>U
+        </color><text>Flying
+When Isperia's Skywatch enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Vedalken Knight
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/lvuc3cqmjd_en.jpg">RTR
+        </set><name>Jace, Architect of Thought
+        </name><pt>4
+        </pt><color>U
+        </color><text>+1 : Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.
+-2 : Reveal the top three cards of your library. An opponent separates them into two piles. Put one pile into your hand and the other on the bottom of your library in any order.
+-8 : For each player, search that player's library for a nonland card and exile it, then that player shuffles his or her library. You may cast those cards without paying their mana costs.
+        </text><tablerow>1
+        </tablerow><type>Planeswalker - Jace
+        </type></card><card><color>U
+        </color><text>Target creature you control gets +0/+1 and gains hexproof until end of turn.
+Overload {1}{u} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of &quot;target&quot; with 'each.&quot;)
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Mizzium Skin
+        </name></card><card><set>RTR
+        </set><name>Paralyzing Grasp
+        </name><color>U
+        </color><text>Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/coxm4570do_en.jpg">RTR
+        </set><name>Psychic Spiral
+        </name><color>U
+        </color><text>Shuffle all cards from your graveyard into your library. Target player puts that many cards from the top of his or her library into his or her graveyard.
+        </text><type>Instant
+        </type></card><card><set>RTR
+        </set><name>Runewing
+        </name><pt>2/2
+        </pt><color>U
+        </color><text>Flying
+When Runewing dies, draw a card.
+        </text><tablerow>2
+        </tablerow><type>Creature - Bird
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/tpfbu0kw1w_en.jpg">RTR
+        </set><name>Search the City
+        </name><color>U
+        </color><text>When Search the City enters the battlefield, exile the top five cards of your library.
+Whenever you play a card with the same name as one of the exiled cards, you may put one of those cards with that name into its owner's hand. Then if there are no cards exiled with Search the City, sacrifice it. If you do, take an extra turn after this one.
+        </text><type>Enchantment
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/ntb7nwqluj_en.jpg">RTR
+        </set><name>Skyline Predator
+        </name><pt>3/4
+        </pt><color>U
+        </color><text>Flash
+Flying
+        </text><tablerow>2
+        </tablerow><type>Creature - Drake
+        </type></card><card><set>RTR
+        </set><name>Soulsworn Spirit
+        </name><pt>2/1
+        </pt><color>U
+        </color><text>Soulsworn Spirit is unblockable.
+When Soulsworn Spirit enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Spirit
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/ndlldrjxgv_en.jpg">RTR
+        </set><name>Sphinx of the Chimes
+        </name><pt>5/6
+        </pt><color>U
+        </color><text>Flying
+Discard two nonland cards with the same name: Draw four cards.
+        </text><tablerow>2
+        </tablerow><type>Creature - Sphinx
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/dqq98pcdap_en.jpg">RTR
+        </set><name>Stealer of Secrets
+        </name><pt>2/2
+        </pt><color>U
+        </color><text>Whenever Stealer of Secrets deals combat damage to a player, draw a card.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Rogue
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/8t8pd1at1d_en.jpg">RTR
+        </set><name>Syncopate
+        </name><color>U
+        </color><text>Counter target spell unless its controller pays X.
+If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+        </text><type>Instant
+        </type></card><card><set>RTR
+        </set><name>Tower Drake
+        </name><pt>2/1
+        </pt><color>U
+        </color><text>Flying
+{W}: Tower Drake gets +0/+1 until end of turn.
+        </text><tablerow>2
+        </tablerow><type>Creature - Drake
+        </type></card><card><set>RTR
+        </set><name>Voidwielder
+        </name><pt>1/4
+        </pt><color>U
+        </color><text>When Voidwielder enters the battlefield, you may return target creature to its owner's hand.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Wizard
+        </type></card><card><color>B
+        </color><text>Destroy target creature. Its controller discards a card.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Assassin's Strike
+        </name></card><card><set>RTR
+        </set><name>Catacomb Slug
+        </name><pt>2/6
+        </pt><color>B
+        </color><tablerow>2
+        </tablerow><type>Creature - Slug
+        </type></card><card><color>B
+        </color><text>Exile target card from a graveyard.
+Draw a card.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Cremate
+        </name></card><card><set>RTR
+        </set><name>Daggerdrome Imp
+        </name><pt>1/1
+        </pt><color>B
+        </color><text>Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Imp
+        </type></card><card><set>RTR
+        </set><name>Dark Revenant
+        </name><pt>2/2
+        </pt><color>B
+        </color><text>Flying
+When Dark Revenant dies, put it on top of its owner's library.
+        </text><tablerow>2
+        </tablerow><type>Creature - Spirit
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/sa69xyvjgh_en.jpg">RTR
+        </set><name>Dead Reveler
+        </name><pt>2/3
+        </pt><color>B
+        </color><text>Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Zombie
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/f3c135cq4p_en.jpg">RTR
+        </set><name>Desecration Demon
+        </name><pt>6/6
+        </pt><color>B
+        </color><text>Flying
+At the beginning of each combat, any opponent may sacrifice a creature. If a player does, tap Desecration Demon and put a +1/+1 counter on it.
+        </text><tablerow>2
+        </tablerow><type>Creature - Demon
+        </type></card><card><color>B
+        </color><text>Destroy target land. Its controller reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Destroy the Evidence
+        </name></card><card><set>RTR
+        </set><name>Deviant Glee
+        </name><color>B
+        </color><text>Enchant creature
+Enchanted creature gets +2/+1 and has &quot;{r}: This creature gains trample until end of turn.&quot;
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set>RTR
+        </set><name>Drainpipe Vermin
+        </name><pt>1/1
+        </pt><color>B
+        </color><text>When Drainpipe Vermin dies, you may pay {b}. If you do, target player discards a card.
+        </text><tablerow>2
+        </tablerow><type>Creature - Rat
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/drudrdnuaw_en.jpg">RTR
+        </set><name>Grave Betrayal
+        </name><color>B
+        </color><text>Whenever a creature you don't control dies, return it to the battlefield under your control with an additional +1/+1 counter on it at the beginning of the next end step. That creature is a black Zombie in addition to its other colors and types.
+        </text><type>Enchantment
+        </type></card><card><color>B
+        </color><text>As an additional cost to cast Launch Party, sacrifice a creature.
+Destroy target creature. Its controller loses 2 life.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Launch Party
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/gzkwhy9n4p_en.jpg">RTR
+        </set><name>Grim Roustabout
+        </name><pt>1/1
+        </pt><color>B
+        </color><text>Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+{1}{B}: Regenerate Grim Roustabout
+        </text><tablerow>2
+        </tablerow><type>Creature - Skeleton Warrior
+        </type></card><card><color>B
+        </color><text>Target player discards two cards.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Mind Rot
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/3korbyr9df_en.jpg">RTR
+        </set><name>Necropolis Regent
+        </name><pt>6/5
+        </pt><color>B
+        </color><text>Flying
+Whenever a creature you control deals combat damage to a player, put that many +1/+1 counters on it.
+        </text><tablerow>2
+        </tablerow><type>Creature - Vampire
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/t028zgvs38_en.jpg">RTR
+        </set><name>Ogre Jailbreaker
+        </name><pt>4/4
+        </pt><color>B
+        </color><text>Defender
+Ogre Jailbreaker can attack as though it didn't have defender as long as you control a Gate.
+        </text><tablerow>2
+        </tablerow><type>Creature - Ogre Rogue
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/azai87ux11_en.jpg">RTR
+        </set><name>Pack Rat
+        </name><pt>*/*
+        </pt><color>B
+        </color><text>Pack Rat's power and toughness are each equal to the number of Rats you control.
+{2}{B}, Discard a card: Put a token onto the battlefield that's a copy of Pack Rat.
+        </text><tablerow>2
+        </tablerow><type>Creature - Rat
+        </type></card><card><set>RTR
+        </set><name>Perilous Shadow
+        </name><pt>0/4
+        </pt><color>B
+        </color><text>{1}{b}: Perilous Shadow gets +2/+2 until end of turn.
+        </text><tablerow>2
+        </tablerow><type>Creature - Insect Shade
+        </type></card><card><set>RTR
+        </set><name>Sewer Shambler
+        </name><pt>2/1
+        </pt><color>B
+        </color><text>Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Scavenge {2}{b} ({2}{b}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Zombie
+        </type></card><card><color>B
+        </color><text>At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, he or she loses 3 life.
+        </text><set>RTR
+        </set><type>Enchantment
+        </type><name>Shrieking Affliction
+        </name></card><card><set>RTR
+        </set><name>Slum Reaper
+        </name><pt>4/2
+        </pt><color>B
+        </color><text>When Slum Reaper enters the battlefield, each player sacrifices a creature.
+        </text><tablerow>2
+        </tablerow><type>Creature - Horror
+        </type></card><card><set>RTR
+        </set><name>Stab Wound
+        </name><color>B
+        </color><text>Enchant creature
+Enchanted creature gets -2/-2.
+At the beginning of the upkeep of enchantment creature's controller, that player loses 2 life.
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set>RTR
+        </set><name>Tavern Swindler
+        </name><pt>2/2
+        </pt><color>B
+        </color><text>{t}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Rogue
+        </type></card><card><set>RTR
+        </set><name>Terrus Wurm
+        </name><pt>5/5
+        </pt><color>B
+        </color><text>Scavenge {6}{b} ({6}{b}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Zombie Wurm
+        </type></card><card><set>RTR
+        </set><name>Thrill-Kill Assassin
+        </name><pt>1/2
+        </pt><color>B
+        </color><text>Deathtouch
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Assassin
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/7xz7vlwvp1_en.jpg">RTR
+        </set><name>Ultimate Price
+        </name><color>B
+        </color><text>Destroy target monocolored creature.
+        </text><type>Instant
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/os4rc9v1ti_en.jpg">RTR
+        </set><name>Underworld Connections
+        </name><color>B
+        </color><text>Enchant Land
+Enchanted Land has &quot;{T}, Pay 1 life: Draw a card&quot;
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set>RTR
+        </set><name>Zanikev Locust
+        </name><pt>3/3
+        </pt><color>B
+        </color><text>Scavenge {2}{b}{b} ({2}{b}{b}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Insect
+        </type></card><card><color>R
+        </color><text>Annihilating Fire deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Annihilating Fire
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/lr5c9ffzor_en.jpg">RTR
+        </set><name>Ash Zealot
+        </name><pt>2/2
+        </pt><color>R
+        </color><text>First strike, haste
+Whenever a player casts a spell from a graveyard, Ash Zealot deals 3 damage to that player.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Warrior
+        </type></card><card><set>RTR
+        </set><name>Batterhorn
+        </name><pt>4/3
+        </pt><color>R
+        </color><text>When Batterhorn enters the battlefield, you may destroy target artifact.
+        </text><tablerow>2
+        </tablerow><type>Creature - Beast
+        </type></card><card><set>RTR
+        </set><name>Bellows Lizard
+        </name><pt>1/1
+        </pt><color>R
+        </color><text>{1}{R}: Bellows Lizard gets +1/+0 until end of turn.
+        </text><tablerow>2
+        </tablerow><type>Creature - Lizard
+        </type></card><card><set>RTR
+        </set><name>Bloodfray Giant
+        </name><pt>4/3
+        </pt><color>R
+        </color><text>Trample
+Unleash
+        </text><tablerow>2
+        </tablerow><type>Creature - Giant
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/0ut64kj7yl_en.jpg">RTR
+        </set><name>Chaos Imps
+        </name><pt>6/5
+        </pt><color>R
+        </color><text>Flying
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+Chaos Imps has trample as long as it has a +1/+1 counter on it.
+        </text><tablerow>2
+        </tablerow><type>Creature - Imp
+        </type></card><card><set>RTR
+        </set><name>Cobblebrute
+        </name><pt>5/2
+        </pt><color>R
+        </color><tablerow>2
+        </tablerow><type>Creature - Elemental
+        </type></card><card><color>R
+        </color><text>Target creature you control gets +2/+0 until end of turn.
+Overload {2}{R}
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Dynacharge
+        </name></card><card><color>R
+        </color><text>Electrickery deals 1 damage to target creature you don't control.
+Overload {1}{R}
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Electrickery
+        </name></card><card><color>R
+        </color><text>Explosive Impact deals 5 damage to target creature or player.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Explosive Impact
+        </name></card><card><color>R
+        </color><text>Put four 1/1 red Goblin creature tokens onto the battlefield.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Goblin Rally
+        </name></card><card><set>RTR
+        </set><name>Gore-House Chainwalker
+        </name><pt>2/1
+        </pt><color>R
+        </color><text>Unleash
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Warrior
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/semc4b37w6_en.jpg">RTR
+        </set><name>Guild Feud
+        </name><color>R
+        </color><text>At the beginning of your upkeep, target opponent reveals the top three cards of his or her library, may put a creature card from among them onto the battlefield, then puts the rest into his or her graveyard. You do the same, with the top three cards of your library. If two creatures are put onto the battlefield this way, those creatures fight each other.
+        </text><type>Enchantment
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/lbklumm7it_en.jpg">RTR
+        </set><name>Guttersnipe
+        </name><pt>2/2
+        </pt><color>R
+        </color><text>Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.
+        </text><tablerow>2
+        </tablerow><type>Creature - Goblin Shaman
+        </type></card><card><set>RTR
+        </set><name>Lobber Crew
+        </name><pt>0/4
+        </pt><color>R
+        </color><text>Defender
+{T}: Lobber Crew deals 1 damage to each opponent.
+Whenever you cast a multicolored spell, untap Lobber Crew.
+        </text><tablerow>2
+        </tablerow><type>Creature - Goblin Warrior
+        </type></card><card><set>RTR
+        </set><name>Minotaur Aggressor
+        </name><pt>6/2
+        </pt><color>R
+        </color><text>First strike, haste
+        </text><tablerow>2
+        </tablerow><type>Creature - Minotaur Berserker
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/qj9wo0g77x_en.jpg">RTR
+        </set><name>Mizzium Mortars
+        </name><color>R
+        </color><text>Mizzium Mortars deals 4 damage to target creature you don't control.
+Overload {3}{R}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of &quot;target&quot; with &quot;each&quot;.)
+        </text><type>Sorcery
+        </type></card><card><set>RTR
+        </set><name>Pursuit of Flight
+        </name><color>R
+        </color><text>Enchant creature
+Enchanted creature gets +2/+2 and has &quot;{U}: This creature gains flying until end of turn.&quot;
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/aiec49yiq3_en.jpg">RTR
+        </set><name>Pyroconvergence
+        </name><color>R
+        </color><text>Whenever you cast a multicolored spell, Pyroconvergence deals 2 damage to target creature or player.
+        </text><type>Enchantment
+        </type></card><card><set>RTR
+        </set><name>Racecourse Fury
+        </name><color>R
+        </color><text>Enchant land
+Enchanted land has &quot;{T}: Target creature gains haste until end of turn.&quot;
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set>RTR
+        </set><name>Splatter Thug
+        </name><pt>2/2
+        </pt><color>R
+        </color><text>First strike
+Unleash
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Warrior
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/wj82f9a8wb_en.jpg">RTR
+        </set><name>Street Spasm
+        </name><color>R
+        </color><text>Street Spasm deals X damage to target creature without flying you don't control.
+Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of &quot;target&quot; with &quot;each&quot;.)
+        </text><type>Instant
+        </type></card><card><color>R
+        </color><text>Destroy target land. Put a 1/1 red Goblin creature token onto the battlefield.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Survey the Wreckage
+        </name></card><card><set>RTR
+        </set><name>Tenement Crasher
+        </name><pt>5/4
+        </pt><color>R
+        </color><text>Haste
+        </text><tablerow>2
+        </tablerow><type>Creature - Beast
+        </type></card><card><color>R
+        </color><text>Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Traitorous Instinct
+        </name></card><card><set>RTR
+        </set><name>Utvara Hellkite
+        </name><pt>6/6
+        </pt><color>R
+        </color><text>Flying
+Whenever a Dragon you control attacks, put a 6/6 red Dragon creature token with flying onto the battlefield.
+        </text><tablerow>2
+        </tablerow><type>Creature - Dragon
+        </type></card><card><color>R
+        </color><text>Destroy target artifact you don't control.
+Overload {4}{R}
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Vandalblast
+        </name></card><card><set>RTR
+        </set><name>Viashino Racketeer
+        </name><pt>2/1
+        </pt><color>R
+        </color><text>When Viashino Racketeer enters the battlefield, you may discard a card. If you do, draw a card.
+        </text><tablerow>2
+        </tablerow><type>Creature - Viashino Rogue
+        </type></card><card><color>G
+        </color><text>Destroy target creature with flying. You gain 2 life
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Aerial Predation
+        </name></card><card><set>RTR
+        </set><name>Archweaver
+        </name><pt>5/5
+        </pt><color>G
+        </color><text>Reach, trample
+        </text><tablerow>2
+        </tablerow><type>Creature - Spider
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/ihefndxirz_en.jpg">RTR
+        </set><name>Axebane Guardian
+        </name><pt>0/3
+        </pt><color>G
+        </color><text>Defender
+{T}: Add X mana in any combination of colors to your mana pool, where X is the number of creatures with defender you control.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Druid
+        </type></card><card><set>RTR
+        </set><name>Axebane Stag
+        </name><pt>6/7
+        </pt><color>G
+        </color><tablerow>2
+        </tablerow><type>Creature - Elk
+        </type></card><card><set>RTR
+        </set><name>Brushstrider
+        </name><pt>3/1
+        </pt><color>G
+        </color><text>Vigilance
+        </text><tablerow>2
+        </tablerow><type>Creature - Beast
+        </type></card><card><set>RTR
+        </set><name>Centaur's Herald
+        </name><pt>0/1
+        </pt><color>G
+        </color><text>{2}{G}, Sacrifice Centaur's Herald: Put a 3/3 green Centaur creature token onto the battlefield.
+        </text><tablerow>2
+        </tablerow><type>Creature - Elf Scout
+        </type></card><card><color>G
+        </color><text>Until end of turn, target creature gets +1/+1 for each creature you control and gains trample.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Chorus of Might
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/h6vdop2xgj_en.jpg">RTR
+        </set><name>Deadbridge Goliath
+        </name><pt>5/5
+        </pt><color>G
+        </color><text>Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counter's equal to this card's power on target creature. Scavenge only as a sorcery.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Insect
+        </type></card><card><color>G
+        </color><text>Whenever a creature you control dies, put X +1/+1 counters on target creature you control, where X is the power of the creature that died.
+        </text><set>RTR
+        </set><type>Enchantment
+        </type><name>Death's Presence
+        </name></card><card><set>RTR
+        </set><name>Drudge Beetle
+        </name><pt>2/2
+        </pt><color>G
+        </color><text>Scavenge {5}{G}
+        </text><tablerow>2
+        </tablerow><type>Creature - Insect
+        </type></card><card><color>G
+        </color><text>Prevent all combat damage that would be dealt to you this turn. Populate.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Druid's Deliverance
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/3is3td4sjo_en.jpg">RTR
+        </set><name>Gatecreeper Vine
+        </name><pt>0/2
+        </pt><color>G
+        </color><text>Defender
+When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library.
+        </text><tablerow>2
+        </tablerow><type>Creature - Plant
+        </type></card><card><color>G
+        </color><text>Target creature gets +3/+3 until end of turn.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Giant Growth
+        </name></card><card><set>RTR
+        </set><name>Gobbling Ooze
+        </name><pt>3/3
+        </pt><color>G
+        </color><text>{G}, Sacrifice another creature: Put a +1/+1 counter on Gobbling Ooze.
+        </text><tablerow>2
+        </tablerow><type>Creature - Ooze
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/82xy66syzf_en.jpg">RTR
+        </set><name>Golgari Decoy
+        </name><pt>2/2
+        </pt><color>G
+        </color><text>All creatures able to block Golgari Decoy do so.
+
+Scavenge {3}{G}{G} ({3}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counter's equal to this card's power on target creature. Scavenge only as a sorcery.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Elf Rogue
+        </type></card><card><color>G
+        </color><text>Put a 4/4 green Rhino creature token with trample onto the battlefield, then populate.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Horncaller's Chant
+        </name></card><card><set>RTR
+        </set><name>Korozda Monitor
+        </name><pt>3/3
+        </pt><color>G
+        </color><text>Trample
+Scavenge {5}{G}{G}
+        </text><tablerow>2
+        </tablerow><type>Creature - Lizard
+        </type></card><card><color>G
+        </color><text>Mana Bloom enters the battlefield with X charge counters on it.
+Remove a charge counter from Mana Bloom: Add one mana of any color to your mana pool. Activate this ability only once each turn.
+At the beginning of your upkeep, if Mana Bloom has no charge counters on it, return it to its owner's hand.
+        </text><set>RTR
+        </set><type>Enchantment
+        </type><name>Mana Bloom
+        </name></card><card><set>RTR
+        </set><name>Oak Street Innkeeper
+        </name><pt>1/2
+        </pt><color>G
+        </color><text>As long as it's not your turn, tapped creatures you control have hexproof.
+        </text><tablerow>2
+        </tablerow><type>Creature - Elf
+        </type></card><card><set>RTR
+        </set><name>Rubbleback Rhino
+        </name><pt>3/4
+        </pt><color>G
+        </color><text>Hexproof
+        </text><tablerow>2
+        </tablerow><type>Creature - Rhino
+        </type></card><card><color>G
+        </color><text>Target creature gets +2/+2 until end of turn. Untap that creature.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Savage Surge
+        </name></card><card><color>G
+        </color><text>Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Seek the Horizon
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/s31wxsl5he_en.jpg">RTR
+        </set><name>Slime Molding
+        </name><color>G
+        </color><text>Put an X/X green Ooze creature token onto the battlefield.
+        </text><type>Sorcery
+        </type></card><card><set>RTR
+        </set><name>Stonefare Crocodile
+        </name><pt>3/2
+        </pt><color>G
+        </color><text>{2}{B}: Stonefare Crocodile gains lifelink until end of turn.
+        </text><tablerow>2
+        </tablerow><type>Creature - Crocodile
+        </type></card><card><set>RTR
+        </set><name>Towering Indrik
+        </name><pt>2/4
+        </pt><color>G
+        </color><text>Reach
+        </text><tablerow>2
+        </tablerow><type>Creature - Beast
+        </type></card><card><set>RTR
+        </set><name>Urban Burgeoning
+        </name><color>G
+        </color><text>Enchant land
+Enchanted land has &quot;Untap this land during each other player's untap step.&quot;
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/1x5r5subti_en.jpg">RTR
+        </set><name>Wild Beastmaster
+        </name><pt>1/1
+        </pt><color>G
+        </color><text>Whenever Wild Beastmaster attacks, each other creature you control gets +X/+X until end of turn, where X is Wild Beastmaster's power
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Shaman
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/oq2qdcai68_en.jpg">RTR
+        </set><name>Worldspine Wurm
+        </name><pt>15/15
+        </pt><color>G
+        </color><text>Trample
+When Worldspine Wurm dies, put three 5/5 green Wurm creature tokens with trample onto the battlefield.
+When Worldspine Wurm is put into a graveyard from anywhere, shuffle it into its owner's library.
+        </text><tablerow>2
+        </tablerow><type>Creature - Wurm
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/j7irb14i7v_en.jpg">RTR
+        </set><name>Abrupt Decay
+        </name><color>BG
+        </color><text>Abrupt Decay can't be countered by spells or abilities.
+
+Destroy target nonland permanent with converted mana cost 3 or less.
+        </text><type>Instant
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/9xe52dvmfd_en.jpg">RTR
+        </set><name>Archon of the Triumvirate
+        </name><pt>4/5
+        </pt><color>UW
+        </color><text>Flying
+Whenever Archon of the Triumvirate attacks, detain up to two target nonland permanents your opponents control. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Archon
+        </type></card><card><set>RTR
+        </set><name>Armada Wurm
+        </name><pt>5/5
+        </pt><color>GW
+        </color><text>Trample
+When Armada Wurm enters the battlefield put a 5/5 Wurm creature token with trample onto the battlefield.
+        </text><tablerow>2
+        </tablerow><type>Creature - Wurm
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/ognu5sxpdp_en.jpg">RTR
+        </set><name>Auger Spree
+        </name><color>BR
+        </color><text>Target creature gets +4/-4 until end of turn.
+        </text><type>Instant
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/v77vtw6d7e_en.jpg">RTR
+        </set><name>Azorius Charm
+        </name><color>UW
+        </color><text>Choose one - Creatures you control gain lifelink until end of turn; or draw a card; or put target attacking or blocking creature on top of its owner's library.
+        </text><type>Instant
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/cwmd875bel_en.jpg">RTR
+        </set><name>Call of the Conclave
+        </name><color>GW
+        </color><text>Put a 3/3 green Centaur creature token onto the battlefield.
+        </text><type>Sorcery
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/trasnuy4mp_en.jpg">RTR
+        </set><name>Carnival Hellsteed
+        </name><pt>5/4
+        </pt><color>BR
+        </color><text>First Strike, haste
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Nightmare Horse
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/8zpvwxui8t_en.jpg">RTR
+        </set><name>Centaur Healer
+        </name><pt>3/3
+        </pt><color>GW
+        </color><text>When Centaur Healer enters the battlefield, you gain 3 life.
+        </text><tablerow>2
+        </tablerow><type>Creature - Centaur Cleric
+        </type></card><card><color>RU
+        </color><text>Target creature you don't control gets -2/-0 until end of turn and attacks this turn if able.
+Overload {3}{u}{r} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of &quot;target&quot; with 'each.&quot;)
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Chemister's Trick
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/qokh04tchc_en.jpg">RTR
+        </set><name>Collective Blessing
+        </name><color>GW
+        </color><text>Creatures you control get +3/+3.
+        </text><type>Enchantment
+        </type></card><card><color>GW
+        </color><text>Put a +1/+1 counter on target creature.
+Put a +1/+1 counter on target creature.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Common Bond
+        </name></card><card><color>U
+        </color><text>At the beginning of your upkeep, you may exchange control of Conjured Currency and target permanent you neither own or control.
+        </text><set>RTR
+        </set><type>Enchantment
+        </type><name>Conjured Currency
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/7yprsszxlg_en.jpg">RTR
+        </set><name>Corpsejack Menace
+        </name><pt>4/4
+        </pt><color>BG
+        </color><text>If one or more +1/+1 counters would be placed on a creature you control, twice that many +1/+1 counters are placed instead.
+        </text><tablerow>2
+        </tablerow><type>Creature - Fungus
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/wiapz5izn2_en.jpg">RTR
+        </set><name>Counterflux
+        </name><color>RU
+        </color><text>Counterflux can't be countered by spells or abilities.
+Counter target spell you don't control.
+Overload {1}{U}{U}{R}
+        </text><type>Instant
+        </type></card><card><color>GW
+        </color><text>Put a 3/3 green Centaur creature token onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Coursers' Accord
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/gxddr3o9i9_en.jpg">RTR
+        </set><name>Detention Sphere
+        </name><color>UW
+        </color><text>When Detention Sphere enters the battlefield, you may exile target nonland permanent not named Detention Sphere and all other permanents with the same name as that permanent.
+When Detention Sphere leaves the battlefield, return the exiled cards to the battlefield under their owner's control.
+        </text><type>Enchantment
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/n1dp0ibsae_en.jpg">RTR
+        </set><name>Dramatic Rescue
+        </name><color>UW
+        </color><text>Return target creature to its owner's hand. You gain 2 life.
+        </text><type>Instant
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/jz4oerjvvr_en.jpg">RTR
+        </set><name>Dreadbore
+        </name><color>BR
+        </color><text>Destroy target creature or planeswalker.
+        </text><type>Sorcery
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/gpe5rp56g0_en.jpg">RTR
+        </set><name>Dreg Mangler
+        </name><pt>3/3
+        </pt><color>BG
+        </color><text>Haste
+Scavenge {3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counter's equal to this card's power on target creature. Scavenge only as a sorcery.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Plant Zombie
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/ex8mtsafo2_en.jpg">RTR
+        </set><name>Epic Experiment
+        </name><color>RU
+        </color><text>Exile the top X cards of your library. For each instant or sorcery with converted mana cost X or less among them, you may cast that card without paying its mana cost. Then put all cards exiled this way that weren't cast into your graveyard.
+        </text><type>Sorcery
+        </type></card><card><color>RU
+        </color><text>Counter target creature spell. Essence Backlash deals damage equal to that spell's power to its controller.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Essence Backlash
+        </name></card><card><color>UW
+        </color><text>Counter target spell. You gain 5 life.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Fall of the Gavel
+        </name></card><card><color>RU
+        </color><text>Search your library for an instant card with converted mana cost 3, reveal it, and put it into your hand. Then repeat this process for instant cards with converted mana costs 1 and 2. Then shuffle your library.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Firemind's Foresight
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/y037fhuhnk_en.jpg">RTR
+        </set><name>Goblin Electromancer
+        </name><pt>2/2
+        </pt><color>RU
+        </color><text>Instant and sorcery spells you cast cost {1} less to cast.
+        </text><tablerow>2
+        </tablerow><type>Creature - Goblin Wizard
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/54fhz8uwmh_en.jpg">RTR
+        </set><name>Golgari Charm
+        </name><color>BG
+        </color><text>Choose one - All creatures get -1/-1 until end of turn; or destroy target enchantment; or regenerate each creature you control.
+        </text><type>Instant
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/72z7daok0k_en.jpg">RTR
+        </set><name>Grisly Salvage
+        </name><color>BG
+        </color><text>Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.
+        </text><type>Instant
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/2o8hvhdl7m_en.jpg">RTR
+        </set><name>Havoc Festival
+        </name><color>BR
+        </color><text>Players can't gain life.
+
+At the beginning of each player's upkeep, that player loses half his or her life, rounded up.
+        </text><type>Enchantment
+        </type></card><card><set>RTR
+        </set><name>Hellhole Flailer
+        </name><pt>3/2
+        </pt><color>BR
+        </color><text>Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+{2}{b}{r}, Sacrifice Hellhole Flailer: Hellhole Flailer deals damage equal to its power to target player.
+        </text><tablerow>2
+        </tablerow><type>Creature - Ogre Warrior
+        </type></card><card><color>GW
+        </color><text>Target player gains 7 life.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Heroes' Reunion
+        </name></card><card><set>RTR
+        </set><name>Hussar Patrol
+        </name><pt>2/4
+        </pt><color>UW
+        </color><text>Flash (You may cast this spell any time you could cast an instant.)
+Vigilance
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Knight
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/u5032bzfco_en.jpg">RTR
+        </set><name>Hypersonic Dragon
+        </name><pt>4/4
+        </pt><color>RU
+        </color><text>Flying, haste
+You may cast sorcery spells as though they had flash.
+        </text><tablerow>2
+        </tablerow><type>Creature - Dragon
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/cxee66db2v_en.jpg">RTR
+        </set><name>Isperia, Supreme Judge
+        </name><pt>6/4
+        </pt><color>UW
+        </color><text>Flying
+Whenever a creature attacks you or a planeswalker you control, you may draw a card.
+        </text><tablerow>2
+        </tablerow><type>Legendary Creature - Sphinx
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/dd28ajolf4_en.jpg">RTR
+        </set><name>Izzet Charm
+        </name><color>RU
+        </color><text>Choose One - Counter target noncreature spell unless its controller pays {2}; or Izzet Charm deals 2 damage to target creature; or draw two cards, then discard two cards.
+        </text><type>Instant
+        </type></card><card><set>RTR
+        </set><name>Izzet Staticaster
+        </name><pt>0/3
+        </pt><color>RU
+        </color><text>Flash (You may cast this spell any time you could play an instant.)
+Haste
+{t}: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Wizard
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/o4d0i5bjnc_en.jpg">RTR
+        </set><name>Jarad, Golgari Lich Lord
+        </name><pt>2/2
+        </pt><color>BG
+        </color><text>Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard.
+{1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power.
+Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.
+        </text><tablerow>2
+        </tablerow><type>Legendary Creature - Zombie Elf
+        </type></card><card><color>BG
+        </color><text>Search your library for up to two creature cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Jarad's Orders
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/xfcafifbqs_en.jpg">RTR
+        </set><name>Korozda Guildmage
+        </name><pt>2/2
+        </pt><color>BG
+        </color><text>{1}{B}{G}: Target creature gets +1/+1 and gains intimidate until end of turn.
+{2}{B}{G}, Sacrifice a nontoken creature: Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the sacrificed creature's toughness.
+        </text><tablerow>2
+        </tablerow><type>Creature - Elf Shaman
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/vcdz55v0ue_en.jpg">RTR
+        </set><name>Lotleth Troll
+        </name><pt>2/1
+        </pt><color>BG
+        </color><text>Trample
+Discard a creature card: Put a +1/+1 counter on Lotleth Troll.
+{B}: Regenerate Lotleth Troll.
+        </text><tablerow>2
+        </tablerow><type>Creature - Zombie Troll
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/fpbqi0jmup_en.jpg">RTR
+        </set><name>Loxodon Smiter
+        </name><pt>4/4
+        </pt><color>GW
+        </color><text>Loxodon Smiter can't be countered.
+If a spell or ability an opponent controls causes you to discard Loxodon Smiter, put it onto the battlefield instead of putting it into your graveyard.
+        </text><tablerow>2
+        </tablerow><type>Creature - Elephant Soldier
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/igg7gouel7_en.jpg">RTR
+        </set><name>Lyev Skyknight
+        </name><pt>3/1
+        </pt><color>UW
+        </color><text>Flying
+When Lyev Skyknight enters the battlefield, detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Knight
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/qqy2dwvful_en.jpg">RTR
+        </set><name>Mercurial Chemister
+        </name><pt>2/3
+        </pt><color>RU
+        </color><text>{U},{T}: Draw two cards.
+{R},{T}, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's converted mana cost.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Wizard
+        </type></card><card><set>RTR
+        </set><name>New Prahv Guildmage
+        </name><pt>2/2
+        </pt><color>UW
+        </color><text>{w}{u}: Target creature gains flying until end of turn.
+{3}{w}{u}: Detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Wizard
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/a8c068yg39_en.jpg">RTR
+        </set><name>Nivix Guildmage
+        </name><pt>2/2
+        </pt><color>RU
+        </color><text>{1}{U}{R}: Draw a card, then discard a card.
+{2}{U}{R}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Wizard
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/ejs1auge30_en.jpg">RTR
+        </set><name>Niv-Mizzet, Dracogenius
+        </name><pt>5/5
+        </pt><color>RU
+        </color><text>Flying
+Whenever Niv-Mizzet, Dracogenius deals damage to a player, you may draw a card.
+{U}{R}: Niv-Mizzet deals 1 damage to target creature or player.
+        </text><tablerow>2
+        </tablerow><type>Legendary Creature - Dragon
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/z871xsyflf_en.jpg">RTR
+        </set><name>Rakdos Charm
+        </name><color>BR
+        </color><text>Choose one: exile all cards from target player's graveyard; or destroy target artifact; or each creature deals 1 damage to its controller.
+        </text><type>Instant
+        </type></card><card><set>RTR
+        </set><name>Rakdos Ragemutt
+        </name><pt>3/3
+        </pt><color>BR
+        </color><text>Lifelink, haste
+        </text><tablerow>2
+        </tablerow><type>Creature - Elemental Hound
+        </type></card><card><set>RTR
+        </set><name>Rakdos Ringleader
+        </name><pt>3/1
+        </pt><color>BR
+        </color><text>First strike
+Whenever Rakdos Ringleader deals combat damage to a player, that player discards a card at random.
+{B}: Regenerate Rakdos Ringleader.
+        </text><tablerow>2
+        </tablerow><type>Creature - Skeleton Warrior
+        </type></card><card><set>RTR
+        </set><name>Rakdos, Lord of Riots
+        </name><pt>6/6
+        </pt><color>BR
+        </color><text>You can't cast Rakdos, Lord of Riots unless an opponent lost life this turn.
+Flying, trample
+Creature spells you cast cost {1} less to cast for each 1 life your opponents have lost this turn.
+        </text><tablerow>2
+        </tablerow><type>Legendary Creature - Demon
+        </type></card><card><color>BR
+        </color><text>Rakdos's Return deals X damage to target opponent. That player discards X cards.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Rakdos's Return
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/4zuyvhln14_en.jpg">RTR
+        </set><name>Righteous Authority
+        </name><color>UW
+        </color><text>Enchant creature
+Enchanted creature gets +1/+1 for each card in its controller's hand.
+At the beginning of the draw step of the enchanted creature's controller, that player draws an additional card.
+        </text><tablerow>1
+        </tablerow><type>Enchantment - Aura
+        </type></card><card><set>RTR
+        </set><name>Risen Sanctuary
+        </name><pt>8/8
+        </pt><color>GW
+        </color><text>Vigilance
+        </text><tablerow>2
+        </tablerow><type>Creature - Elemental
+        </type></card><card><color>BG
+        </color><text>Target creature gets +3/+3 until end of turn. Another target creature gets -3/-3 until end of turn.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Rites of Reaping
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/s15reg2t2t_en.jpg">RTR
+        </set><name>Rix Maadi Guildmage
+        </name><pt>2/2
+        </pt><color>BR
+        </color><text>{B}{R}: Target blocking creature gets -1/-1 until end of turn.
+{B}{R}: Target player who lost life this turn loses 1 life.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Shaman
+        </type></card><card><color>UW
+        </color><text>Target player reveals his or her hand. You gain life equal to the number of cards in that player's hand.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Search Warrant
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/iv4jq46yiu_en.jpg">RTR
+        </set><name>Selesnya Charm
+        </name><color>GW
+        </color><text>Choose one - Target creature gets +2/+2 and gains trample until end of turn; or exile target creature with power 5 or greater; or put a 2/2 white Knight creature token with vigilance onto the battlefield.
+        </text><type>Instant
+        </type></card><card><color>BR
+        </color><text>Skull Rend deals 2 damage to each opponent. Those players each discard two cards at random.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Skull Rend
+        </name></card><card><set>RTR
+        </set><name>Skymark Roc
+        </name><pt>3/3
+        </pt><color>UW
+        </color><text>Flying
+Whenever Skymark Roc attacks, you may return target creature defending player controls with toughness 2 or less to its owner's hand.
+        </text><tablerow>2
+        </tablerow><type>Creature - Bird
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/24u66uet5l_en.jpg">RTR
+        </set><name>Slaughter Games
+        </name><color>BR
+        </color><text>Slaughter Games can't be countered by spells or abilities.
+Name a nonland card. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.
+        </text><type>Sorcery
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/mhv048s1lc_en.jpg">RTR
+        </set><name>Sluiceway Scorpion
+        </name><pt>2/2
+        </pt><color>BG
+        </color><text>Deathtouch
+Scavenge {1}{B}{G} ({1}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counter's equal to this card's power on target creature. Scavenge only as a sorcery.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Scorpion
+        </type></card><card><set>RTR
+        </set><name>Spawn of Rix Maadi
+        </name><pt>5/3
+        </pt><color>BR
+        </color><text>Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Horror
+        </type></card><card><color>UW
+        </color><text>You gain X life and draw X cards.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Sphinx's Revelation
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/fuptxk7wva_en.jpg">RTR
+        </set><name>Supreme Verdict
+        </name><color>UW
+        </color><text>Supreme Verdict can't be countered.
+
+Destroy all creatures.
+        </text><type>Sorcery
+        </type></card><card><color>RU
+        </color><text>Target creature you control gets +1/+0 until end of turn and is unblockable this turn.
+Overload {3}{u}{r} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of &quot;target&quot; with 'each.&quot;)
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Teleportal
+        </name></card><card><color>RU
+        </color><text>Draw four cards, then discard two cards.
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Thoughtflare
+        </name></card><card><color>BG
+        </color><text>Return target card from your graveyard to your hand. Exile Treasured Find.
+        </text><set>RTR
+        </set><type>Sorcery
+        </type><name>Treasured Find
+        </name></card><card><set>RTR
+        </set><name>Trestle Troll
+        </name><pt>1/4
+        </pt><color>BG
+        </color><text>Defender, reach
+{1}{B}{G}: Regenerate Trestle Troll.
+        </text><tablerow>2
+        </tablerow><type>Creature - Troll
+        </type></card><card><set>RTR
+        </set><name>Trostani, Selesnya's Voice
+        </name><pt>2/5
+        </pt><color>GW
+        </color><text>Whenever another creature enters the battlefield under your control, you gain life equal to that creature's toughness.
+{1}{G}{W},{T}: Populate
+        </text><tablerow>2
+        </tablerow><type>Legendary Creature - Dryad
+        </type></card><card><set>RTR
+        </set><name>Vitu-Ghazi Guildmage
+        </name><pt>2/2
+        </pt><color>GW
+        </color><text>{4}{g}{w}: Put a 3/3 green Centaur creature token onto the battlefield.
+{2}{g}{w}: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Dryad Shaman
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/yn1n1r28cd_en.jpg">RTR
+        </set><name>Vraska the Unseen
+        </name><pt>5
+        </pt><color>BG
+        </color><text>+1: Until your next turn, whenever a creature deals combat damage to Vraska the Unseen, destroy that creature.
+-3: Destroy target nonland permanent.
+-7: Put three 1/1 black Assassin tokens onto the battlefield with &quot;Whenever this creature deals combat damage to a player, that player loses the game.&quot;
+        </text><tablerow>1
+        </tablerow><type>Planeswalker - Vraska
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/zj8ipkwz46_en.jpg">RTR
+        </set><name>Wayfaring Temple
+        </name><pt>*/*
+        </pt><color>GW
+        </color><text>Wayfaring Temple's power and toughness are equal to the number of creatures you control.
+Whenever Wayfaring Temple deals combat damage to a player, populate.
+        </text><tablerow>2
+        </tablerow><type>Creature - Elemental
+        </type></card><card><set>RTR
+        </set><name>Azor's Elocutors
+        </name><pt>3/5
+        </pt><color>UW
+        </color><text>At the beginning of your upkeep, put a filibuster counter on Azor's Elocutors. Then if Azor's Elocutors has five or more filibuster counters on it, you win the game.
+Whenever a source deals damage to you, remove a filibuster counter from Azor's Elocutors.
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Advisor
+        </type></card><card><set>RTR
+        </set><name>Blistercoil Weird
+        </name><pt>1/1
+        </pt><color>RU
+        </color><text>Whenever you cast an instant or sorcery spell, Blistercoil Weird gets +1/+1 until end of turn. Untap it.
+        </text><tablerow>2
+        </tablerow><type>Creature - Weird
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/3hpwnaketa_en.jpg">RTR
+        </set><name>Cryptborn Horror
+        </name><pt>0/0
+        </pt><color>BR
+        </color><text>Trample
+Cryptborn Horror enters the battlefield with X +1/+1 counters on it, where X is the total life lost by your opponents this turn.
+        </text><tablerow>2
+        </tablerow><type>Creature - Horror
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/p0ghs66e0s_en.jpg">RTR
+        </set><name>Deathrite Shaman
+        </name><pt>1/2
+        </pt><color>BG
+        </color><text>{t}: Exile target land from a graveyard. Add one mana of any color to your mana pool.
+{b}, {t}: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.
+{g}, {t}: Exile target creature card from a graveyard. You gain 2 life.
+        </text><tablerow>2
+        </tablerow><type>Creature - Elf Shaman
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/4xfhqpt6ek_en.jpg">RTR
+        </set><name>Dryad Militant
+        </name><pt>2/1
+        </pt><color>GW
+        </color><text>If an instant or sorcery would be put in a graveyard from anywhere, exile it instead.
+        </text><tablerow>2
+        </tablerow><type>Creature - Dryad Soldier
+        </type></card><card><set>RTR
+        </set><name>Frostburn Weird
+        </name><pt>1/4
+        </pt><color>RU
+        </color><text>{ur}: Frostburn Weird gets +1/-1 until end of turn.
+        </text><tablerow>2
+        </tablerow><type>Creature - Weird
+        </type></card><card><set>RTR
+        </set><name>Golgari Longlegs
+        </name><pt>5/4
+        </pt><color>BG
+        </color><tablerow>2
+        </tablerow><type>Creature - Insect
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/z32gybj8gq_en.jpg">RTR
+        </set><name>Growing Ranks
+        </name><color>GW
+        </color><text>At the beginning of your upkeep, populate.
+        </text><type>Enchantment
+        </type></card><card><set>RTR
+        </set><name>Judge's Familiar
+        </name><pt>1/1
+        </pt><color>UW
+        </color><text>Flying
+Sacrifice Judge's Familiar : Counter target instant or sorcery spell unless its controller pays {1}.
+        </text><tablerow>2
+        </tablerow><type>Creature - Bird
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/t3xc7vq9ct_en.jpg">RTR
+        </set><name>Nivmagus Elemental
+        </name><pt>1/2
+        </pt><color>RU
+        </color><text>Exile an instant or sorcery spell you control: Put two +1/+1 counters on Nivmagus Elemental.
+        </text><tablerow>2
+        </tablerow><type>Creature - Elemental
+        </type></card><card><set>RTR
+        </set><name>Rakdos Cackler
+        </name><pt>1/1
+        </pt><color>BR
+        </color><text>Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Devil
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/spvky7yhe2_en.jpg">RTR
+        </set><name>Rakdos Shred-Freak
+        </name><pt>2/1
+        </pt><color>BR
+        </color><text>Haste
+        </text><tablerow>2
+        </tablerow><type>Creature - Human Berserker
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/gewwwe8ga3_en.jpg">RTR
+        </set><name>Slitherhead
+        </name><pt>1/1
+        </pt><color>BG
+        </color><text>Scavenge {0} ({0}, Exile this card from your graveyard: Put a number of +1/+1 counter's equal to this card's power on target creature. Scavenge only as a sorcery.)
+        </text><tablerow>2
+        </tablerow><type>Creature - Plant Zombie
+        </type></card><card><color>GW
+        </color><text>Destroy target artifact or enchantment, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
+        </text><set>RTR
+        </set><type>Instant
+        </type><name>Sundering Growth
+        </name></card><card><set>RTR
+        </set><name>Vassal Soul
+        </name><pt>2/2
+        </pt><color>UW
+        </color><text>Flying
+        </text><tablerow>2
+        </tablerow><type>Creature - Spirit
+        </type></card><card><color></color><text>{T} : Add {W} or {U} to your mana pool.
+{W}{U}: Azorius Keyrune becomes a 2/2 Blue and White  artifact creature with flying until end of turn.
+        </text><set>RTR
+        </set><type>Artifact
+        </type><name>Azorius Keyrune
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/8dr1r2rnte_en.jpg">RTR
+        </set><name>Chromatic Lantern
+        </name><color></color><text>Lands you control have &quot;{t}: Add one mana of any color to your mana pool.&quot;
+{t}: Add one mana of any color to your mana pool.
+        </text><type>Artifact
+        </type></card><card><set>RTR
+        </set><name>Civic Saber
+        </name><color></color><text>Equipped creature gets +1/+0 for each of its colors.
+Equip {1}
+        </text><tablerow>1
+        </tablerow><type>Artifact - Equipment
+        </type></card><card><color></color><text>{T}: Target player puts the top card of his or her library into his or her graveyard.
+{5}, {T}, Sacrifice Codex Shredder : Return target card from your graveyard to your hand.
+        </text><set>RTR
+        </set><type>Artifact
+        </type><name>Codex Shredder
+        </name></card><card><color></color><text>{T}: Add {B} or {G} to your mana pool.
+{B}{G}: Until end of turn, Golgari Keyrune becomes a 2/2 black and green Insect artifact creature with deathtouch.
+        </text><set>RTR
+        </set><type>Artifact
+        </type><name>Golgari Keyrune
+        </name></card><card><color></color><text>{T}: Add {U} or {R} to your mana pool.
+{U}{R}:Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature.
+Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. If you do, discard a card.
+        </text><set>RTR
+        </set><type>Artifact
+        </type><name>Izzet Keyrune
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/jj5cgxleev_en.jpg">RTR
+        </set><name>Pithing Needle
+        </name><color></color><text>As Pithing Needle enters the battlefield, name a card.
+Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
+        </text><type>Artifact
+        </type></card><card><color></color><text>{T}: Add {B} or {R} to your mana pool.
+{B}{R}: Until end of turn, Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature with first strike.
+        </text><set>RTR
+        </set><type>Artifact
+        </type><name>Rakdos Keyrune
+        </name></card><card><color></color><text>{T}: Add {G} or {W} to your mana pool.
+{G}{W}: Until end of turn, Selesnya Keyrune becomes a 3/3 green and white Wolf artifact creature.
+        </text><set>RTR
+        </set><type>Artifact
+        </type><name>Selesnya Keyrune
+        </name></card><card><set>RTR
+        </set><name>Street Sweeper
+        </name><pt>4/6
+        </pt><color></color><text>Whenever Street Sweeper attacks, destroy all Auras attached to target land.
+        </text><tablerow>2
+        </tablerow><type>Artifact Creature - Construct
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/9xdkmvldw3_en.jpg">RTR
+        </set><name>Tablet of the Guilds
+        </name><color></color><text>As Tablet of the Guilds enters the battlefield, choose two colors.
+Whenever you cast a spell, if it's at least one  of the chosen colors, you gain 1 life for each of the chosen colors it is.
+        </text><type>Artifact
+        </type></card><card><set>RTR
+        </set><name>Volatile Rig
+        </name><pt>4/4
+        </pt><color></color><text>Trample
+Volatile Rig attacks each turn if able.
+Whenever Volatile Rig is dealt damage, flip a coin. If you lose the flip, sac Volatile Rig.
+When Volatile Rig dies, flip a coin. If you lose the flip, Volatile Rig deals 4 damage to each creature and player.
+        </text><tablerow>2
+        </tablerow><type>Artifact Creature - Construct
+        </type></card><card><tablerow>0
+        </tablerow><text>Azorius Guildgate enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.
+        </text><set>RTR
+        </set><type>Land - Gate
+        </type><name>Azorius Guildgate
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/ya1jfo1heq_en.jpg">RTR
+        </set><name>Blood Crypt
+        </name><tablerow>0
+        </tablerow><text>({T}: Add {B} or {R} to your mana pool.)
+As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.
+        </text><type>Land - Swamp Mountain
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/gp2xe7od51_en.jpg">RTR
+        </set><name>Golgari Guildgate
+        </name><tablerow>0
+        </tablerow><text>Golgari Guildgate enters the battlefield tapped.
+{T}: Add {B} or {G} to your mana pool.
+        </text><type>Land - Gate
+        </type></card><card><text>{T}: Add {1} to your mana pool.
+{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Put an 8/8 green and white Elemental Creature token with vigilance on to the battlefield.
+        </text><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/rbwt4w7hrt_en.jpg">RTR
+        </set><type>Land
+        </type><name>Grove of the Guardian
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/yv1r4rw3wr_en.jpg">RTR
+        </set><name>Hallowed Fountain
+        </name><tablerow>0
+        </tablerow><text>({T}: Add {W} or {U} to your mana pool.)
+As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, Hallowed Fountain enters the battlefield tapped.
+        </text><type>Land - Plains Island
+        </type></card><card><tablerow>0
+        </tablerow><text>Izzet Guildgate enters the battlefield tapped.
+{T}: Add {U} or {R} to your mana pool.
+        </text><set>RTR
+        </set><type>Land - Gate
+        </type><name>Izzet Guildgate
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/jycv4cdk5f_en.jpg">RTR
+        </set><name>Overgrown Tomb
+        </name><tablerow>0
+        </tablerow><text>({T}: Add {B} or {G} to your mana pool.)
+As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped
+        </text><type>Land - Swamp Forest
+        </type></card><card><tablerow>0
+        </tablerow><text>Rakdos Guildgate enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.
+        </text><set>RTR
+        </set><type>Land - Gate
+        </type><name>Rakdos Guildgate
+        </name></card><card><text>{t}: Add {1} to your mana pool.
+{4}, {t}: Target creature is unblockable this turn.
+        </text><set>RTR
+        </set><type>Land
+        </type><name>Rogue's Passage
+        </name></card><card><tablerow>0
+        </tablerow><text>Selesyna Guildgate enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.
+        </text><set>RTR
+        </set><type>Land - Gate
+        </type><name>Selesnya Guildgate
+        </name></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/fug33dgl65_en.jpg">RTR
+        </set><name>Steam Vents
+        </name><tablerow>0
+        </tablerow><text>({T}: Add {U} or {R} to your mana pool.)
+As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.
+        </text><type>Land - Island Mountain
+        </type></card><card><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/q03swp81d5_en.jpg">RTR
+        </set><name>Temple Garden
+        </name><tablerow>0
+        </tablerow><text>({T}: Add {g} or {w} to your mana pool.)
+As Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.
+        </text><type>Land - Forest Plains
+        </type></card><card><text>Transguild Promenade enters the battlefield tapped.
+When Transguild Promenade enters the battlefield, sacrifice it unless you pay {1}.
+{t}: Add one mana of any color to your mana pool.
+        </text><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/86qwigothu_en.jpg">RTR
+        </set><type>Land
+        </type><name>Transguild Promenade
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1miyuw6zm_en.jpg">RTR
+        </set><type>Basic Land - Plains
+        </type><name>Plains
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1miyuw6zm_en.jpg">RTR
+        </set><type>Basic Land - Plains
+        </type><name>Plains
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1miyuw6zm_en.jpg">RTR
+        </set><type>Basic Land - Plains
+        </type><name>Plains
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1miyuw6zm_en.jpg">RTR
+        </set><type>Basic Land - Plains
+        </type><name>Plains
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1miyuw6zm_en.jpg">RTR
+        </set><type>Basic Land - Plains
+        </type><name>Plains
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/5k33eb77l8_en.jpg">RTR
+        </set><type>Basic Land - Island
+        </type><name>Island
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/5k33eb77l8_en.jpg">RTR
+        </set><type>Basic Land - Island
+        </type><name>Island
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/5k33eb77l8_en.jpg">RTR
+        </set><type>Basic Land - Island
+        </type><name>Island
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/5k33eb77l8_en.jpg">RTR
+        </set><type>Basic Land - Island
+        </type><name>Island
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/5k33eb77l8_en.jpg">RTR
+        </set><type>Basic Land - Island
+        </type><name>Island
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/v1c5wix5gt_en.jpg">RTR
+        </set><type>Basic Land - Swamp
+        </type><name>Swamp
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/v1c5wix5gt_en.jpg">RTR
+        </set><type>Basic Land - Swamp
+        </type><name>Swamp
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/v1c5wix5gt_en.jpg">RTR
+        </set><type>Basic Land - Swamp
+        </type><name>Swamp
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/v1c5wix5gt_en.jpg">RTR
+        </set><type>Basic Land - Swamp
+        </type><name>Swamp
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/v1c5wix5gt_en.jpg">RTR
+        </set><type>Basic Land - Swamp
+        </type><name>Swamp
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/umgw2a013e_en.jpg">RTR
+        </set><type>Basic Land - Mountain
+        </type><name>Mountain
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/umgw2a013e_en.jpg">RTR
+        </set><type>Basic Land - Mountain
+        </type><name>Mountain
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/umgw2a013e_en.jpg">RTR
+        </set><type>Basic Land - Mountain
+        </type><name>Mountain
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/umgw2a013e_en.jpg">RTR
+        </set><type>Basic Land - Mountain
+        </type><name>Mountain
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/umgw2a013e_en.jpg">RTR
+        </set><type>Basic Land - Mountain
+        </type><name>Mountain
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1kk5gnnth_en.jpg">RTR
+        </set><type>Basic Land - Forest
+        </type><name>Forest
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1kk5gnnth_en.jpg">RTR
+        </set><type>Basic Land - Forest
+        </type><name>Forest
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1kk5gnnth_en.jpg">RTR
+        </set><type>Basic Land - Forest
+        </type><name>Forest
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1kk5gnnth_en.jpg">RTR
+        </set><type>Basic Land - Forest
+        </type><name>Forest
+        </name></card><card><tablerow>0
+        </tablerow><set picURL="http://media.wizards.com/images/magic/tcg/products/rtr/c1kk5gnnth_en.jpg">RTR
+        </set><type>Basic Land - Forest
+        </type><name>Forest
+	</name></card></cards>
