@@ -54,12 +54,16 @@ def generate_pack(mythics, rares, uncommons, commons, basic_lands=None):
 with open('cards.txt') as f:
 	cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
 
+	for card in cards:
+		if str(card).find('Mythic Rare') > -1:
+			logging.info(str(card) + '\n')
+
 def r(cards, rarity):
 	return [card.name for card in cards if card.rarity == rarity]
 
 def gen_pack(card_pool):
 	"""Generate a normal pack of cards for sealed"""
-	return generate_pack(mythics=(card_pool, 'Mythic Rare'), rares=r(card_pool, 'Rare'), uncommons=r(card_pool, 'Uncommon'), commons=r(card_pool, 'Common'), basic_lands=r(card_pool, 'Basic Land'))
+	return generate_pack(mythics=r(card_pool, 'Mythic Rare'), rares=r(card_pool, 'Rare'), uncommons=r(card_pool, 'Uncommon'), commons=r(card_pool, 'Common'), basic_lands=r(card_pool, 'Basic Land'))
 
 class MainPage(webapp2.RequestHandler):
 	def get(self):
@@ -122,7 +126,5 @@ class MainPage(webapp2.RequestHandler):
 
 		logging.info('Writing response')
 		self.response.write(deck_file_str.format('\n'.join([card_str.format(number, name) for name, number in pool.items()])))	
-
-
 
 app = webapp2.WSGIApplication([('/', MainPage)], debug=True)
