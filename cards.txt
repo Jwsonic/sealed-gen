@@ -1,4 +1,4 @@
-Angel of Serenity~Mythic Rare~Azorius|Selesnya
+Angel of Serenity~Mythic Rare~None
 Armory Guard~Common~Azorius|Selesnya
 Arrest~Uncommon~Azorius|Selesnya
 Avenging Arrow~Common~Azorius|Selesnya
@@ -25,7 +25,7 @@ Sphere of Safety~Uncommon~Azorius|Selesnya
 Sunspire Griffin~Common~Azorius|Selesnya
 Swift Justice~Common~Azorius|Selesnya
 Trained Caracal~Common~Azorius|Selesnya
-Trostani's Judegment~Common~Azorius|Selesnya
+Trostani's Judgment~Common~Azorius|Selesnya
 Aquus Steed~Uncommon~Azorius|Izzet
 Blustersquall~Uncommon~Azorius|Izzet
 Cancel~Common~Azorius|Izzet
@@ -41,7 +41,7 @@ Hover Barrier~Uncommon~Azorius|Izzet
 Inaction Injunction~Common~Azorius|Izzet
 Inspiration~Common~Azorius|Izzet
 Isperia's Skywatch~Common~Azorius|Izzet
-Jace, Architect of Thought~Mythic Rare~Azorius|Izzet
+Jace, Architect of Thought~Mythic Rare~None
 Mizzium Skin~Common~Azorius|Izzet
 Paralyzing Grasp~Common~Azorius|Izzet
 Psychic Spiral~Uncommon~Azorius|Izzet
@@ -68,7 +68,7 @@ Grave Betrayal~Rare~Golgari|Rakdos
 Launch Party~Common~Golgari|Rakdos
 Grim Roustabout~Common~Golgari|Rakdos
 Mind Rot~Common~Golgari|Rakdos
-Necropolis Regent~Mythic Rare~Golgari|Rakdos
+Necropolis Regent~Mythic Rare~None
 Ogre Jailbreaker~Common~Golgari|Rakdos
 Pack Rat~Rare~Golgari|Rakdos
 Perilous Shadow~Common~Golgari|Rakdos
@@ -107,7 +107,7 @@ Street Spasm~Uncommon~Rakdos|Izzet
 Survey the Wreckage~Common~Rakdos|Izzet
 Tenement Crasher~Common~Rakdos|Izzet
 Traitorous Instinct~Common~Rakdos|Izzet
-Utvara Hellkite~Mythic Rare~Rakdos|Izzet
+Utvara Hellkite~Mythic Rare~None
 Vandalblast~Uncommon~Rakdos|Izzet
 Viashino Racketeer~Common~Rakdos|Izzet
 Aerial Predation~Common~Golgari|Selesnya
@@ -137,10 +137,10 @@ Stonefare Crocodile~Common~Golgari|Selesnya
 Towering Indrik~Common~Golgari|Selesnya
 Urban Burgeoning~Common~Golgari|Selesnya
 Wild Beastmaster~Rare~Golgari|Selesnya
-Worldspine Wurm~Mythic Rare~Golgari|Selesnya
+Worldspine Wurm~Mythic Rare~None
 Abrupt Decay~Rare~Golgari
 Archon of the Triumvirate~Rare~Azorius
-Armada Wurm~Mythic Rare~Selesnya
+Armada Wurm~Mythic Rare~None
 Auger Spree~Common~Rakdos
 Azorius Charm~Uncommon~Azorius
 Call of the Conclave~Uncommon~Selesnya
@@ -156,7 +156,7 @@ Detention Sphere~Rare~Azorius
 Dramatic Rescue~Common~Azorius
 Dreadbore~Rare~Rakdos
 Dreg Mangler~Uncommon~Golgari
-Epic Experiment~Mythic Rare~Izzet
+Epic Experiment~Mythic Rare~None
 Essence Backlash~Common~Izzet
 Fall of the Gavel~Uncommon~Azorius
 Firemind's Foresight~Rare~Izzet
@@ -185,7 +185,7 @@ Rakdos Charm~Uncommon~Rakdos
 Rakdos Ragemutt~Uncommon~Rakdos
 Rakdos Ringleader~Uncommon~Rakdos
 Rakdos, Lord of Riots~Mythic Rare~Rakdos
-Rakdos's Return~Mythic Rare~Rakdos
+Rakdos's Return~Mythic Rare~None
 Righteous Authority~Rare~Azorius
 Risen Sanctuary~Uncommon~Selesnya
 Rites of Reaping~Uncommon~Golgari
@@ -197,7 +197,7 @@ Skymark Roc~Uncommon~Azorius
 Slaughter Games~Rare~Rakdos
 Sluiceway Scorpion~Common~Golgari
 Spawn of Rix Maadi~Common~Rakdos
-Sphinx's Revelation~Mythic Rare~Azorius
+Sphinx's Revelation~Mythic Rare~None
 Supreme Verdict~Rare~Azorius
 Teleportal~Uncommon~Izzet
 Thoughtflare~Uncommon~Izzet
@@ -205,7 +205,7 @@ Treasured Find~Uncommon~Golgari
 Trestle Troll~Common~Golgari
 Trostani, Selesnya's Voice~Mythic Rare~Selesnya
 Vitu-Ghazi Guildmage~Uncommon~Selesnya
-Vraska the Unseen~Mythic Rare~Golgari
+Vraska the Unseen~Mythic Rare~None
 Wayfaring Temple~Rare~Selesnya
 Azor's Elocutors~Rare~Azorius
 Blistercoil Weird~Uncommon~Izzet
