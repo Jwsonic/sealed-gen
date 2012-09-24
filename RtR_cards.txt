@@ -2185,14 +2185,14 @@ Land (13)
 
 Name:	Azorius Guildgate
 Type:	 Land - Gate
-Cost:
+Cost:UW
 Rules Text:	 Azorius Guildgate enters the battlefield tapped.Detain
 {T}: Add {W} or {U} to your mana pool.
 Rarity:	 Common
 
 Name:	Blood Crypt
 Type:	 Land - Swamp Mountain
-Cost:
+Cost:BR
 Rules Text:	 ({T}: Add {B} or {R} to your mana pool.) Unleash
 As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.
 Flavor Text:	 Where the dead serve as diversion, decor, and dessert.
@@ -2202,7 +2202,7 @@ Set Number:	 #238/274
 
 Name:	Golgari Guildgate
 Type:	 Land - Gate
-Cost:
+Cost:GB
 Rules Text:	 Golgari Guildgate enters the battlefield tapped. Scavenge
 {T}: Add {B} or {G} to your mana pool.
 Flavor Text:	 Enter those who are starving and sick. You are welcome among the Swarm when the rest of Ravnica rejects you.
@@ -2212,7 +2212,7 @@ Set Number:	 #239/274
 
 Name:	Grove of the Guardian
 Type:	 Land
-Cost:
+Cost:GW
 Rules Text:	 {T}: Add {1} to your mana pool. Populate
 {3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Put an 8/8 green and white Elemental Creature token with vigilance on to the battlefield.
 Illus.	 Christine Choi
@@ -2221,7 +2221,7 @@ Set Number:	 #240/274
 
 Name:	Hallowed Fountain
 Type:	 Land - Plains Island
-Cost:
+Cost:UW
 Rules Text:	 ({T}: Add {W} or {U} to your mana pool.) Detain
 As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, Hallowed Fountain enters the battlefield tapped.
 Flavor Text:	 A place to relax, if you have the proper permit.
@@ -2231,14 +2231,14 @@ Set Number:	 #241/274
 
 Name:	Izzet Guildgate
 Type:	 Land - Gate
-Cost:
+Cost:UR
 Rules Text:	 Izzet Guildgate enters the battlefield tapped. Overload
 {T}: Add {U} or {R} to your mana pool.
 Rarity:	 Common
 
 Name:	Overgrown Tomb
 Type:	 Land - Swamp Forest
-Cost:
+Cost:BG
 Rules Text:	 ({T}: Add {B} or {G} to your mana pool.) Scavenge
 As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped
 Flavor Text:	 The best funeral shroud is the fabric of new life.
@@ -2248,7 +2248,7 @@ Set Number:	 #243/274
 
 Name:	Rakdos Guildgate
 Type:	 Land - Gate
-Cost:
+Cost:RB
 Rules Text:	 Rakdos Guildgate enters the battlefield tapped. Unleash
 {T}: Add {B} or {R} to your mana pool.
 Rarity:	 Common
@@ -2264,14 +2264,14 @@ Rarity:	 Uncommon
 
 Name:	Selesnya Guildgate
 Type:	 Land - Gate
-Cost:
+Cost:GW
 Rules Text:	 Selesyna Guildgate enters the battlefield tapped. Populate
 {T}: Add {G} or {W} to your mana pool.
 Rarity:	 Common
 
 Name:	Steam Vents
 Type:	 Land - Island Mountain
-Cost:
+Cost: U/R
 Rules Text:	 ({T}: Add {U} or {R} to your mana pool.) Overload
 As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.
 Flavor Text:	 Crafted with genius, energized with madness.
@@ -2281,7 +2281,7 @@ Set Number:	 #247/274
 
 Name:	Temple Garden
 Type:	 Land - Forest Plains
-Cost:
+Cost: W/G
 Rules Text:	 ({T}: Add {g} or {w} to your mana pool.) Populate
 As Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.
 Flavor Text:	 In the gardens of the Conclave, order and beauty are the roots of power.

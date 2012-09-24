@@ -14,11 +14,18 @@ keywords = [('DETAIN', AZORIUS), ('SCAVENGE', GOLGARI), ('OVERLOAD', IZZET), ('U
 def cost_check(line):
 	u = line.upper()
 
-	for c in colors:
-		if u.find(c[0][0]) > -1 and u.find(c[0][1]) > -1:
-			return c[1]
+	guilds = set()
 
-	return None
+	for c in colors:
+		if u.find(c[0][0]) > -1 and u.find(c[0][1]) > -1: #solidly in one guild
+			return c[1]
+		elif u.find(c[0][0]) > -1 or u.find(c[0][1]) > -1: #in two guilds
+			guilds.add(c[1])
+
+	if len(guilds) == 0:
+		return None
+
+	return '|'.join(guilds)
 
 def keyword_check(line):
 	u = line.upper()
@@ -38,12 +45,12 @@ if __name__ == '__main__':
 		names = [line[6:-1] for line in lines if line.startswith('Name:')]
 		rarities = [line[9:-1] for line in lines if line.startswith('Rarity:')]
 		
-		costs = [cost_check(line) for line in lines if line.startswith('Cost:')]
-		keywords = [keyword_check(line) for line in lines if line.startswith('Rules Text:')]
+		costs = [cost_check(line) or 'None' for line in lines if line.startswith('Cost:')]
+		#keywords = [keyword_check(line) for line in lines if line.startswith('Rules Text:')]
 
-		guilds = [pair[0] or pair[1] or 'None' for pair in zip(costs, keywords)]
+		#guilds = [pair[0] or pair[1] or 'None' for guild in zip(costs, keywords)]
 
-		cards = [(names[i], rarities[i], guilds[i]) for i in range(len(names))]
+		cards = [(names[i], rarities[i], costs[i]) for i in range(len(names))]
 
 		conn = sqlite3.connect('rtr.sqlite')
 		c = conn.cursor()

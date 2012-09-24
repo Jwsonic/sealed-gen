@@ -1,0 +1,255 @@
+name~rarity~guild
+Angel of Serenity~Mythic Rare~Azorius|Selesnya
+Armory Guard~Common~Azorius|Selesnya
+Arrest~Uncommon~Azorius|Selesnya
+Avenging Arrow~Common~Azorius|Selesnya
+Azorius Arrester~Common~Azorius|Selesnya
+Azorius Justiciar~Uncommon~Azorius|Selesnya
+Bazaar Krovod~Uncommon~Azorius|Selesnya
+Concordia Pegasus~Common~Azorius|Selesnya
+Ethereal Armor~Common~Azorius|Selesnya
+Eyes in the Skies~Common~Azorius|Selesnya
+Fencing Ace~Uncommon~Azorius|Selesnya
+Keening Apparition~Common~Azorius|Selesnya
+Knightly Valor~Common~Azorius|Selesnya
+Martial Law~Rare~Azorius|Selesnya
+Palisade Giant~Rare~Azorius|Selesnya
+Phantom General~Uncommon~Azorius|Selesnya
+Precinct Captain~Rare~Azorius|Selesnya
+Rest in Peace~Rare~Azorius|Selesnya
+Rootborn Defenses~Common~Azorius|Selesnya
+Security Blockade~Uncommon~Azorius|Selesnya
+Selesnya Sentry~Common~Azorius|Selesnya
+Seller of Songbirds~Common~Azorius|Selesnya
+Soul Tithe~Uncommon~Azorius|Selesnya
+Sphere of Safety~Uncommon~Azorius|Selesnya
+Sunspire Griffin~Common~Azorius|Selesnya
+Swift Justice~Common~Azorius|Selesnya
+Trained Caracal~Common~Azorius|Selesnya
+Trostani's Judgment~Common~Azorius|Selesnya
+Aquus Steed~Uncommon~Azorius|Izzet
+Blustersquall~Uncommon~Azorius|Izzet
+Cancel~Common~Azorius|Izzet
+Chronic Flooding~Common~Azorius|Izzet
+Conjured Currency~Rare~Azorius|Izzet
+Crosstown Courier~Common~Azorius|Izzet
+Cyclonic Rift~Rare~Azorius|Izzet
+Dispel~Common~Azorius|Izzet
+Doorkeeper~Common~Azorius|Izzet
+Downsize~Common~Azorius|Izzet
+Faerie Impostor~Uncommon~Azorius|Izzet
+Hover Barrier~Uncommon~Azorius|Izzet
+Inaction Injunction~Common~Azorius|Izzet
+Inspiration~Common~Azorius|Izzet
+Isperia's Skywatch~Common~Azorius|Izzet
+Jace, Architect of Thought~Mythic Rare~Azorius|Izzet
+Mizzium Skin~Common~Azorius|Izzet
+Paralyzing Grasp~Common~Azorius|Izzet
+Psychic Spiral~Uncommon~Azorius|Izzet
+Runewing~Common~Azorius|Izzet
+Search the City~Rare~Azorius|Izzet
+Skyline Predator~Uncommon~Azorius|Izzet
+Soulsworn Spirit~Uncommon~Azorius|Izzet
+Sphinx of the Chimes~Rare~Azorius|Izzet
+Stealer of Secrets~Common~Azorius|Izzet
+Syncopate~Uncommon~Azorius|Izzet
+Tower Drake~Common~Azorius|Izzet
+Voidwielder~Common~Azorius|Izzet
+Assassin's Strike~Uncommon~Golgari|Rakdos
+Catacomb Slug~Common~Golgari|Rakdos
+Cremate~Common~Golgari|Rakdos
+Daggerdrome Imp~Common~Golgari|Rakdos
+Dark Revenant~Uncommon~Golgari|Rakdos
+Dead Reveler~Common~Golgari|Rakdos
+Desecration Demon~Rare~Golgari|Rakdos
+Destroy the Evidence~Common~Golgari|Rakdos
+Deviant Glee~Common~Golgari|Rakdos
+Drainpipe Vermin~Common~Golgari|Rakdos
+Grave Betrayal~Rare~Golgari|Rakdos
+Launch Party~Common~Golgari|Rakdos
+Grim Roustabout~Common~Golgari|Rakdos
+Mind Rot~Common~Golgari|Rakdos
+Necropolis Regent~Mythic Rare~Golgari|Rakdos
+Ogre Jailbreaker~Common~Golgari|Rakdos
+Pack Rat~Rare~Golgari|Rakdos
+Perilous Shadow~Common~Golgari|Rakdos
+Sewer Shambler~Common~Golgari|Rakdos
+Shrieking Affliction~Uncommon~Golgari|Rakdos
+Slum Reaper~Uncommon~Golgari|Rakdos
+Stab Wound~Common~Golgari|Rakdos
+Tavern Swindler~Uncommon~Golgari|Rakdos
+Terrus Wurm~Common~Golgari|Rakdos
+Thrill-Kill Assassin~Uncommon~Golgari|Rakdos
+Ultimate Price~Uncommon~Golgari|Rakdos
+Underworld Connections~Rare~Golgari|Rakdos
+Zanikev Locust~Uncommon~Golgari|Rakdos
+Annihilating Fire~Common~Rakdos|Izzet
+Ash Zealot~Rare~Rakdos|Izzet
+Batterhorn~Common~Rakdos|Izzet
+Bellows Lizard~Common~Rakdos|Izzet
+Bloodfray Giant~Uncommon~Rakdos|Izzet
+Chaos Imps~Rare~Rakdos|Izzet
+Cobblebrute~Common~Rakdos|Izzet
+Dynacharge~Common~Rakdos|Izzet
+Electrickery~Common~Rakdos|Izzet
+Explosive Impact~Common~Rakdos|Izzet
+Goblin Rally~Uncommon~Rakdos|Izzet
+Gore-House Chainwalker~Common~Rakdos|Izzet
+Guild Feud~Rare~Rakdos|Izzet
+Guttersnipe~Uncommon~Rakdos|Izzet
+Lobber Crew~Common~Rakdos|Izzet
+Minotaur Aggressor~Uncommon~Rakdos|Izzet
+Mizzium Mortars~Rare~Rakdos|Izzet
+Pursuit of Flight~Common~Rakdos|Izzet
+Pyroconvergence~Uncommon~Rakdos|Izzet
+Racecourse Fury~Uncommon~Rakdos|Izzet
+Splatter Thug~Common~Rakdos|Izzet
+Street Spasm~Uncommon~Rakdos|Izzet
+Survey the Wreckage~Common~Rakdos|Izzet
+Tenement Crasher~Common~Rakdos|Izzet
+Traitorous Instinct~Common~Rakdos|Izzet
+Utvara Hellkite~Mythic Rare~Rakdos|Izzet
+Vandalblast~Uncommon~Rakdos|Izzet
+Viashino Racketeer~Common~Rakdos|Izzet
+Aerial Predation~Common~Golgari|Selesnya
+Archweaver~Uncommon~Golgari|Selesnya
+Axebane Guardian~Common~Golgari|Selesnya
+Axebane Stag~Common~Golgari|Selesnya
+Brushstrider~Uncommon~Golgari|Selesnya
+Centaur's Herald~Common~Golgari|Selesnya
+Chorus of Might~Common~Golgari|Selesnya
+Deadbridge Goliath~Rare~Golgari|Selesnya
+Death's Presence~Rare~Golgari|Selesnya
+Drudge Beetle~Common~Golgari|Selesnya
+Druid's Deliverance~Common~Golgari|Selesnya
+Gatecreeper Vine~Common~Golgari|Selesnya
+Giant Growth~Common~Golgari|Selesnya
+Gobbling Ooze~Uncommon~Golgari|Selesnya
+Golgari Decoy~Uncommon~Golgari|Selesnya
+Horncaller's Chant~Common~Golgari|Selesnya
+Korozda Monitor~Common~Golgari|Selesnya
+Mana Bloom~Rare~Golgari|Selesnya
+Oak Street Innkeeper~Uncommon~Golgari|Selesnya
+Rubbleback Rhino~Common~Golgari|Selesnya
+Savage Surge~Uncommon~Golgari|Selesnya
+Seek the Horizon~Uncommon~Golgari|Selesnya
+Slime Molding~Uncommon~Golgari|Selesnya
+Stonefare Crocodile~Common~Golgari|Selesnya
+Towering Indrik~Common~Golgari|Selesnya
+Urban Burgeoning~Common~Golgari|Selesnya
+Wild Beastmaster~Rare~Golgari|Selesnya
+Worldspine Wurm~Mythic Rare~Golgari|Selesnya
+Abrupt Decay~Rare~Golgari
+Archon of the Triumvirate~Rare~Azorius
+Armada Wurm~Mythic Rare~Selesnya
+Auger Spree~Common~Rakdos
+Azorius Charm~Uncommon~Azorius
+Call of the Conclave~Uncommon~Selesnya
+Carnival Hellsteed~Rare~Rakdos
+Centaur Healer~Common~Selesnya
+Chemister's Trick~Common~Izzet
+Collective Blessing~Rare~Selesnya
+Common Bond~Common~Selesnya
+Corpsejack Menace~Rare~Golgari
+Counterflux~Rare~Izzet
+Coursers' Accord~Common~Selesnya
+Detention Sphere~Rare~Azorius
+Dramatic Rescue~Common~Azorius
+Dreadbore~Rare~Rakdos
+Dreg Mangler~Uncommon~Golgari
+Epic Experiment~Mythic Rare~Izzet
+Essence Backlash~Common~Izzet
+Fall of the Gavel~Uncommon~Azorius
+Firemind's Foresight~Rare~Izzet
+Goblin Electromancer~Common~Izzet
+Golgari Charm~Uncommon~Golgari
+Grisly Salvage~Common~Golgari
+Havoc Festival~Rare~Rakdos
+Hellhole Flailer~Uncommon~Rakdos
+Heroes' Reunion~Uncommon~Selesnya
+Hussar Patrol~Common~Azorius
+Hypersonic Dragon~Rare~Izzet
+Isperia, Supreme Judge~Mythic Rare~Azorius
+Izzet Charm~Uncommon~Izzet
+Izzet Staticaster~Uncommon~Izzet
+Jarad, Golgari Lich Lord~Mythic Rare~Golgari
+Jarad's Orders~Rare~Golgari
+Korozda Guildmage~Uncommon~Golgari
+Lotleth Troll~Rare~Golgari
+Loxodon Smiter~Rare~Selesnya
+Lyev Skyknight~Uncommon~Azorius
+Mercurial Chemister~Rare~Izzet
+New Prahv Guildmage~Uncommon~Azorius
+Nivix Guildmage~Uncommon~Izzet
+Niv-Mizzet, Dracogenius~Mythic Rare~Izzet
+Rakdos Charm~Uncommon~Rakdos
+Rakdos Ragemutt~Uncommon~Rakdos
+Rakdos Ringleader~Uncommon~Rakdos
+Rakdos, Lord of Riots~Mythic Rare~Rakdos
+Rakdos's Return~Mythic Rare~Rakdos
+Righteous Authority~Rare~Azorius
+Risen Sanctuary~Uncommon~Selesnya
+Rites of Reaping~Uncommon~Golgari
+Rix Maadi Guildmage~Uncommon~Rakdos
+Search Warrant~Common~Azorius
+Selesnya Charm~Uncommon~Selesnya
+Skull Rend~Common~Rakdos
+Skymark Roc~Uncommon~Azorius
+Slaughter Games~Rare~Rakdos
+Sluiceway Scorpion~Common~Golgari
+Spawn of Rix Maadi~Common~Rakdos
+Sphinx's Revelation~Mythic Rare~Azorius
+Supreme Verdict~Rare~Azorius
+Teleportal~Uncommon~Izzet
+Thoughtflare~Uncommon~Izzet
+Treasured Find~Uncommon~Golgari
+Trestle Troll~Common~Golgari
+Trostani, Selesnya's Voice~Mythic Rare~Selesnya
+Vitu-Ghazi Guildmage~Uncommon~Selesnya
+Vraska the Unseen~Mythic Rare~Golgari
+Wayfaring Temple~Rare~Selesnya
+Azor's Elocutors~Rare~Azorius
+Blistercoil Weird~Uncommon~Izzet
+Cryptborn Horror~Rare~Rakdos
+Deathrite Shaman~Rare~Golgari
+Dryad Militant~Uncommon~Selesnya
+Frostburn Weird~Common~Izzet
+Golgari Longlegs~Common~Golgari
+Growing Ranks~Rare~Selesnya
+Judge's Familiar~Uncommon~Azorius
+Nivmagus Elemental~Rare~Izzet
+Rakdos Cackler~Uncommon~Rakdos
+Rakdos Shred-Freak~Common~Rakdos
+Slitherhead~Uncommon~Golgari
+Sundering Growth~Common~Selesnya
+Vassal Soul~Common~Azorius
+Azorius Keyrune~Uncommon~Azorius
+Chromatic Lantern~Rare~None
+Civic Saber~Uncommon~None
+Codex Shredder~?~None
+Golgari Keyrune~Uncommon~Golgari
+Izzet Keyrune~Uncommon~Izzet
+Pithing Needle~Rare~None
+Rakdos Keyrune~Uncommon~Rakdos
+Selesnya Keyrune~Uncommon~Selesnya
+Street Sweeper~Uncommon~None
+Tablet of the Guilds~Uncommon~None
+Volatile Rig~Rare~None
+Azorius Guildgate~Common~Azorius
+Blood Crypt~Rare~Rakdos
+Golgari Guildgate~Common~Golgari
+Grove of the Guardian~Rare~Selesnya
+Hallowed Fountain~Rare~Azorius
+Izzet Guildgate~Common~Izzet
+Overgrown Tomb~Rare~Golgari
+Rakdos Guildgate~Common~Rakdos
+Rogue's Passage~Uncommon~None
+Selesnya Guildgate~Common~Selesnya
+Steam Vents~Rare~Izzet
+Temple Garden~Rare~Selesnya
+Transguild Promenade~Common~None
+Plains~Basic Land~None
+Island~Basic Land~None
+Swamp~Basic Land~None
+Mountain~Basic Land~None
+Forest~Basic Land~None
