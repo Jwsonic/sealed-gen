@@ -56,13 +56,15 @@ if __name__ == '__main__':
 		rarities = [line[9:-1] for line in lines if line.startswith('Rarity:')]
 		
 		costs = [cost_check(line) or 'None' for line in lines if line.startswith('Cost:')]
+
+		print('names: {0}, rarity: {1}, cost: {2}'.format(len(names), len(rarities), len(costs)))
 		#keywords = [keyword_check(line) for line in lines if line.startswith('Rules Text:')]
 
 		#guilds = [pair[0] or pair[1] or 'None' for guild in zip(costs, keywords)]
 
 		cards = ['{0}~{1}~{2}'.format(names[i], rarities[i], costs[i]) for i in range(len(names))]
 
-		with open('gtc.txt', 'w') as f:
+		with open('cards.txt', 'w') as f:
 			f.write('\n'.join(cards))
 				
 		

@@ -81,7 +81,7 @@ class MainPage(webapp2.RequestHandler):
 		<option value="Dimir">Dimir</option>
 		<option value="Gruul">Gruul</option>
 		<option value="Orzhov">Orzhov</option>
-		<option value="None">None</option>
+		<option value="None">Normal Pool</option>
 		</select>
 		<br/>
 		<input type="submit" value="Build Pool">

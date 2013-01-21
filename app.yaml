@@ -1,5 +1,5 @@
 application: sealed-generator
-version: 2
+version: 3
 runtime: python27
 api_version: 1
 threadsafe: true
@@ -8,6 +8,3 @@ handlers:
 - url: /.*
   script: main.app
 
-env_variables:
-  AWS_ACCESS_KEY_ID: 'AKIAJ6JLFHAQUIF6QQIQ'
-  AWS_SECRET_ACCESS_KEY: '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'

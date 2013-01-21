@@ -1,254 +1,249 @@
-Angel of Serenity~Mythic Rare~None
-Armory Guard~Common~Azorius|Selesnya
-Arrest~Uncommon~Azorius|Selesnya
-Avenging Arrow~Common~Azorius|Selesnya
-Azorius Arrester~Common~Azorius|Selesnya
-Azorius Justiciar~Uncommon~Azorius|Selesnya
-Bazaar Krovod~Uncommon~Azorius|Selesnya
-Concordia Pegasus~Common~Azorius|Selesnya
-Ethereal Armor~Common~Azorius|Selesnya
-Eyes in the Skies~Common~Azorius|Selesnya
-Fencing Ace~Uncommon~Azorius|Selesnya
-Keening Apparition~Common~Azorius|Selesnya
-Knightly Valor~Common~Azorius|Selesnya
-Martial Law~Rare~Azorius|Selesnya
-Palisade Giant~Rare~Azorius|Selesnya
-Phantom General~Uncommon~Azorius|Selesnya
-Precinct Captain~Rare~Azorius|Selesnya
-Rest in Peace~Rare~Azorius|Selesnya
-Rootborn Defenses~Common~Azorius|Selesnya
-Security Blockade~Uncommon~Azorius|Selesnya
-Selesnya Sentry~Common~Azorius|Selesnya
-Seller of Songbirds~Common~Azorius|Selesnya
-Soul Tithe~Uncommon~Azorius|Selesnya
-Sphere of Safety~Uncommon~Azorius|Selesnya
-Sunspire Griffin~Common~Azorius|Selesnya
-Swift Justice~Common~Azorius|Selesnya
-Trained Caracal~Common~Azorius|Selesnya
-Trostani's Judgment~Common~Azorius|Selesnya
-Aquus Steed~Uncommon~Azorius|Izzet
-Blustersquall~Uncommon~Azorius|Izzet
-Cancel~Common~Azorius|Izzet
-Chronic Flooding~Common~Azorius|Izzet
-Conjured Currency~Rare~Azorius|Izzet
-Crosstown Courier~Common~Azorius|Izzet
-Cyclonic Rift~Rare~Azorius|Izzet
-Dispel~Common~Azorius|Izzet
-Doorkeeper~Common~Azorius|Izzet
-Downsize~Common~Azorius|Izzet
-Faerie Impostor~Uncommon~Azorius|Izzet
-Hover Barrier~Uncommon~Azorius|Izzet
-Inaction Injunction~Common~Azorius|Izzet
-Inspiration~Common~Azorius|Izzet
-Isperia's Skywatch~Common~Azorius|Izzet
-Jace, Architect of Thought~Mythic Rare~None
-Mizzium Skin~Common~Azorius|Izzet
-Paralyzing Grasp~Common~Azorius|Izzet
-Psychic Spiral~Uncommon~Azorius|Izzet
-Runewing~Common~Azorius|Izzet
-Search the City~Rare~Azorius|Izzet
-Skyline Predator~Uncommon~Azorius|Izzet
-Soulsworn Spirit~Uncommon~Azorius|Izzet
-Sphinx of the Chimes~Rare~Azorius|Izzet
-Stealer of Secrets~Common~Azorius|Izzet
-Syncopate~Uncommon~Azorius|Izzet
-Tower Drake~Common~Azorius|Izzet
-Voidwielder~Common~Azorius|Izzet
-Assassin's Strike~Uncommon~Golgari|Rakdos
-Catacomb Slug~Common~Golgari|Rakdos
-Cremate~Common~Golgari|Rakdos
-Daggerdrome Imp~Common~Golgari|Rakdos
-Dark Revenant~Uncommon~Golgari|Rakdos
-Dead Reveler~Common~Golgari|Rakdos
-Desecration Demon~Rare~Golgari|Rakdos
-Destroy the Evidence~Common~Golgari|Rakdos
-Deviant Glee~Common~Golgari|Rakdos
-Drainpipe Vermin~Common~Golgari|Rakdos
-Grave Betrayal~Rare~Golgari|Rakdos
-Launch Party~Common~Golgari|Rakdos
-Grim Roustabout~Common~Golgari|Rakdos
-Mind Rot~Common~Golgari|Rakdos
-Necropolis Regent~Mythic Rare~None
-Ogre Jailbreaker~Common~Golgari|Rakdos
-Pack Rat~Rare~Golgari|Rakdos
-Perilous Shadow~Common~Golgari|Rakdos
-Sewer Shambler~Common~Golgari|Rakdos
-Shrieking Affliction~Uncommon~Golgari|Rakdos
-Slum Reaper~Uncommon~Golgari|Rakdos
-Stab Wound~Common~Golgari|Rakdos
-Tavern Swindler~Uncommon~Golgari|Rakdos
-Terrus Wurm~Common~Golgari|Rakdos
-Thrill-Kill Assassin~Uncommon~Golgari|Rakdos
-Ultimate Price~Uncommon~Golgari|Rakdos
-Underworld Connections~Rare~Golgari|Rakdos
-Zanikev Locust~Uncommon~Golgari|Rakdos
-Annihilating Fire~Common~Rakdos|Izzet
-Ash Zealot~Rare~Rakdos|Izzet
-Batterhorn~Common~Rakdos|Izzet
-Bellows Lizard~Common~Rakdos|Izzet
-Bloodfray Giant~Uncommon~Rakdos|Izzet
-Chaos Imps~Rare~Rakdos|Izzet
-Cobblebrute~Common~Rakdos|Izzet
-Dynacharge~Common~Rakdos|Izzet
-Electrickery~Common~Rakdos|Izzet
-Explosive Impact~Common~Rakdos|Izzet
-Goblin Rally~Uncommon~Rakdos|Izzet
-Gore-House Chainwalker~Common~Rakdos|Izzet
-Guild Feud~Rare~Rakdos|Izzet
-Guttersnipe~Uncommon~Rakdos|Izzet
-Lobber Crew~Common~Rakdos|Izzet
-Minotaur Aggressor~Uncommon~Rakdos|Izzet
-Mizzium Mortars~Rare~Rakdos|Izzet
-Pursuit of Flight~Common~Rakdos|Izzet
-Pyroconvergence~Uncommon~Rakdos|Izzet
-Racecourse Fury~Uncommon~Rakdos|Izzet
-Splatter Thug~Common~Rakdos|Izzet
-Street Spasm~Uncommon~Rakdos|Izzet
-Survey the Wreckage~Common~Rakdos|Izzet
-Tenement Crasher~Common~Rakdos|Izzet
-Traitorous Instinct~Common~Rakdos|Izzet
-Utvara Hellkite~Mythic Rare~None
-Vandalblast~Uncommon~Rakdos|Izzet
-Viashino Racketeer~Common~Rakdos|Izzet
-Aerial Predation~Common~Golgari|Selesnya
-Archweaver~Uncommon~Golgari|Selesnya
-Axebane Guardian~Common~Golgari|Selesnya
-Axebane Stag~Common~Golgari|Selesnya
-Brushstrider~Uncommon~Golgari|Selesnya
-Centaur's Herald~Common~Golgari|Selesnya
-Chorus of Might~Common~Golgari|Selesnya
-Deadbridge Goliath~Rare~Golgari|Selesnya
-Death's Presence~Rare~Golgari|Selesnya
-Drudge Beetle~Common~Golgari|Selesnya
-Druid's Deliverance~Common~Golgari|Selesnya
-Gatecreeper Vine~Common~Golgari|Selesnya
-Giant Growth~Common~Golgari|Selesnya
-Gobbling Ooze~Uncommon~Golgari|Selesnya
-Golgari Decoy~Uncommon~Golgari|Selesnya
-Horncaller's Chant~Common~Golgari|Selesnya
-Korozda Monitor~Common~Golgari|Selesnya
-Mana Bloom~Rare~Golgari|Selesnya
-Oak Street Innkeeper~Uncommon~Golgari|Selesnya
-Rubbleback Rhino~Common~Golgari|Selesnya
-Savage Surge~Uncommon~Golgari|Selesnya
-Seek the Horizon~Uncommon~Golgari|Selesnya
-Slime Molding~Uncommon~Golgari|Selesnya
-Stonefare Crocodile~Common~Golgari|Selesnya
-Towering Indrik~Common~Golgari|Selesnya
-Urban Burgeoning~Common~Golgari|Selesnya
-Wild Beastmaster~Rare~Golgari|Selesnya
-Worldspine Wurm~Mythic Rare~None
-Abrupt Decay~Rare~Golgari
-Archon of the Triumvirate~Rare~Azorius
-Armada Wurm~Mythic Rare~None
-Auger Spree~Common~Rakdos
-Azorius Charm~Uncommon~Azorius
-Call of the Conclave~Uncommon~Selesnya
-Carnival Hellsteed~Rare~Rakdos
-Centaur Healer~Common~Selesnya
-Chemister's Trick~Common~Izzet
-Collective Blessing~Rare~Selesnya
-Common Bond~Common~Selesnya
-Corpsejack Menace~Rare~Golgari
-Counterflux~Rare~Izzet
-Coursers' Accord~Common~Selesnya
-Detention Sphere~Rare~Azorius
-Dramatic Rescue~Common~Azorius
-Dreadbore~Rare~Rakdos
-Dreg Mangler~Uncommon~Golgari
-Epic Experiment~Mythic Rare~None
-Essence Backlash~Common~Izzet
-Fall of the Gavel~Uncommon~Azorius
-Firemind's Foresight~Rare~Izzet
-Goblin Electromancer~Common~Izzet
-Golgari Charm~Uncommon~Golgari
-Grisly Salvage~Common~Golgari
-Havoc Festival~Rare~Rakdos
-Hellhole Flailer~Uncommon~Rakdos
-Heroes' Reunion~Uncommon~Selesnya
-Hussar Patrol~Common~Azorius
-Hypersonic Dragon~Rare~Izzet
-Isperia, Supreme Judge~Mythic Rare~Azorius
-Izzet Charm~Uncommon~Izzet
-Izzet Staticaster~Uncommon~Izzet
-Jarad, Golgari Lich Lord~Mythic Rare~Golgari
-Jarad's Orders~Rare~Golgari
-Korozda Guildmage~Uncommon~Golgari
-Lotleth Troll~Rare~Golgari
-Loxodon Smiter~Rare~Selesnya
-Lyev Skyknight~Uncommon~Azorius
-Mercurial Chemister~Rare~Izzet
-New Prahv Guildmage~Uncommon~Azorius
-Nivix Guildmage~Uncommon~Izzet
-Niv-Mizzet, Dracogenius~Mythic Rare~Izzet
-Rakdos Charm~Uncommon~Rakdos
-Rakdos Ragemutt~Uncommon~Rakdos
-Rakdos Ringleader~Uncommon~Rakdos
-Rakdos, Lord of Riots~Mythic Rare~Rakdos
-Rakdos's Return~Mythic Rare~None
-Righteous Authority~Rare~Azorius
-Risen Sanctuary~Uncommon~Selesnya
-Rites of Reaping~Uncommon~Golgari
-Rix Maadi Guildmage~Uncommon~Rakdos
-Search Warrant~Common~Azorius
-Selesnya Charm~Uncommon~Selesnya
-Skull Rend~Common~Rakdos
-Skymark Roc~Uncommon~Azorius
-Slaughter Games~Rare~Rakdos
-Sluiceway Scorpion~Common~Golgari
-Spawn of Rix Maadi~Common~Rakdos
-Sphinx's Revelation~Mythic Rare~None
-Supreme Verdict~Rare~Azorius
-Teleportal~Uncommon~Izzet
-Thoughtflare~Uncommon~Izzet
-Treasured Find~Uncommon~Golgari
-Trestle Troll~Common~Golgari
-Trostani, Selesnya's Voice~Mythic Rare~Selesnya
-Vitu-Ghazi Guildmage~Uncommon~Selesnya
-Vraska the Unseen~Mythic Rare~None
-Wayfaring Temple~Rare~Selesnya
-Azor's Elocutors~Rare~Azorius
-Blistercoil Weird~Uncommon~Izzet
-Cryptborn Horror~Rare~Rakdos
-Deathrite Shaman~Rare~Golgari
-Dryad Militant~Uncommon~Selesnya
-Frostburn Weird~Common~Izzet
-Golgari Longlegs~Common~Golgari
-Growing Ranks~Rare~Selesnya
-Judge's Familiar~Uncommon~Azorius
-Nivmagus Elemental~Rare~Izzet
-Rakdos Cackler~Uncommon~Rakdos
-Rakdos Shred-Freak~Common~Rakdos
-Slitherhead~Uncommon~Golgari
-Sundering Growth~Common~Selesnya
-Vassal Soul~Common~Azorius
-Azorius Keyrune~Uncommon~Azorius
-Chromatic Lantern~Rare~None
-Civic Saber~Uncommon~None
-Codex Shredder~?~None
-Golgari Keyrune~Uncommon~Golgari
-Izzet Keyrune~Uncommon~Izzet
-Pithing Needle~Rare~None
-Rakdos Keyrune~Uncommon~Rakdos
-Selesnya Keyrune~Uncommon~Selesnya
-Street Sweeper~Uncommon~None
-Tablet of the Guilds~Uncommon~None
-Volatile Rig~Rare~None
-Azorius Guildgate~Common~Azorius
-Blood Crypt~Rare~Rakdos
-Golgari Guildgate~Common~Golgari
-Grove of the Guardian~Rare~Selesnya
-Hallowed Fountain~Rare~Azorius
-Izzet Guildgate~Common~Izzet
-Overgrown Tomb~Rare~Golgari
-Rakdos Guildgate~Common~Rakdos
-Rogue's Passage~Uncommon~None
-Selesnya Guildgate~Common~Selesnya
-Steam Vents~Rare~Izzet
-Temple Garden~Rare~Selesnya
-Transguild Promenade~Common~None
-Plains~Basic Land~None
-Island~Basic Land~None
-Swamp~Basic Land~None
-Mountain~Basic Land~None
-Forest~Basic Land~None
+Aerial Maneuver~Common~Orzhov|Boros
+Angelic Edict~Common~Orzhov|Boros
+Angelic Skirmisher~Rare~Orzhov|Boros
+Assault Griffin~Common~Orzhov|Boros
+Basilica Guards~Common~Orzhov|Boros
+Blind Obedience~Rare~Orzhov|Boros
+Boros Elite~Uncommon~Orzhov|Boros
+Court Street Denizen~Common~Orzhov|Boros
+Daring Skyjek~Common~Orzhov|Boros
+Debtor's Pulpit~Rare~Orzhov|Boros
+Dutiful Thrull~Common~Orzhov|Boros
+Frontline Medic~Rare~Orzhov|Boros
+Gideon, Champion of Justice~Mythic Rare~None
+Guardian of the Gateless~Uncommon~Orzhov|Boros
+Guildscorn Ward~Common~Orzhov|Boros
+Hold the Gates~Uncommon~Orzhov|Boros
+Holy Mantle~Uncommon~Orzhov|Boros
+Knight of Obligation~Uncommon~Orzhov|Boros
+Knight Watch~Common~Orzhov|Boros
+Luminate Primordial~Rare~Orzhov|Boros
+Murder Investigation~Uncommon~Orzhov|Boros
+Nav Squad Commandos~Common~Orzhov|Boros
+Righteous Charge~Uncommon~Orzhov|Boros
+Shielded Passage~Common~Orzhov|Boros
+Smite~Common~Orzhov|Boros
+Syndic of Tithes~Common~Orzhov|Boros
+Urbis Protector~Uncommon~Orzhov|Boros
+Zarichi Tiger~Common~Orzhov|Boros
+AEtherize~Uncommon~Dimir|Simic
+Agoraphobia~Uncommon~Dimir|Simic
+Clinging Anemones~Common~Dimir|Simic
+Cloudfin Raptor~Common~Dimir|Simic
+Diluvian Primordial~Rare~Dimir|Simic
+Enter the Infinite~Mythic Rare~None
+Frilled Oculus~Common~Dimir|Simic
+Gridlock~Uncommon~Dimir|Simic
+Hands of Binding~Common~Dimir|Simic
+Incursion Specialist~Uncommon~Dimir|Simic
+Keymaster Rogue~Common~Dimir|Simic
+Last Thoughts~Common~Dimir|Simic
+Leyline Phantom~Common~Dimir|Simic
+Metropolis Sprite~Common~Dimir|Simic
+Mindeye Drake~Uncommon~Dimir|Simic
+Rapid Hybridization~Uncommon~Dimir|Simic
+Realmwright~Rare~Dimir|Simic
+Sage's Row Denizen~Common~Dimir|Simic
+Sapphire Drake~Uncommon~Dimir|Simic
+Scatter Arc~Common~Dimir|Simic
+Simic Fluxmage~Uncommon~Dimir|Simic
+Simic Manipulator~Rare~Dimir|Simic
+Skygames~Common~Dimir|Simic
+Spell Rupture~Common~Dimir|Simic
+Stolen Identity~Rare~Dimir|Simic
+Totally Lost~Common~Dimir|Simic
+Voidwalk~Uncommon~Dimir|Simic
+Way of the Thief~Common~Dimir|Simic
+Basilica Screecher~Common~Orzhov|Dimir
+Balustrade Spy~Common~Orzhov|Dimir
+Contaminated Ground~Common~Orzhov|Dimir
+Corpse Blockade~Common~Orzhov|Dimir
+Crypt Ghast~Rare~Orzhov|Dimir
+Death's Approach~Common~Orzhov|Dimir
+Devour Flesh~Common~Orzhov|Dimir
+Dying Wish~Uncommon~Orzhov|Dimir
+Gateway Shade~Uncommon~Orzhov|Dimir
+Grisly Spectacle~Common~Orzhov|Dimir
+Gutter Skulk~Common~Orzhov|Dimir
+Horror of the Dim~Common~Orzhov|Dimir
+Illness in the Ranks~Uncommon~Orzhov|Dimir
+Killing Glare~Uncommon~Orzhov|Dimir
+Lord of the Void~Mythic Rare~None
+Mental Vapors~Uncommon~Orzhov|Dimir
+Midnight Recovery~Common~Orzhov|Dimir
+Ogre Slumlord~Rare~Orzhov|Dimir
+Sepulchral Primordial~Rare~Orzhov|Dimir
+Shadow Alley Denizen~Common~Orzhov|Dimir
+Shadow Slice~Common~Orzhov|Dimir
+Slate Street Ruffian~Common~Orzhov|Dimir
+Smog Elemental~Uncommon~Orzhov|Dimir
+Syndicate Enforcer~Common~Orzhov|Dimir
+Thrull Parasite~Uncommon~Orzhov|Dimir
+Undercity Informer~Uncommon~Orzhov|Dimir
+Undercity Plague~Rare~Orzhov|Dimir
+Wight of Precinct Six~Uncommon~Orzhov|Dimir
+Act of Treason~Common~Boros|Gruul
+Bomber Corps~Common~Boros|Gruul
+Cinder Elemental~Uncommon~Boros|Gruul
+Crackling Perimeter~Uncommon~Boros|Gruul
+Ember Beast~Common~Boros|Gruul
+Firefist Striker~Uncommon~Boros|Gruul
+Five-Alarm Fire~Rare~Boros|Gruul
+Foundry Street Denizen~Common~Boros|Gruul
+Furious Resistance~Common~Boros|Gruul
+Hellkite Tyrant~Mythic Rare~None
+Hellraiser Goblin~Uncommon~Boros|Gruul
+Homing Lightning~Uncommon~Boros|Gruul
+Legion Loyalist~Rare~Boros|Gruul
+Madcap Skills~Common~Boros|Gruul
+Mark for Death~Uncommon~Boros|Gruul
+Massive Raid~Common~Boros|Gruul
+Molten Primordial~Rare~Boros|Gruul
+Mugging~Common~Boros|Gruul
+Ripscale Predator~Uncommon~Boros|Gruul
+Scorchwalker~Common~Boros|Gruul
+Skinbrand Goblin~Common~Boros|Gruul
+Skullcrack~Uncommon~Boros|Gruul
+Structural Collapse~Common~Boros|Gruul
+Tin Street Market~Common~Boros|Gruul
+Towering Thunderfist~Common~Boros|Gruul
+Viashino Shanktail~Uncommon~Boros|Gruul
+Warmind Infantry~Common~Boros|Gruul
+Wrecking Ogre~Rare~Boros|Gruul
+Adaptive Snapjaw~Common~Simic|Gruul
+Alpha Authority~Uncommon~Simic|Gruul
+Burst of Strength~Common~Simic|Gruul
+Crocanura~Common~Simic|Gruul
+Crowned Ceratok~Uncommon~Simic|Gruul
+Disciple of the Old Ways~Common~Simic|Gruul
+Experiment One~Uncommon~Simic|Gruul
+Forced Adaptation~Common~Simic|Gruul
+Giant Adephage~Mythic Rare~None
+Greenside Watcher~Common~Simic|Gruul
+Gyre Sage~Rare~Simic|Gruul
+Hindervines~Uncommon~Simic|Gruul
+Ivy Lane Denizen~Common~Simic|Gruul
+Miming Slime~Uncommon~Simic|Gruul
+Naturalize~Common~Simic|Gruul
+Ooze Flux~Rare~Simic|Gruul
+Predator's Rapport~Common~Simic|Gruul
+Rust Scarab~Uncommon~Simic|Gruul
+Scab-Clan Charger~Common~Simic|Gruul
+Serene Remembrance~Uncommon~Simic|Gruul
+Skarrg Goliath~Rare~Simic|Gruul
+Slaughterhorn~Common~Simic|Gruul
+Spire Tracer~Common~Simic|Gruul
+Sylvan Primordial~Rare~Simic|Gruul
+Tower Defense~Uncommon~Simic|Gruul
+Verdant Haven~Common~Simic|Gruul
+Wasteland Viper~Uncommon~Simic|Gruul
+Wildwood Rebirth~Common~Simic|Gruul
+Alms Beast~Rare~Orzhov
+Assemble the Legion~Rare~Boros
+Aurelia, the Warleader~Mythic Rare~Boros
+Aurelia's Fury~Mythic Rare~None
+Bane Alley Broker~Uncommon~Dimir
+Biovisionary~Rare~Simic
+Borborygmos Enraged~Mythic Rare~Gruul
+Boros Charm~Uncommon~Boros
+Call of the Nightwing~Uncommon~Dimir
+Cartel Aristocrat~Uncommon~Orzhov
+Clan Defiance~Rare~Gruul
+Consuming Aberration~Rare~Dimir
+Deathpact Angel~Mythic Rare~None
+Dimir Charm~Uncommon~Dimir
+Dinrova Horror~Uncommon~Dimir
+Domri Rade~Mythic Rare~None
+Drakewing Krasis~Common~Simic
+Duskmantle Guildmage~Uncommon~Dimir
+Duskmantle Seer~Mythic Rare~None
+Elusive Krasis~Uncommon~Simic
+Executioner's Swing~Common~Orzhov
+Fathom Mage~Rare~Simic
+Firemane Avenger~Rare~Boros
+Fortress Cyclops~Uncommon~Boros
+Foundry Champion~Rare~Boros
+Frenzied Tilling~Uncommon~Gruul
+Ghor-Clan Rampager~Uncommon~Gruul
+Ground Assault~Uncommon~Gruul
+Gruul Charm~Uncommon~Gruul
+Gruul Ragebeast~Rare~Gruul
+High Priest of Penance~Rare~Orzhov
+Hydroform~Common~Simic
+Kingpin's Pet~Common~Orzhov
+Lazav, Dimir Mastermind~Mythic Rare~Dimir
+Martial Glory~Common~Boros
+Master Biomancer~Mythic Rare~None
+Merciless Eviction~Rare~Orzhov
+Mind Grind~Rare~Dimir
+Mortus Strider~Common~Dimir
+Mystic Genesis~Rare~Simic
+Nimbus Swimmer~Uncommon~Simic
+Obzedat, Ghost Council~Mythic Rare~Orzhov
+One Thousand Lashes~Uncommon~Orzhov
+Ordruun Veteran~Uncommon~Boros
+Orzhov Charm~Uncommon~Orzhov
+Paranoid Delusions~Common~Dimir
+Primal Visitation~Common~Gruul
+Prime Speaker Zegana~Mythic Rare~Simic
+Psychic Strike~Common~Dimir
+Purge the Profane~Common~Orzhov
+Rubblehulk~Rare~Gruul
+Ruination Wurm~Common~Gruul
+Shambleshark~Common~Simic
+Signal the Clans~Rare~Gruul
+Simic Charm~Uncommon~Simic
+Skarrg Guildmage~Uncommon~Gruul
+Skyknight Legionnaire~Common~Boros
+Soul Ransom~Rare~Dimir
+Spark Trooper~Rare~Boros
+Sunhome Guildmage~Uncommon~Boros
+Treasury Thrull~Rare~Orzhov
+Truefire Paladin~Uncommon~Boros
+Unexpected Results~Rare~Simic
+Urban Evolution~Uncommon~Simic
+Vizkopa Confessor~Uncommon~Orzhov
+Vizkopa Guildmage~Uncommon~Orzhov
+Whispering Madness~Rare~Dimir
+Wojek Halberdiers~Common~Boros
+Zameck Guildmage~Uncommon~Simic
+Zhur-Taa Swine~Common~Gruul
+Arrows of Justice~Uncommon~Boros
+Beckon Apparition~Common~Orzhov
+Biomass Mutation~Rare~Simic
+Bioshift~Common~Simic
+Boros Reckoner~Rare~Boros
+Burning-Tree Emissary~Uncommon~Gruul
+Coerced Confession~Uncommon~Dimir
+Deathcult Rogue~Common~Dimir
+Gift of Orzhova~Uncommon~Orzhov
+Immortal Servitude~Rare~Orzhov
+Merfolk of the Depths~Uncommon~Simic
+Nightveil Specter~Rare~Dimir
+Pit Fight~Common~Gruul
+Rubblebelt Raiders~Rare~Gruul
+Shattering Blow~Common~Boros
+Armored Transport~Common~None
+Boros Keyrune~Uncommon~None
+Dimir Keyrune~Uncommon~None
+Glaring Spotlight~Rare~None
+Gruul Keyrune~Uncommon~None
+Illusionist's Bracers~Rare~None
+Millennial Gargoyle~Common~None
+Orzhov Keyrune~Uncommon~None
+Prophetic Prism~Common~None
+Razortip Whip~Common~None
+Riot Gear~Common~None
+Simic Keyrune~Uncommon~None
+Skyblinder Staff~Common~None
+Boros Guildgate~Common~None
+Breeding Pool~Rare~None
+Dimir Guildgate~Common~None
+Godless Shrine~Rare~None
+Gruul Guildgate~Common~None
+Orzhov Guildgate~Common~None
+Sacred Foundry~Rare~None
+Simic Guildgate~Common~None
+Stomping Ground~Rare~None
+Thespian's Stage~Rare~None
+Watery Grave~Rare~None
