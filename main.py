@@ -14,7 +14,8 @@ deck_file_str = """<?xml version="1.0" encoding="UTF-8"?>
 	<zone name="side">{0}</zone>
 	</cockatrice_deck>"""
 
-promos = {'Azorius':'Archon of the Triumvirate', 'Izzet':'Hypersonic Dragon', 'Rakdos':'Carnival Hellsteed', 'Golgari':'Corpsejack Menace', 'Selesnya':'Grove of the Guardian', 'None':None}
+#The prerelease promos and their guilds
+promos = {'Boros':'Foundry Champion', 'Dimir':'Consuming Aberration', 'Gruul':'Rubblehulk', 'Orzhov':'Treasury Thrull', 'Simic':'Fathom Mage', 'None':None}
 
 Card = namedtuple('Card', ['name', 'rarity', 'guild'])
 
@@ -75,11 +76,11 @@ class MainPage(webapp2.RequestHandler):
 		Choose a guild:
 		<form action="/" method="post">
 		<select name="guild">
-		<option value="Azorius">Azorius</option>
-		<option value="Golgari">Golgari</option>
-		<option value="Izzet">Izzet</option>
-		<option value="Selesnya">Selesnya</option>
-		<option value="Rakdos">Rakdos</option>
+		<option value="Simic">Simic</option>
+		<option value="Boros">Boros</option>
+		<option value="Dimir">Dimir</option>
+		<option value="Gruul">Gruul</option>
+		<option value="Orzhov">Orzhov</option>
 		<option value="None">None</option>
 		</select>
 		<br/>

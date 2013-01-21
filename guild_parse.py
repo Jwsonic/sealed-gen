@@ -1,17 +1,26 @@
-import xml.etree.ElementTree as etree
-import sys
+
 import sqlite3
+import sys
 
 AZORIUS = 'Azorius'
 GOLGARI = 'Golgari'
 IZZET = 'Izzet'
 RAKDOS = 'Rakdos'
 SELESNYA = 'Selesnya'
+SIMIC = 'Simic'
+BOROS = 'Boros'
+DIMIR = 'Dimir'
+GRUUL = 'Gruul'
+ORZHOV = 'Orzhov'
 
-colors = [('UW', AZORIUS), ('GB', GOLGARI), ('UR', IZZET), ('BR', RAKDOS), ('GW', SELESNYA)]
-keywords = [('DETAIN', AZORIUS), ('SCAVENGE', GOLGARI), ('OVERLOAD', IZZET), ('UNLEASH', RAKDOS), ('POPULATE', SELESNYA)]
+#colors = [('UW', AZORIUS), ('GB', GOLGARI), ('UR', IZZET), ('BR', RAKDOS), ('GW', SELESNYA)]
+#keywords = [('DETAIN', AZORIUS), ('SCAVENGE', GOLGARI), ('OVERLOAD', IZZET), ('UNLEASH', RAKDOS), ('POPULATE', SELESNYA)]
+
+colors = [('UG', SIMIC), ('UB', DIMIR), ('WR', BOROS), ('GR', GRUUL), ('WB', ORZHOV)]
+keywords = [('EVOLVE', SIMIC), ('CYPHER', DIMIR), ('BATTALION', BOROS), ('BLOODRUSH', GRUUL), ('EXTORT', ORZHOV)]
 
 def cost_check(line):
+	"""Check the mana cost for guild affiliation"""
 	u = line.upper()
 
 	guilds = set()
@@ -28,6 +37,7 @@ def cost_check(line):
 	return '|'.join(guilds)
 
 def keyword_check(line):
+	"""Check the text box for guild affiliation"""
 	u = line.upper()
 
 	for keyword in keywords:
@@ -50,9 +60,14 @@ if __name__ == '__main__':
 
 		#guilds = [pair[0] or pair[1] or 'None' for guild in zip(costs, keywords)]
 
-		cards = [(names[i], rarities[i], costs[i]) for i in range(len(names))]
+		cards = ['{0}~{1}~{2}'.format(names[i], rarities[i], costs[i]) for i in range(len(names))]
 
-		conn = sqlite3.connect('rtr.sqlite')
+		with open('gtc.txt', 'w') as f:
+			f.write('\n'.join(cards))
+				
+		
+		"""
+		conn = sqlite3.connect('gtc.sqlite')
 		c = conn.cursor()
 
 		c.execute('create table cards (name text, rarity text, guild text)')
@@ -61,4 +76,4 @@ if __name__ == '__main__':
 			c.execute('insert into cards values (?, ?, ?)', card)
 
 		conn.commit()
-		c.close()
+		c.close()"""
