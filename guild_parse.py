@@ -1,4 +1,3 @@
-
 import sqlite3
 import sys
 
@@ -49,7 +48,7 @@ def keyword_check(line):
 if __name__ == '__main__':
 	assert len(sys.argv) > 1, 'You must pass a text file to process'
 
-	with open(sys.argv[1]) as f:
+	with open(sys.argv[1], encoding='utf-8') as f:
 		lines = f.readlines()
 
 		names = [line[6:-1] for line in lines if line.startswith('Name:')]
@@ -58,24 +57,9 @@ if __name__ == '__main__':
 		costs = [cost_check(line) or 'None' for line in lines if line.startswith('Cost:')]
 
 		print('names: {0}, rarity: {1}, cost: {2}'.format(len(names), len(rarities), len(costs)))
-		#keywords = [keyword_check(line) for line in lines if line.startswith('Rules Text:')]
-
-		#guilds = [pair[0] or pair[1] or 'None' for guild in zip(costs, keywords)]
 
 		cards = ['{0}~{1}~{2}'.format(names[i], rarities[i], costs[i]) for i in range(len(names))]
 
-		with open('cards.txt', 'w') as f:
+		with open(sys.argv[1][:-4] + '-parsed.txt', 'w') as f:
 			f.write('\n'.join(cards))
 				
-		
-		"""
-		conn = sqlite3.connect('gtc.sqlite')
-		c = conn.cursor()
-
-		c.execute('create table cards (name text, rarity text, guild text)')
-		
-		for card in cards:
-			c.execute('insert into cards values (?, ?, ?)', card)
-
-		conn.commit()
-		c.close()"""
