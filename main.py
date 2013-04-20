@@ -5,6 +5,7 @@ import csv
 import random
 import logging
 
+#Formating strings is so much easier than dealing with xml parsing...
 card_str = '<card number="{0}" price="0" name="{1}"/>'
 deck_file_str = """<?xml version="1.0" encoding="UTF-8"?>
 	<cockatrice_deck version="1">
@@ -14,10 +15,26 @@ deck_file_str = """<?xml version="1.0" encoding="UTF-8"?>
 	<zone name="side">{0}</zone>
 	</cockatrice_deck>"""
 
-#The prerelease promos and their guilds
-promos = {'Boros':'Foundry Champion', 'Dimir':'Consuming Aberration', 'Gruul':'Rubblehulk', 'Orzhov':'Treasury Thrull', 'Simic':'Fathom Mage', 'None':None}
+rtr_guilds = ('Azorius', 'Rakdos', 'Selesnya', 'Izzet', 'Golgari')
+gtc_guilds = ('Simic', 'Gruul', 'Boros', 'Orzhov', 'Dimir')
 
+colors = {'Azorius':set('UW'), 'Rakdos':set('RB'), 'Selesnya':set('GW'), 'Izzet':set('UR'), 'Golgari':set('GB'), 'Simic':set('UG'), 'Gruul':set('GR'), 'Boros':set('RW'), 'Orzhov':set('BW'), 'Dimir':set('UB')}
+
+#A named tuple for cards to keep things a bit more readable
 Card = namedtuple('Card', ['name', 'rarity', 'guild'])
+
+#Load up the sets into lists
+with open('rtr.txt') as f:
+	rtr_cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
+
+with open('gtc.txt') as f:
+	gtc_cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
+
+with open('gdm.txt') as f:
+	dgm_cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
+
+#The prerelease promos and their guilds ARE NO LONGER NEEDED
+#promos = {'Boros':'Foundry Champion', 'Dimir':'Consuming Aberration', 'Gruul':'Rubblehulk', 'Orzhov':'Treasury Thrull', 'Simic':'Fathom Mage', 'None':None}
 
 def generate_pack(mythics, rares, uncommons, commons, basic_lands=None):
 
@@ -52,19 +69,27 @@ def generate_pack(mythics, rares, uncommons, commons, basic_lands=None):
 
 	return pack
 
-with open('cards.txt') as f:
-	cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
-
-	for card in cards:
-		if str(card).find('Mythic Rare') > -1:
-			logging.info(str(card) + '\n')
-
 def r(cards, rarity):
+	"""Returns all the cards in the list that have the given rarity. We do this a lot so it got tossed into a function"""
 	return [card.name for card in cards if card.rarity == rarity]
 
-def gen_pack(card_pool):
-	"""Generate a normal pack of cards for sealed"""
-	return generate_pack(mythics=r(card_pool, 'Mythic Rare'), rares=r(card_pool, 'Rare'), uncommons=r(card_pool, 'Uncommon'), commons=r(card_pool, 'Common'), basic_lands=r(card_pool, 'Basic Land'))
+def gen_pack_generator(card_pool):
+	"""Yo dawg, returns a function that can be called to generate a pack of the given card_pool"""
+
+	mythics=r(card_pool, 'Mythic Rare')
+	rares=r(card_pool, 'Rare')
+	uncommons=r(card_pool, 'Uncommon')
+	commons=r(card_pool, 'Common')
+	basic_lands=r(card_pool, 'Basic Land')
+
+	return lambda: generate_pack(mythics, rares, uncommons, commons, basic_lands)
+
+def gen_guild_pack(guild):
+	"""Returns a special guild pack generator"""
+
+	cards = rtr_cards if guild in rtr_guilds else gtc_cards
+
+	return gen_pack_generator([card for card in cards if card.guild.find(guild) > -1])
 
 class MainPage(webapp2.RequestHandler):
 	def get(self):
@@ -81,6 +106,11 @@ class MainPage(webapp2.RequestHandler):
 		<option value="Dimir">Dimir</option>
 		<option value="Gruul">Gruul</option>
 		<option value="Orzhov">Orzhov</option>
+		<option value="Rakdos">Rakdos</option>
+		<option value="Selesnya">Selesnya</option>
+		<option value="Izzet">Izzet</option>
+		<option value="Golgari">Golgari</option>
+		<option value="Azorius">Azorius</option>
 		<option value="None">Normal Pool</option>
 		</select>
 		<br/>
@@ -93,24 +123,27 @@ class MainPage(webapp2.RequestHandler):
 
 	def post(self):
 		guild = self.request.get('guild')
-		self.response.headers['Content-Type'] = 'text'
-		self.response.headers['Content-Disposition'] = 'attachment; filename={0}_pool.cod'.format(guild)
-	
-		logging.info('Getting guild cards')
-		#get the cards for our guilds
-		guild_cards = [card for card in cards if card.guild.find(guild) > -1]
-
-		logging.info('Guld len: {0}'.format(len(guild_cards)))
 
 		pool = {}
 
-		logging.info('Adding promo')
-		#Add this guild's promo
-		pool[promos[guild]] = 1
-
 		logging.info('Generating guild pack')
 		#Generate the guild pack
-		for card in gen_pack(guild_cards):
+		pack_maker = gen_guild_pack(guild)
+		for card in pack_maker():
+			if card in pool:
+				pool[card] += 1
+			else:
+				pool[card] = 1
+
+		logging.info('Generating secret guild pack')
+		secret_guild = random.choice(colors.keys())
+
+		while secret_guild == guild or len(colors[guild].intersection(colors[secret_guild])) != 1:
+			secret_guild = random.choice(colors.keys())
+
+		#Generate the secret guild pack
+		pack_maker = gen_guild_pack(secret_guild)
+		for card in pack_maker():
 			if card in pool:
 				pool[card] += 1
 			else:
@@ -118,14 +151,19 @@ class MainPage(webapp2.RequestHandler):
 
 		logging.info('Generating normal packs')
 		#Generate normal packs
-		for i in range(5):
-			for card in gen_pack(cards):
+	
+		pack_maker = gen_pack_generator(dgm_cards)
+
+		for i in range(4):
+			for card in pack_maker:
 				if card in pool:
 					pool[card] += 1
 				else:
 					pool[card] = 1
 
 		logging.info('Writing response')
+		self.response.headers['Content-Type'] = 'text'
+		self.response.headers['Content-Disposition'] = 'attachment; filename={0}-{1}_pool.cod'.format(guild, secret_guild)
 		self.response.write(deck_file_str.format('\n'.join([card_str.format(number, name) for name, number in pool.items()])))	
 
 app = webapp2.WSGIApplication([('/', MainPage)], debug=True)

@@ -16,8 +16,8 @@ ORZHOV = 'Orzhov'
 #colors = [('UW', AZORIUS), ('GB', GOLGARI), ('UR', IZZET), ('BR', RAKDOS), ('GW', SELESNYA)]
 #keywords = [('DETAIN', AZORIUS), ('SCAVENGE', GOLGARI), ('OVERLOAD', IZZET), ('UNLEASH', RAKDOS), ('POPULATE', SELESNYA)]
 
-colors = [('UG', SIMIC), ('UB', DIMIR), ('WR', BOROS), ('GR', GRUUL), ('WB', ORZHOV)]
-keywords = [('EVOLVE', SIMIC), ('CYPHER', DIMIR), ('BATTALION', BOROS), ('BLOODRUSH', GRUUL), ('EXTORT', ORZHOV)]
+colors = [('UG', SIMIC), ('UB', DIMIR), ('WR', BOROS), ('GR', GRUUL), ('WB', ORZHOV), ('UW', AZORIUS), ('GB', GOLGARI), ('UR', IZZET), ('BR', RAKDOS), ('GW', SELESNYA)]
+keywords = [('EVOLVE', SIMIC), ('CYPHER', DIMIR), ('BATTALION', BOROS), ('BLOODRUSH', GRUUL), ('EXTORT', ORZHOV), ('DETAIN', AZORIUS), ('SCAVENGE', GOLGARI), ('OVERLOAD', IZZET), ('UNLEASH', RAKDOS), ('POPULATE', SELESNYA)]
 
 def cost_check(line):
 	"""Check the mana cost for guild affiliation"""
