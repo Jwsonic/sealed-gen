@@ -52,8 +52,7 @@ if __name__ == '__main__':
 		lines = f.readlines()
 
 		names = [line[6:-1] for line in lines if line.startswith('Name:')]
-		rarities = [line[9:-1] for line in lines if line.startswith('Rarity:')]
-		
+		rarities = [line[9:-1] for line in lines if line.startswith('Rarity:')]	
 		costs = [cost_check(line) or 'None' for line in lines if line.startswith('Cost:')]
 
 		print('names: {0}, rarity: {1}, cost: {2}'.format(len(names), len(rarities), len(costs)))

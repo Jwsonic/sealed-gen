@@ -24,13 +24,13 @@ colors = {'Azorius':set('UW'), 'Rakdos':set('RB'), 'Selesnya':set('GW'), 'Izzet'
 Card = namedtuple('Card', ['name', 'rarity', 'guild'])
 
 #Load up the sets into lists
-with open('rtr.txt') as f:
+with open('rtr-parsed.txt') as f:
 	rtr_cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
 
-with open('gtc.txt') as f:
+with open('gtc-parsed.txt') as f:
 	gtc_cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
 
-with open('gdm.txt') as f:
+with open('gdm-parsed.txt') as f:
 	dgm_cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
 
 #The prerelease promos and their guilds ARE NO LONGER NEEDED
