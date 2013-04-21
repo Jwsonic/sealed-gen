@@ -10,7 +10,7 @@ Daring Skyjek~Common~Boros|Selesnya|Orzhov|Azorius
 Debtor's Pulpit~Rare~Boros|Selesnya|Orzhov|Azorius
 Dutiful Thrull~Common~Boros|Selesnya|Orzhov|Azorius
 Frontline Medic~Rare~Boros|Selesnya|Orzhov|Azorius
-Gideon, Champion of Justice~Mythic Rare~Boros|Selesnya|Orzhov|Azorius
+Gideon, Champion of Justice~Mythic Rare~None
 Guardian of the Gateless~Uncommon~Boros|Selesnya|Orzhov|Azorius
 Guildscorn Ward~Common~Boros|Selesnya|Orzhov|Azorius
 Hold the Gates~Uncommon~Boros|Selesnya|Orzhov|Azorius
@@ -31,7 +31,7 @@ Agoraphobia~Uncommon~Dimir|Izzet|Azorius|Simic
 Clinging Anemones~Common~Dimir|Izzet|Azorius|Simic
 Cloudfin Raptor~Common~Dimir|Izzet|Azorius|Simic
 Diluvian Primordial~Rare~Dimir|Izzet|Azorius|Simic
-Enter the Infinite~Mythic Rare~Dimir|Izzet|Azorius|Simic
+Enter the Infinite~Mythic Rare~None
 Frilled Oculus~Common~Dimir|Izzet|Azorius|Simic
 Gridlock~Uncommon~Dimir|Izzet|Azorius|Simic
 Hands of Binding~Common~Dimir|Izzet|Azorius|Simic
@@ -68,7 +68,7 @@ Gutter Skulk~Common~Dimir|Golgari|Orzhov|Rakdos
 Horror of the Dim~Common~Dimir|Golgari|Orzhov|Rakdos
 Illness in the Ranks~Uncommon~Dimir|Golgari|Orzhov|Rakdos
 Killing Glare~Uncommon~Dimir|Golgari|Orzhov|Rakdos
-Lord of the Void~Mythic Rare~Dimir|Golgari|Orzhov|Rakdos
+Lord of the Void~Mythic Rare~None
 Mental Vapors~Uncommon~Dimir|Golgari|Orzhov|Rakdos
 Midnight Recovery~Common~Dimir|Golgari|Orzhov|Rakdos
 Ogre Slumlord~Rare~Dimir|Golgari|Orzhov|Rakdos
@@ -91,7 +91,7 @@ Firefist Striker~Uncommon~Boros|Izzet|Gruul|Rakdos
 Five-Alarm Fire~Rare~Boros|Izzet|Gruul|Rakdos
 Foundry Street Denizen~Common~Boros|Izzet|Gruul|Rakdos
 Furious Resistance~Common~Boros|Izzet|Gruul|Rakdos
-Hellkite Tyrant~Mythic Rare~Boros|Izzet|Gruul|Rakdos
+Hellkite Tyrant~Mythic Rare~None
 Hellraiser Goblin~Uncommon~Boros|Izzet|Gruul|Rakdos
 Homing Lightning~Uncommon~Boros|Izzet|Gruul|Rakdos
 Legion Loyalist~Rare~Boros|Izzet|Gruul|Rakdos
@@ -118,7 +118,7 @@ Crowned Ceratok~Uncommon~Golgari|Selesnya|Gruul|Simic
 Disciple of the Old Ways~Common~Golgari|Selesnya|Gruul|Simic
 Experiment One~Uncommon~Golgari|Selesnya|Gruul|Simic
 Forced Adaptation~Common~Golgari|Selesnya|Gruul|Simic
-Giant Adephage~Mythic Rare~Golgari|Selesnya|Gruul|Simic
+Giant Adephage~Mythic Rare~None
 Greenside Watcher~Common~Golgari|Selesnya|Gruul|Simic
 Gyre Sage~Rare~Golgari|Selesnya|Gruul|Simic
 Hindervines~Uncommon~Golgari|Selesnya|Gruul|Simic
@@ -141,7 +141,7 @@ Wildwood Rebirth~Common~Golgari|Selesnya|Gruul|Simic
 Alms Beast~Rare~Orzhov
 Assemble the Legion~Rare~Boros
 Aurelia, the Warleader~Mythic Rare~Boros
-Aurelia's Fury~Mythic Rare~Boros
+Aurelia's Fury~Mythic Rare~None
 Bane Alley Broker~Uncommon~Dimir
 Biovisionary~Rare~Simic
 Borborygmos Enraged~Mythic Rare~Gruul
@@ -150,13 +150,13 @@ Call of the Nightwing~Uncommon~Dimir
 Cartel Aristocrat~Uncommon~Orzhov
 Clan Defiance~Rare~Gruul
 Consuming Aberration~Rare~Dimir
-Deathpact Angel~Mythic Rare~Orzhov
+Deathpact Angel~Mythic Rare~None
 Dimir Charm~Uncommon~Dimir
 Dinrova Horror~Uncommon~Dimir
-Domri Rade~Mythic Rare~Gruul
+Domri Rade~Mythic Rare~None
 Drakewing Krasis~Common~Simic
 Duskmantle Guildmage~Uncommon~Dimir
-Duskmantle Seer~Mythic Rare~Dimir
+Duskmantle Seer~Mythic Rare~None
 Elusive Krasis~Uncommon~Simic
 Executioner's Swing~Common~Orzhov
 Fathom Mage~Rare~Simic
@@ -173,7 +173,7 @@ Hydroform~Common~Simic
 Kingpin's Pet~Common~Orzhov
 Lazav, Dimir Mastermind~Mythic Rare~Dimir
 Martial Glory~Common~Boros
-Master Biomancer~Mythic Rare~Simic
+Master Biomancer~Mythic Rare~None
 Merciless Eviction~Rare~Orzhov
 Mind Grind~Rare~Dimir
 Mortus Strider~Common~Dimir

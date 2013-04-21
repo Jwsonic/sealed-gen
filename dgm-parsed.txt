@@ -1,0 +1,115 @@
+Maze Sentinel~Common~Boros|Orzhov|Azorius|Selesnya
+Renounce the Guilds~Rare~Boros|Orzhov|Azorius|Selesnya
+Sunspire Gatekeepers~Common~Boros|Orzhov|Azorius|Selesnya
+Wake the Reflections~Common~Boros|Orzhov|Azorius|Selesnya
+Scion of Vitu-Ghazi~Rare~Boros|Orzhov|Azorius|Selesnya
+Hidden Strings~Common~Dimir|Izzet|Azorius|Simic
+therling~Rare~Dimir|Izzet|Azorius|Simic
+Maze Glider~Common~Dimir|Izzet|Azorius|Simic
+Opal Lake Gatekeepers~Common~Dimir|Izzet|Azorius|Simic
+Uncovered Clues~Common~Dimir|Izzet|Azorius|Simic
+Blood Scrivener~Rare~Dimir|Golgari|Orzhov|Rakdos
+Crypt Incursion~Common~Dimir|Golgari|Orzhov|Rakdos
+Maze Abomination~Common~Dimir|Golgari|Orzhov|Rakdos
+Pontiff of Blight~Rare~Dimir|Golgari|Orzhov|Rakdos
+Ubul Sar Gatekeepers~Common~Dimir|Golgari|Orzhov|Rakdos
+Maze Rusher~Common~Boros|Izzet|Rakdos|Gruul
+Possibility Storm~Rare~Boros|Izzet|Rakdos|Gruul
+Pyrewild Shaman~Rare~Boros|Izzet|Rakdos|Gruul
+Smelt-Ward Gatekeepers~Common~Boros|Izzet|Rakdos|Gruul
+Maze Behemoth~Common~Golgari|Gruul|Selesnya|Simic
+Renegade Krasis~Rare~Golgari|Gruul|Selesnya|Simic
+Saruli Gatekeepers~Common~Golgari|Gruul|Selesnya|Simic
+Skylasher~Rare~Golgari|Gruul|Selesnya|Simic
+Advent of the Wurm~Rare~Selesnya
+Beetleform Mage~Common~Simic
+Blast of Genius~Uncommon~Izzet
+Blood Baron of Vizkopa~Mythic Rare~Orzhov
+Bred for the Hunt~Uncommon~Simic
+Council of the Absolute~Mythic Rare~Azorius
+Deadbridge Chant~Mythic Rare~Golgari
+Deputy of Acquittals~Common~Azorius
+Dragonshift~Rare~Izzet
+Drown in Filth~Common~Golgari
+Emmara Tandris~Rare~Selesnya
+Exava, Rakdos Blood Witch~Rare~Rakdos
+Fluxcharger~Uncommon~Izzet
+Gaze of Granite~Rare~Golgari
+Gleam of Battle~Uncommon~Boros
+Goblin Test Pilot~Uncommon~Izzet
+Gruul War Chant~Uncommon~Gruul
+Haunter of Nightveil~Uncommon~Dimir
+Jelenn Sphinx~Uncommon~Azorius
+Korozda Gorgon~Uncommon~Golgari
+Lavinia of the Tenth~Rare~Azorius
+Legion's Initiative~Mythic Rare~Boros
+Master of Cruelties~Mythic Rare~Rakdos
+Melek, Izzet Paragon~Rare~Izzet
+Mirko Vosk, Mind Drinker~Rare~Dimir
+Nivix Cyclops~Common~Izzet
+Notion Thief~Rare~Dimir
+Obzedat's Aid~Rare~Orzhov
+Pilfered Plans~Common~Dimir
+Progenitor Mimic~Mythic Rare~Simic
+Putrefy~Uncommon~Golgari
+Ral Zarek~Mythic Rare~Izzet
+Render Silent~Rare~Azorius
+Restore the Peace~Uncommon~Azorius
+Rot Farm Skeleton~Uncommon~Golgari
+Ruric Thar, the Unbowed~Rare~Gruul
+Savageborn Hydra~Mythic Rare~Gruul
+Showstopper~Uncommon~Rakdos
+Sin Collector~Uncommon~Orzhov
+Sire of Insanity~Rare~Rakdos
+Species Gorger~Uncommon~Simic
+Tajic, Blade of the Legion~Rare~Boros
+Teysa, Envoy of Ghosts~Rare~Orzhov
+Tithe Drinker~Common~Orzhov
+Trostani's Summoner~Uncommon~Selesnya
+Unflinching Courage~Uncommon~Selesnya
+Varolz, the Scar-Striped~Rare~Golgari
+Viashino Firstblade~Common~Boros
+Voice of Resurgence~Mythic Rare~Selesnya
+Vorel of the Hull Clade~Rare~Simic
+Warleader's Helix~Uncommon~Boros
+Warped Physique~Uncommon~Dimir
+Woodlot Crawler~Uncommon~Dimir
+Zhur-Taa Ancient~Rare~Gruul
+Plasm Capture~Rare~Simic
+Reap Intellect~Mythic Rare~Dimir
+Spike Jester~Uncommon~Rakdos
+Alive // Well~Uncommon~Selesnya
+Armed // Dangerous~Uncommon~Gruul
+Beck // Call~Rare~Simic
+Breaking // Entering~Rare~Dimir
+Catch // Release~Rare~Boros
+Down // Dirty~Uncommon~Golgari
+Far // Away~Uncommon~Dimir
+Flesh // Blood~Rare~Gruul
+Give // Take~Uncommon~Simic
+Profit // Loss~Uncommon~Orzhov
+Protect // Serve~Uncommon~Azorius
+Ready // Willing~Rare~Orzhov
+Toil // Trouble~Uncommon~Rakdos
+Turn // Burn~Uncommon~Izzet
+Wear // Tear~Uncommon~Boros
+Azorius Cluestone~Common~None
+Boros Cluestone~Common~None
+Dimir Cluestone~Common~None
+Golgari Cluestone~Common~None
+Gruul Cluestone~Common~None
+Izzet Cluestone~Common~None
+Orzhov Cluestone~Common~None
+Rakdos Cluestone~Common~None
+Selesnya Cluestone~Common~None
+Simic Cluestone~Common~None
+Azorius Guildgate~Common~None
+Boros Guildgate~Common~None
+Dimir Guildgate~Common~None
+Golgari Guildgate~Common~None
+Gruul Guildgate~Common~None
+Izzet Guildgate~Common~None
+Orzhov Guildgate~Common~None
+Rakdos Guildgate~Common~None
+Selesnya Guildgate~Common~None
+Simic Guildgate~Common~None

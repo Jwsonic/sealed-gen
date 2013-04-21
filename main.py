@@ -30,7 +30,7 @@ with open('rtr-parsed.txt') as f:
 with open('gtc-parsed.txt') as f:
 	gtc_cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
 
-with open('gdm-parsed.txt') as f:
+with open('dgm-parsed.txt') as f:
 	dgm_cards = [Card(name=row[0], rarity=row[1], guild=row[2]) for row in csv.reader(f, delimiter='~')]
 
 #The prerelease promos and their guilds ARE NO LONGER NEEDED
@@ -111,7 +111,6 @@ class MainPage(webapp2.RequestHandler):
 		<option value="Izzet">Izzet</option>
 		<option value="Golgari">Golgari</option>
 		<option value="Azorius">Azorius</option>
-		<option value="None">Normal Pool</option>
 		</select>
 		<br/>
 		<input type="submit" value="Build Pool">
@@ -136,10 +135,14 @@ class MainPage(webapp2.RequestHandler):
 				pool[card] = 1
 
 		logging.info('Generating secret guild pack')
-		secret_guild = random.choice(colors.keys())
 
-		while secret_guild == guild or len(colors[guild].intersection(colors[secret_guild])) != 1:
-			secret_guild = random.choice(colors.keys())
+		others = gtc_guilds if guild in rtr_guilds else rtr_guilds
+
+		secret_guild = random.choice(others)
+
+		#Grab random guilds from the other set until we have one that shares a color
+		while len(colors[guild].intersection(colors[secret_guild])) != 1:
+			secret_guild = random.choice(others)
 
 		#Generate the secret guild pack
 		pack_maker = gen_guild_pack(secret_guild)
@@ -155,7 +158,7 @@ class MainPage(webapp2.RequestHandler):
 		pack_maker = gen_pack_generator(dgm_cards)
 
 		for i in range(4):
-			for card in pack_maker:
+			for card in pack_maker():
 				if card in pool:
 					pool[card] += 1
 				else:

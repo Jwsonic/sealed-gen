@@ -39,14 +39,12 @@ Illus.	 Cynthia Sheppard
 Rarity:	 Common
 Set Number:	 #10/166
 
-Name:	~Scion of Vitu-Ghazi
+Name: Scion of Vitu-Ghazi
 Cost:	 3ww
 Type:	 Creature - Elemental
 Pow/Tgh:	 4/4
-Rules Text:	 If you cast ~ from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate.
+Rules Text:	 If you cast  from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate.
 Rarity:	 Rare
-
-Blue (5)
 
 Name:	Hidden Strings
 Cost:	 1u
@@ -55,7 +53,7 @@ Rules Text:	 You may tap or untap target permanent, then you may tap or untap an
 Cipher
 Rarity:	 Common
 
-Name:	Ã†therling
+Name:	therling
 Cost:	 4uu
 Type:	 Creature - Shapeshifter
 Pow/Tgh:	 4/5
@@ -96,8 +94,6 @@ Flavor Text:	 The Implicit Maze winds through Ravnica, connecting arcane landmar
 Illus.	 Jaime Jones
 Rarity:	 Common
 Set Number:	 #19/166
-
-Black (5)
 
 Name:	Blood Scrivener
 Cost:	 1b
@@ -143,8 +139,6 @@ Flavor Text:	 There are many gates into the undercity, but there are few ways ou
 Illus.	 Volkan Baga
 Rarity:	 Common
 
-Red (4)
-
 Name:	Maze Rusher
 Cost:	 5R
 Type:	 Creature - Elemental
@@ -180,8 +174,6 @@ Rules Text:	 When Smelt-Ward Gatekeepers enters the battlefield, if you control 
 Illus.	 Daarken
 Rarity:	 Common
 
-Green (4)
-
 Name:	Maze Behemoth
 Cost:	 5G
 Type:	 Creature - Elemental
@@ -213,16 +205,15 @@ Illus.	 Chris Rahn
 Rarity:	 Common
 Set Number:	 #48/166
 
-Name:	~Skylasher
+Name:	Skylasher
 Cost:	 1g
 Type:	 Creature - Spider
 Pow/Tgh:	 2/2
 Rules Text:	 Flash
-~ can't be countered.
+ can't be countered.
 Reach, protection from blue
 Rarity:	 Rare
 
-Multicolor (57)
 
 Name:	Advent of the Wurm
 Cost:	 1GGW
@@ -706,20 +697,20 @@ Flavor Text:	 Many Ravnicans think of nature as orderly groves and elf-tended ro
 Illus.	 Adam Paquette
 Rarity:	 Rare
 
-Name:	~Plasm Capture
+Name:	Plasm Capture
 Cost:	 uugg
 Type:	 Instant
 Rules Text:	 Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spellâ€™s converted mana cost.
 Rarity:	 Rare
 Set Number:	 #91/166
 
-Name:	~Reap Intellect
+Name:	Reap Intellect
 Cost:	 X2ub
 Type:	 Sorcery
 Rules Text:	 Target opponent reveals his or her hand. You choose X non-land cards from among them. Search that player's library, hand and graveyard for cards with the same name as those cards and exile them. Then, that player shuffles his or her library.
 Rarity:	 Mythic Rare
 
-Name:	~Spike Jester
+Name:	Spike Jester
 Cost:	 BR
 Type:	 Goblin Warrior
 Pow/Tgh:	 3/1
@@ -728,8 +719,6 @@ Flavor Text:	 For the Rakdos, "suicidal charge" and "showmanship" are the same t
 Illus.	 Ryan Barger
 Rarity:	 Uncommon
 Set Number:	 #106/166
-
-Splitcard (15)
 
 Name:	Alive // Well
 Cost:	 3G//w
@@ -976,10 +965,9 @@ Flavor Text:	 Simic symbols are among the most intricate and fragile, yet few va
 Illus.	 Raoul Vitale
 Rarity:	 Common
 
-Land (21)
-
 Name:	Azorius Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Azorius Guildgate enters the battlefield tapped.
 {T}: Add {W} or {U} to your mana pool.
 Flavor Text:	 The Azorius symbol stares down like a great eye, reminding visitors of the watchful presence of Isperia and her lawmages.
@@ -989,6 +977,7 @@ Set Number:	 #146/166
 
 Name:	Boros Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Boros Guildgate enters the battlefield tapped.
 {T}: Add {R} or {W} to your mana pool.
 Flavor Text:	 It promises protection to those in need and proclaims a warning to any who would threaten Ravnican law.
@@ -998,6 +987,7 @@ Set Number:	 #147/166
 
 Name:	Dimir Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Dimir Guildgate enters the battlefield tapped.
 {T}: Add {U} or {B} to your mana pool.
 Illus.	 Cliff Childs
@@ -1006,6 +996,7 @@ Set Number:	 #148/166
 
 Name:	Golgari Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Golgari Guildgate enters the battlefield tapped.
 {T}: Add {B} or {G} to your mana pool.
 Flavor Text:	 Every part of the gate was reclaimed from forgotten ruins and imbued with new purpose by the Swarm.
@@ -1015,6 +1006,7 @@ Set Number:	 #149/166
 
 Name:	Gruul Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Gruul Guildgate enters the battlefield tapped.
 {T}: Add {R} or {G} to your mana pool.
 Flavor Text:	 The scarred rubble around the gate is testament to past meetings of the Clans, summits that inevitably devolved into brawls.
@@ -1024,6 +1016,7 @@ Set Number:	 #150/166
 
 Name:	Izzet Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Izzet Guildgate enters the battlefield tapped.
 {T}: Add {U} or {R} to your mana pool.
 Flavor Text:	 Beyond lies the culmination of all Izzet projects, a grand experiment led by the dragon Niv-Mizzet himself.
@@ -1031,17 +1024,9 @@ Illus.	 Noah Bradley
 Rarity:	 Common
 Set Number:	 #151/166
 
-Name:	Maze's End
-Type:	 Land
-Rules Text:	 Maze's End enters the battlefield tapped.
-{T}: Add {1} to your mana pool.
-{3}, {T}, Return Maze's End to your hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.
-Illus.	 Cliff Childs
-Rarity:	 Mythic Rare
-Set Number:	 #152/166
-
 Name:	Orzhov Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Orzhov Guildgate enters the battlefield tapped.
 {T}: Add {W} or {B} to your mana pool.
 Flavor Text:	 "We do not believe in hiding our wealth in the shadows. This is Orzhov, and this is how we reward greatness."
@@ -1052,6 +1037,7 @@ Set Number:	 #153/166
 
 Name:	Rakdos Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Rakdos Guildgate enters the battlefield tapped.
 {T}: Add {R} or {B} to your mana pool.
 Flavor Text:	 Maze-runners who pass through the Rakdos gate leave behind their scruples and a significant amount of skin.
@@ -1061,6 +1047,7 @@ Set Number:	 #154/166
 
 Name:	Selesnya Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Selesnya Guildgate enters the battlefield tapped.
 {T}: Add {G} or {W} to your mana pool.
 Flavor Text:	 The Selesnya welcome all to help them heal the city's wounds. The price, however, is devotion to the guild and a selfless belief in Trostani.
@@ -1070,6 +1057,7 @@ Set Number:	 #155/166
 
 Name:	Simic Guildgate
 Type:	 Land
+Cost: Land
 Rules Text:	 Simic Guildgate enters the battlefield tapped.
 {T}: Add {G} or {U} to your mana pool.
 Flavor Text:	 Simic biomancers don't concern themselves with guarding a gate. Their ever-present bronies are enough to ward off trespassers.
@@ -1077,84 +1065,6 @@ Illus.	 Svetlin Velinov
 Rarity:	 Common
 Set Number:	 #156/166
 
-Name:	Blood Crypt
-Type:	 Land
-Rules Text:	({T}: Add {B} or {R} to your mana pool.)
-As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.
-Illus.	 Vincent Proce
-Rarity:	 Special
-Set Number:	 #157/166
 
-Name:	Breeding Pool
-Type:	 Land
-Rules Text:	({T}: Add {G} or {U} to your mana pool.)
-As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.
-Illus.	 Mike Bierek
-Rarity:	 Special
-Set Number:	 #158/166
-
-Name:	Godless Shrine
-Type:	 Land
-Rules Text:	({T}: Add {W} or {B} to your mana pool.)
-As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.
-Illus.	 Cliff Childs
-Rarity:	 Special
-Set Number:	 #159/166
-
-Name:	Hallowed Fountain
-Type:	 Land
-Rules Text:	({T}: Add {W} or {U} to your mana pool.)
-As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, Hallowed Fountain enters the battlefield tapped.
-Illus.	 Jung Park
-Rarity:	 Special
-Set Number:	 #160/166
-
-Name:	Overgrown Tomb
-Type:	 Land
-Rules Text:	({T}: Add {B} or {G} to your mana pool.)
-As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.
-Illus.	 Steven Belledin
-Rarity:	 Special
-Set Number:	 #161/166
-
-Name:	Sacred Foundry
-Type:	 Land
-Rules Text:	({T}: Add {R} or {W} to your mana pool.)
-As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.
-Illus.	 Sam Burley
-Rarity:	 Special
-Set Number:	 #162/166
-
-Name:	Steam Vents
-Type:	 Land
-Rules Text:	({T}: Add {U} or {R} to your mana pool.)
-As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.
-Illus.	 Yeong-Hao Han
-Rarity:	 Special
-Set Number:	 #163/166
-
-Name:	Stomping Ground
-Type:	 Land
-Rules Text:	({T}: Add {R} or {G} to your mana pool.)
-As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.
-Illus.	 David Palumbo
-Rarity:	 Special
-Set Number:	 #164/166
-
-Name:	Temple Garden
-Type:	 Land
-Rules Text:	({T}: Add {G} or {W} to your mana pool.)
-As Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.
-Illus.	 Volkan Baga
-Rarity:	 Special
-Set Number:	 #165/166
-
-Name:	Watery Grave
-Type:	 Land
-Rules Text:	({T}: Add {U} or {B} to your mana pool.)
-As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.
-Illus.	 Raymond Swanland
-Rarity:	 Special
-Set Number:	 #166/166
 
 
