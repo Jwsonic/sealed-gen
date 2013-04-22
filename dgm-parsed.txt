@@ -1,38 +1,73 @@
-Maze Sentinel~Common~Boros|Orzhov|Azorius|Selesnya
-Renounce the Guilds~Rare~Boros|Orzhov|Azorius|Selesnya
-Sunspire Gatekeepers~Common~Boros|Orzhov|Azorius|Selesnya
-Wake the Reflections~Common~Boros|Orzhov|Azorius|Selesnya
-Scion of Vitu-Ghazi~Rare~Boros|Orzhov|Azorius|Selesnya
-Hidden Strings~Common~Dimir|Izzet|Azorius|Simic
-therling~Rare~Dimir|Izzet|Azorius|Simic
-Maze Glider~Common~Dimir|Izzet|Azorius|Simic
-Opal Lake Gatekeepers~Common~Dimir|Izzet|Azorius|Simic
-Uncovered Clues~Common~Dimir|Izzet|Azorius|Simic
-Blood Scrivener~Rare~Dimir|Golgari|Orzhov|Rakdos
-Crypt Incursion~Common~Dimir|Golgari|Orzhov|Rakdos
-Maze Abomination~Common~Dimir|Golgari|Orzhov|Rakdos
-Pontiff of Blight~Rare~Dimir|Golgari|Orzhov|Rakdos
-Ubul Sar Gatekeepers~Common~Dimir|Golgari|Orzhov|Rakdos
-Maze Rusher~Common~Boros|Izzet|Rakdos|Gruul
-Possibility Storm~Rare~Boros|Izzet|Rakdos|Gruul
-Pyrewild Shaman~Rare~Boros|Izzet|Rakdos|Gruul
-Smelt-Ward Gatekeepers~Common~Boros|Izzet|Rakdos|Gruul
-Maze Behemoth~Common~Golgari|Gruul|Selesnya|Simic
-Renegade Krasis~Rare~Golgari|Gruul|Selesnya|Simic
-Saruli Gatekeepers~Common~Golgari|Gruul|Selesnya|Simic
-Skylasher~Rare~Golgari|Gruul|Selesnya|Simic
+Boros Mastiff~Common~Orzhov|Selesnya|Boros|Azorius
+Haazda Snare Guard~Common~Orzhov|Selesnya|Boros|Azorius
+Lyev Decree~Common~Orzhov|Selesnya|Boros|Azorius
+Maze Sentinel~Common~Orzhov|Selesnya|Boros|Azorius
+Renounce the Guilds~Rare~Orzhov|Selesnya|Boros|Azorius
+Riot Control~Common~Orzhov|Selesnya|Boros|Azorius
+Scion of Vitu-Ghazi~Rare~Orzhov|Selesnya|Boros|Azorius
+Steeple Roc~Common~Orzhov|Selesnya|Boros|Azorius
+Sunspire Gatekeepers~Common~Orzhov|Selesnya|Boros|Azorius
+Wake the Reflections~Common~Orzhov|Selesnya|Boros|Azorius
+AEtherling~Rare~Izzet|Simic|Dimir|Azorius
+Hidden Strings~Common~Izzet|Simic|Dimir|Azorius
+Maze Glider~Common~Izzet|Simic|Dimir|Azorius
+Mindstatic~Common~Izzet|Simic|Dimir|Azorius
+Murmuring Phantasm~Common~Izzet|Simic|Dimir|Azorius
+Opal Lake Gatekeepers~Common~Izzet|Simic|Dimir|Azorius
+Runner's Bane~Common~Izzet|Simic|Dimir|Azorius
+Trait Doctoring~Rare~Izzet|Simic|Dimir|Azorius
+Uncovered Clues~Common~Izzet|Simic|Dimir|Azorius
+Wind Drake~Common~Izzet|Simic|Dimir|Azorius
+Bane Alley Blackguard~Common~Orzhov|Golgari|Rakdos|Dimir
+Blood Scrivener~Rare~Orzhov|Golgari|Rakdos|Dimir
+Crypt Incursion~Common~Orzhov|Golgari|Rakdos|Dimir
+Fatal Fumes~Common~Orzhov|Golgari|Rakdos|Dimir
+Hired Torturer~Common~Orzhov|Golgari|Rakdos|Dimir
+Maze Abomination~Common~Orzhov|Golgari|Rakdos|Dimir
+Pontiff of Blight~Rare~Orzhov|Golgari|Rakdos|Dimir
+Rakdos Drake~Common~Orzhov|Golgari|Rakdos|Dimir
+Sinister Possession~Common~Orzhov|Golgari|Rakdos|Dimir
+Ubul Sar Gatekeepers~Common~Orzhov|Golgari|Rakdos|Dimir
+Awe for the Guilds~Common~Gruul|Rakdos|Boros|Izzet
+Clear a Path~Common~Gruul|Rakdos|Boros|Izzet
+Maze Rusher~Common~Gruul|Rakdos|Boros|Izzet
+Possibility Storm~Rare~Gruul|Rakdos|Boros|Izzet
+Punish the Enemy~Common~Gruul|Rakdos|Boros|Izzet
+Pyrewild Shaman~Rare~Gruul|Rakdos|Boros|Izzet
+Riot Piker~Common~Gruul|Rakdos|Boros|Izzet
+Rubblebelt Maaka~Common~Gruul|Rakdos|Boros|Izzet
+Smelt-Ward Gatekeepers~Common~Gruul|Rakdos|Boros|Izzet
+Weapon Surge~Common~Gruul|Rakdos|Boros|Izzet
+Battering Krasis~Common~Golgari|Selesnya|Simic|Gruul
+Kraul Warrior~Common~Golgari|Selesnya|Simic|Gruul
+Maze Behemoth~Common~Golgari|Selesnya|Simic|Gruul
+Mending Touch~Common~Golgari|Selesnya|Simic|Gruul
+Mutant's Prey~Common~Golgari|Selesnya|Simic|Gruul
+Phytoburst~Common~Golgari|Selesnya|Simic|Gruul
+Renegade Krasis~Rare~Golgari|Selesnya|Simic|Gruul
+Saruli Gatekeepers~Common~Golgari|Selesnya|Simic|Gruul
+Skylasher~Rare~Golgari|Selesnya|Simic|Gruul
+Thrashing Mossdog~Common~Golgari|Selesnya|Simic|Gruul
 Advent of the Wurm~Rare~Selesnya
+Armored Wolf-Rider~Common~Selesnya
+Ascended Lawmage~Uncommon~Azorius
 Beetleform Mage~Common~Simic
 Blast of Genius~Uncommon~Izzet
+Blaze Commando~Uncommon~Boros
 Blood Baron of Vizkopa~Mythic Rare~Orzhov
+Boros Battleshaper~Rare~Boros
 Bred for the Hunt~Uncommon~Simic
+Bronzebeak Moa~Uncommon~Selesnya
+Carnage Gladiator~Uncommon~Rakdos
 Council of the Absolute~Mythic Rare~Azorius
 Deadbridge Chant~Mythic Rare~Golgari
+Debt to the Deathless~Uncommon~Orzhov
 Deputy of Acquittals~Common~Azorius
 Dragonshift~Rare~Izzet
 Drown in Filth~Common~Golgari
 Emmara Tandris~Rare~Selesnya
 Exava, Rakdos Blood Witch~Rare~Rakdos
+Feral Animist~Uncommon~Gruul
 Fluxcharger~Uncommon~Izzet
 Gaze of Granite~Rare~Golgari
 Gleam of Battle~Uncommon~Boros
@@ -41,27 +76,34 @@ Gruul War Chant~Uncommon~Gruul
 Haunter of Nightveil~Uncommon~Dimir
 Jelenn Sphinx~Uncommon~Azorius
 Korozda Gorgon~Uncommon~Golgari
+Krasis Incubation~Uncommon~Simic
 Lavinia of the Tenth~Rare~Azorius
 Legion's Initiative~Mythic Rare~Boros
 Master of Cruelties~Mythic Rare~Rakdos
+Maw of the Obzedat~Uncommon~Orzhov
 Melek, Izzet Paragon~Rare~Izzet
 Mirko Vosk, Mind Drinker~Rare~Dimir
+Morgue Burst~Common~Rakdos
 Nivix Cyclops~Common~Izzet
 Notion Thief~Rare~Dimir
 Obzedat's Aid~Rare~Orzhov
 Pilfered Plans~Common~Dimir
+Plasm Capture~Rare~Simic
 Progenitor Mimic~Mythic Rare~Simic
 Putrefy~Uncommon~Golgari
 Ral Zarek~Mythic Rare~Izzet
+Reap Intellect~Mythic Rare~Dimir
 Render Silent~Rare~Azorius
 Restore the Peace~Uncommon~Azorius
 Rot Farm Skeleton~Uncommon~Golgari
 Ruric Thar, the Unbowed~Rare~Gruul
 Savageborn Hydra~Mythic Rare~Gruul
+Scab-Clan Giant~Uncommon~Gruul
 Showstopper~Uncommon~Rakdos
 Sin Collector~Uncommon~Orzhov
 Sire of Insanity~Rare~Rakdos
 Species Gorger~Uncommon~Simic
+Spike Jester~Uncommon~Rakdos
 Tajic, Blade of the Legion~Rare~Boros
 Teysa, Envoy of Ghosts~Rare~Orzhov
 Tithe Drinker~Common~Orzhov
@@ -75,9 +117,7 @@ Warleader's Helix~Uncommon~Boros
 Warped Physique~Uncommon~Dimir
 Woodlot Crawler~Uncommon~Dimir
 Zhur-Taa Ancient~Rare~Gruul
-Plasm Capture~Rare~Simic
-Reap Intellect~Mythic Rare~Dimir
-Spike Jester~Uncommon~Rakdos
+Zhur-Taa Druid~Common~Gruul
 Alive // Well~Uncommon~Selesnya
 Armed // Dangerous~Uncommon~Gruul
 Beck // Call~Rare~Simic

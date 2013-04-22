@@ -59,6 +59,6 @@ if __name__ == '__main__':
 
 		cards = ['{0}~{1}~{2}'.format(names[i], rarities[i], costs[i]) for i in range(len(names))]
 
-		with open(sys.argv[1][:-4] + '-parsed.txt', 'w') as f:
+		with open(sys.argv[1][:-4] + '-parsed.txt', 'w', encoding='utf-8') as f:
 			f.write('\n'.join(cards))
 				

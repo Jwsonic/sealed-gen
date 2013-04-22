@@ -1,3 +1,37 @@
+MTG Salvation Spoiler
+
+Dragon's Maze Spoiler 166/166
+
+White (10)
+
+Name:	Boros Mastiff
+Cost:	 1w
+Type:	 Creature - Hound
+Pow/Tgh:	 2/2
+Rules Text:	Battalion â€” Whenever Boros Mastiff and at least two other cretaures attack, Boros Mastiff gets lifelink until end of turn.
+Illus.	 Kev Walker
+Rarity:	 Common
+Set Number:	 #1/166
+
+Name:	Haazda Snare Guard
+Cost:	 2w
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 1/4
+Rules Text:	 Whenever Haazda Snare Guard attacks you may pay {w}. If you do, tap target creature an opponent controls.
+Flavor Text:	 They've been probation officers, army grunts, bouty huntersâ€”anything to make their district safer.
+Illus.	 David Palumbo
+Rarity:	 Common
+Set Number:	 #2/166
+
+Name:	Lyev Decree
+Cost:	 1w
+Type:	 Sorcery
+Rules Text:	 Detain up to two target creatures your opponent controls.
+Flavor Text:	 The Azorius have so many codes and statutes that you're always in violation of one of them.
+Illus.	 Kev Walker
+Rarity:	 Common
+Set Number:	 #3/166
+
 Name:	Maze Sentinel
 Cost:	 5W
 Type:	 Creature - Elemental
@@ -19,6 +53,36 @@ Illus.	 Daarken
 Rarity:	 Rare
 Set Number:	 #5/166
 
+Name:	Riot Control
+Cost:	 2w
+Type:	 Instant
+Rules Text:	 Gain 1 life for each creature your opponents control. Prevent all damage that would be dealt to you this turn.
+Flavor Text:	 "Ravnicans need order. If they don't have it, we shall bring it to them."
+â€”Isperia
+Illus.	 Slawomir Maniak
+Rarity:	 Common
+Set Number:	 #6/166
+
+Name:	Scion of Vitu-Ghazi
+Cost:	 3ww
+Type:	 Creature - Elemental
+Pow/Tgh:	 4/4
+Rules Text:	 When Scion of Vitu-Ghazi enters the battlefield, if you cast it from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate.
+Illus.	 William Murai
+Rarity:	 Rare
+Set Number:	 #7/166
+
+Name:	Steeple Roc
+Cost:	 4w
+Type:	 Creature - Bird
+Pow/Tgh:	 3/1
+Rules Text:	 Flying, first strike
+Flavor Text:	 "Sometimes it forgets to loosen its grip before taking flight. I lost my roof that way."
+â€”Ecaban, Boros scout
+Illus.	 David Palumbo
+Rarity:	 Common
+Set Number:	 #8/166
+
 Name:	Sunspire Gatekeepers
 Cost:	 3w
 Type:	 Creature - Human Soldier
@@ -39,21 +103,9 @@ Illus.	 Cynthia Sheppard
 Rarity:	 Common
 Set Number:	 #10/166
 
-Name: Scion of Vitu-Ghazi
-Cost:	 3ww
-Type:	 Creature - Elemental
-Pow/Tgh:	 4/4
-Rules Text:	 If you cast  from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate.
-Rarity:	 Rare
+Blue (10)
 
-Name:	Hidden Strings
-Cost:	 1u
-Type:	 Sorcery
-Rules Text:	 You may tap or untap target permanent, then you may tap or untap another target permanent
-Cipher
-Rarity:	 Common
-
-Name:	therling
+Name:	Ã†therling
 Cost:	 4uu
 Type:	 Creature - Shapeshifter
 Pow/Tgh:	 4/5
@@ -64,6 +116,15 @@ Rules Text:	 {u}: Exile Ã†therling. Return it to the battlefield under its ow
 Illus.	 Tyler Jacobson
 Rarity:	 Rare
 Set Number:	 #11/166
+
+Name:	Hidden Strings
+Cost:	 1u
+Type:	 Sorcery
+Rules Text:	 You may tap or untap target permanent, then you may tap or untap another target permanent
+Cipher
+Illus.	 Daarken
+Rarity:	 Common
+Set Number:	 #12/166
 
 Name:	Maze Glider
 Cost:	 5U
@@ -76,6 +137,27 @@ Illus.	 Yeong-Hao Han
 Rarity:	 Common
 Set Number:	 #13/166
 
+Name:	Mindstatic
+Cost:	 3u
+Type:	 Instant
+Rules Text:	 Counter target spell unless it's controller pays {6}.
+Flavor Text:	 "It's always satisfying to stymie the best efforts of a rival, but the reactions of the Gruul are particularly amusing."
+â€”Bori Andon, Izzet Blastseeker
+Illus.	 Johann Bodin
+Rarity:	 Common
+Set Number:	 #14/166
+
+Name:	Murmuring Phantasm
+Cost:	 1u
+Type:	 Creature - Spirit
+Pow/Tgh:	 0/5
+Rules Text:	 Defender
+Flavor Text:	 "The most insidious thing in the world is nonsense that sounds just plausible enough to listen to."
+â€”Lazav
+Illus.	 Peter Mohrbacher
+Rarity:	 Common
+Set Number:	 #15/166
+
 Name:	Opal Lake Gatekeepers
 Cost:	 3U
 Type:	 Creature - Vedalken Soldier
@@ -86,6 +168,25 @@ Illus.	 Seb McKinnon
 Rarity:	 Common
 Set Number:	 #16/166
 
+Name:	Runner's Bane
+Cost:	 1u
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature with power 3 or less
+When Runner's Bane enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during the untap step.
+Illus.	 Karl Kopinski
+Rarity:	 Common
+Set Number:	 #17/166
+
+Name:	Trait Doctoring
+Cost:	 u
+Type:	 Sorcery
+Rules Text:	 Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another until end of turn.
+Cipher
+Illus.	 Clint Cearley
+Rarity:	 Rare
+Set Number:	 #17/166
+
 Name:	Uncovered Clues
 Cost:	 2U
 Type:	 Sorcery
@@ -94,6 +195,27 @@ Flavor Text:	 The Implicit Maze winds through Ravnica, connecting arcane landmar
 Illus.	 Jaime Jones
 Rarity:	 Common
 Set Number:	 #19/166
+
+Name:	Wind Drake
+Cost:	 2u
+Type:	 Creature - Drake
+Pow/Tgh:	 2/2
+Rules Text:	 Flying
+Flavor Text:	 Air currents whip through the city corridors, creating wind tunnels that accelerate urban drakes towards their prey.
+Illus.	 John Severin Brassell
+Rarity:	 Common
+Set Number:	 #20/166
+
+Black (10)
+
+Name:	Bane Alley Blackguard
+Cost:	 1b
+Type:	 Creature - Human Rogue
+Pow/Tgh:	 1/3
+Flavor Text:	 "I'm in the field of procurement, and business is good. The guilds want all kinds of maps and relics these days, though what they want them for I'm not quite sure."
+Illus.	 Mike Bierek
+Rarity:	 Common
+Set Number:	 #21/166
 
 Name:	Blood Scrivener
 Cost:	 1b
@@ -109,7 +231,30 @@ Name:	Crypt Incursion
 Cost:	 2b
 Type:	 Instant
 Rules Text:	 Exile all creature cards from target player's graveyard. You gain 3 life for each card exiled this way.
+Flavor Text:	 The Golgari maze-runner Varolz hungers to prove his fortitude in battle, and his trail of victims feeds other hungers.
+Illus.	 Svetlin Vellinov
 Rarity:	 Common
+Set Number:	 #23/166
+
+Name:	Fatal Fumes
+Cost:	 3b
+Type:	 Instant
+Rules Text:	 Target creature gets -4/-2 until end of turn.
+Flavor Text:	 Travelers in the undercity dread the horrors and assassins of the Dimir, but nearly as many die from more mundane hazards.
+Illus.	 Kev Walker
+Rarity:	 Common
+Set Number:	 #24/166
+
+Name:	Hired Torturer
+Cost:	 2b
+Type:	 Creature - Human Rogue
+Pow/Tgh:	 2/3
+Rules Text:	 Defender
+{3}{b}, {t}: Target opponent loses 2 life and reveals a card at random from his or her hand.
+Flavor Text:	 "Follow your passion, I always say. Might as well get paid to do what you love."
+Illus.	 Winona Nelson
+Rarity:	 Common
+Set Number:	 #25/166
 
 Name:	Maze Abomination
 Cost:	 5B
@@ -119,6 +264,7 @@ Rules Text:	 Deathtouch
 Multicolored creatures you control have deathtouch.
 Illus.	 Yeong-Hao Han
 Rarity:	 Common
+Set Number:	 #26/166
 
 Name:	Pontiff of Blight
 Cost:	 4BB
@@ -130,6 +276,28 @@ Illus.	 Seb McKinnon
 Rarity:	 Rare
 Set Number:	 #27/166
 
+Name:	Rakdos Drake
+Cost:	 2b
+Type:	 Creature - Drake
+Pow/Tgh:	 1/2
+Rules Text:	 Flying
+Unleash
+Flavor Text:	 Rakdos rioters paint their faces to resemble their drakes' bloodied muzzles.
+Illus.	 Karl Kopinski
+Rarity:	 Common
+Set Number:	 #28/166
+
+Name:	Sinister Possession
+Cost:	 b
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Whenever enchanted creature attacks or blocks, it's controller loses 2 life.
+Flavor Text:	 "You caught something on a cold night's stroll? No, I'd say something caught you."
+â€”Mezim Magrah, civic healer
+Illus.	 Anthony Palumbo
+Rarity:	 Common
+Set Number:	 #29/166
+
 Name:	Ubul Sar Gatekeepers
 Cost:	 3b
 Type:	 Creature - Zombie Soldier
@@ -138,6 +306,27 @@ Rules Text:	 Whenever Ubul Sar Gatekeepers enters the battlefield, if you contro
 Flavor Text:	 There are many gates into the undercity, but there are few ways out.
 Illus.	 Volkan Baga
 Rarity:	 Common
+Set Number:	 #30/166
+
+Red (10)
+
+Name:	Awe for the Guilds
+Cost:	 2R
+Type:	 Sorcery
+Rules Text:	 Monocolored creatures can't block this turn.
+Flavor Text:	 When the guilds cooperate, the guildless separate their peaceful society. When the guilds clash, the guildless just try to keep out of the way.
+Illus.	 Mathias Kollros
+Rarity:	 Common
+Set Number:	 #31/166
+
+Name:	Clear a Path
+Cost:	 R
+Type:	 Sorcery
+Rules Text:	 Destroy target creature with defender.
+Flavor Text:	 "Why do guards always look surprised when we bash them?" asked Ruric. "I think they expect a bribe," said Thar.
+Illus.	 Karl Kopinski
+Rarity:	 Common
+Set Number:	 #32/166
 
 Name:	Maze Rusher
 Cost:	 5R
@@ -149,6 +338,7 @@ Flavor Text:	 "The maze seems to fight us at every turn, resisting our efforts t
 â€”Niv-Mizzet
 Illus.	 Yeong-Hao Han
 Rarity:	 Common
+Set Number:	 #33/166
 
 Name:	Possibility Storm
 Cost:	 3rr
@@ -156,6 +346,17 @@ Type:	 Enchantment
 Rules Text:	 Whenever a player casts a spell from his or her hand, that player exiles it, then exiles cards from the top of his or her library until he or she exiles a card that shares a card type with it. That player may cast that card without paying its mana cost. Then he or she puts all cards exiled with Possibility Storm on the bottom of his or her library in a random order.
 Illus.	 Jason Felix
 Rarity:	 Rare
+Set Number:	 #34/166
+
+Name:	Punish the Enemy
+Cost:	 4R
+Type:	 Instant
+Rules Text:	 Punish the Enemy deals 3 damage to target player and 3 damage to target creature.
+Flavor Text:	 "When justice descends, the servant will burn with the master."
+â€”Aurelia
+Illus.	 Slawomir Maniak
+Rarity:	 Common
+Set Number:	 #35/166
 
 Name:	Pyrewild Shaman
 Cost:	 2r
@@ -165,6 +366,29 @@ Rules Text:	Bloodrush â€” {1}{R}, Discard Pyrewild Shaman: Target attacking
 Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay {3}. If you do, return Pyrewild Shaman to your hand.
 Illus.	 Lucas Graciano
 Rarity:	 Rare
+Set Number:	 #36/166
+
+Name:	Riot Piker
+Cost:	 1R
+Type:	 Creature - Goblin Berserker
+Pow/Tgh:	 2/1
+Rules Text:	 First strike
+Riot Piker attacks each turn if able.
+Flavor Text:	 He doesn't care whether he's rioting about trade riots or just having a drunken brawl. He wakes up every morning eager to smash some heads.
+Illus.	 Christopher Mueller
+Rarity:	 Common
+Set Number:	 #37/166
+
+Name:	Rubblebelt Maaka
+Cost:	 3R
+Type:	 Creature - Cat
+Pow/Tgh:	 3/3
+Rules Text:	Bloodrush â€” {R}, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn.
+Flavor Text:	 "The maaka remain loyal to us in this time of strife. We don't even have to feed them - our enemies do."
+â€”Nedja, Gruul shaman
+Illus.	 Eric Volhagen
+Rarity:	 Common
+Set Number:	 #38/166
 
 Name:	Smelt-Ward Gatekeepers
 Cost:	 3r
@@ -173,6 +397,38 @@ Pow/Tgh:	 2/4
 Rules Text:	 When Smelt-Ward Gatekeepers enters the battlefield, if you control two or more Gates, gain control of target creature an opponent controls until end of turn. Untap that creature. That creature gains haste until end of turn.
 Illus.	 Daarken
 Rarity:	 Common
+Set Number:	 #39/166
+
+Name:	Weapon Surge
+Cost:	 R
+Type:	 Instant
+Rules Text:	 Target creature you control gets +1/+0 and gains first strike until end of turn.
+Overload {1}{R}
+Illus.	 Jason Felix
+Rarity:	 Common
+Set Number:	 #40/166
+
+Green (10)
+
+Name:	Battering Krasis
+Cost:	 2g
+Type:	 Creature - Fish Beast
+Pow/Tgh:	 2/1
+Rules Text:	 Trample
+Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
+Illus.	 Jack Wang
+Rarity:	 Common
+Set Number:	 #41/166
+
+Name:	Kraul Warrior
+Cost:	 1g
+Type:	 Creature - Insect Warrior
+Pow/Tgh:	 2/2
+Rules Text:	 {5}{G}: Kraul Warrior gets +3/+3 until end of turn.
+Flavor Text:	 The insectile kraul lurk in the tunnels below street level. Many are loyal to the Golgari Swarm, but others follow their own esoteric caste system.
+Illus.	 David Rapoza
+Rarity:	 Common
+Set Number:	 #42/166
 
 Name:	Maze Behemoth
 Cost:	 5G
@@ -184,6 +440,34 @@ Flavor Text:	 It returned to the leylines as quickly as it had appeared, leaving
 Illus.	 Yeong-Hao Han
 Rarity:	 Common
 Set Number:	 #43/166
+
+Name:	Mending Touch
+Cost:	 G
+Type:	 Instant
+Rules Text:	 Regenerate target creature.
+Flavor Text:	 The gift of life must be freely given. Anything less would diminish us all.
+â€”Arin, Selesnya healer
+Illus.	 Karla Ortiz
+Rarity:	 Common
+Set Number:	 #44/166
+
+Name:	Mutant's Prey
+Cost:	 G
+Type:	 Instant
+Rules Text:	 Target creature you control with a +1/+1 counter on it fights target creature an opponent controls.
+Flavor Text:	 Every street corner is a hunting ground, every citizen potential prey.
+Illus.	 Ryan Burger
+Rarity:	 Common
+Set Number:	 #45/166
+
+Name:	Phytoburst
+Cost:	 1G
+Type:	 Sorcery
+Rules Text:	 Target creature gets +5/+5 until end of turn.
+Flavor Text:	 Phytohydras are banned as houseplant in many residential spires. If left unfed, they find their own exit-usually at the cost of extensive property damage.
+Illus.	 Izzy
+Rarity:	 Common
+Set Number:	 #46/166
 
 Name:	Renegade Krasis
 Cost:	 1gg
@@ -207,13 +491,28 @@ Set Number:	 #48/166
 
 Name:	Skylasher
 Cost:	 1g
-Type:	 Creature - Spider
+Type:	 Creature - Insect
 Pow/Tgh:	 2/2
 Rules Text:	 Flash
- can't be countered.
+Skylasher can't be countered.
 Reach, protection from blue
+Flavor Text:	 "It preys on those who would spy on our lands, so we never prey on it."
+â€”Kroshkar, Gruul shaman
+Illus.	 Dan Scott
 Rarity:	 Rare
+Set Number:	 #49/166
 
+Name:	Thrashing Mossdog
+Cost:	 3G
+Type:	 Creature - Plant Hound
+Pow/Tgh:	 3/3
+Rules Text:	 Reach
+Scavenge {4}{G}{G}
+Illus.	 Ryan Burger
+Rarity:	 Common
+Set Number:	 #50/166
+
+Multicolor (70)
 
 Name:	Advent of the Wurm
 Cost:	 1GGW
@@ -222,13 +521,37 @@ Rules Text:	 Put a 5/5 green Wurm creature token with trample onto the battlefie
 Flavor Text:	 The consciousness of Mat'Selesnya does not always spread in peaceful ways.
 Illus.	 Lucas Graciano
 Rarity:	 Rare
+Set Number:	 #51/166
+
+Name:	Armored Wolf-Rider
+Cost:	 3GW
+Type:	 Creature - Elf Knight
+Pow/Tgh:	 4/6
+Flavor Text:	 Wolf-riders of Selesnya apprentice from a young age. Each rider raises a wolf pup from birth to serve as a mount, hoping that one day the two will share the honor of guarding the Great Conclave.
+Illus.	 Matt Stewart
+Rarity:	 Common
+Set Number:	 #52/166
+
+Name:	Ascended Lawmage
+Cost:	 2WU
+Type:	 Creature - Vedalken Wizard
+Pow/Tgh:	 3/2
+Rules Text:	 Flying, hexproof
+Flavor Text:	 A lawmage's runic script is an act of governance given form: legislation written directly onto the air itself.
+Illus.	 Ryan Yee
+Rarity:	 Uncommon
+Set Number:	 #53/166
 
 Name:	Beetleform Mage
 Cost:	 1gu
 Type:	 Creature - Human Insect Wizard
 Pow/Tgh:	 2/2
 Rules Text:	 {G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
+Flavor Text:	 "When the Simic say to take command of your life, we don't mean just your career."
+â€”Vorel of the Hull Clade
+Illus.	 Marco Nelor
 Rarity:	 Common
+Set Number:	 #54/166
 
 Name:	Blast of Genius
 Cost:	 4ur
@@ -237,6 +560,17 @@ Rules Text:	 Choose target creature or player. Draw three cards and discard a ca
 Flavor Text:	 Ral Zarek's brainstorms bring actual thunder and lightning.
 Illus.	 Terese Nielsen
 Rarity:	 Uncommon
+Set Number:	 #55/166
+
+Name:	Blaze Commando
+Cost:	 3RW
+Type:	 Creature - Minotaur Soldier
+Pow/Tgh:	 5/3
+Rules Text:	 Whenever an instant or sorcery spell you control deals damage, put two 1/1 red and white Soldier creature tokens with haste onto the battlefield.
+Flavor Text:	 A true Boros commando only calls for reinforcements so they can clean up the mess.
+Illus.	 James Ryman
+Rarity:	 Uncommon
+Set Number:	 #56/166
 
 Name:	Blood Baron of Vizkopa
 Cost:	 3WB
@@ -246,6 +580,17 @@ Rules Text:	 Lifelink, protection from white and from black.
 As long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying.
 Illus.	 Anthony Palumbo
 Rarity:	 Mythic Rare
+Set Number:	 #57/166
+
+Name:	Boros Battleshaper
+Cost:	 5RW
+Type:	 Creature - Minotaur Soldier
+Pow/Tgh:	 5/5
+Rules Text:	 At the beginning of each combat, up to one target creature attacks or blocks this combat if able and up to one target creature can't attack or block this combat.
+Flavor Text:	 Leaders shape the minds of their allies. It takes a master to shape the minds of enemies.
+Illus.	 Zoltan Boros
+Rarity:	 Rare
+Set Number:	 #58/166
 
 Name:	Bred for the Hunt
 Cost:	 1GU
@@ -256,6 +601,27 @@ Illus.	 Karl Kopinski
 Rarity:	 Uncommon
 Set Number:	 #59/166
 
+Name:	Bronzebeak Moa
+Cost:	 2GW
+Type:	 Creature - Bird
+Pow/Tgh:	 2/2
+Rules Text:	 Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn.
+Flavor Text:	 They fight for their home with more loyalty than any conscripts.
+Illus.	 James Ryman
+Rarity:	 Uncommon
+Set Number:	 #60/166
+
+Name:	Carnage Gladiator
+Cost:	 2BR
+Type:	 Creature - Skeleton Warrior
+Pow/Tgh:	 4/2
+Rules Text:	 Whenever a creature blocks, that creature's controller loses 1 life.
+{1}{b}{r}: Renegerate Carnage Gladiator.
+Flavor Text:	 Not the foulest or bloodiest act at Rix Maadi by a stretch.
+Illus.	 Ryan Barger
+Rarity:	 Uncommon
+Set Number:	 #61/166
+
 Name:	Council of the Absolute
 Cost:	 2wu
 Type:	 Creature - Human Advisor
@@ -265,6 +631,7 @@ Your opponents can't cast the chosen card.
 Spells with the chosen name cost {2} less for you to cast.
 Illus.	 Zoltan Boros
 Rarity:	 Mythic Rare
+Set Number:	 #62/166
 
 Name:	Deadbridge Chant
 Cost:	 4BG
@@ -273,6 +640,16 @@ Rules Text:	 When Deadbridge Chant enters the battlefield, put the top ten cards
 At the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.
 Illus.	 Zoltan Boros
 Rarity:	 Mythic Rare
+Set Number:	 #63/166
+
+Name:	Debt to the Deathless
+Cost:	 XWWBB
+Type:	 Sorcery
+Rules Text:	 Each opponent loses two times X life. You gain life equal to the life lost this way.
+Flavor Text:	 Some of Orzhov's cruelest collectors remember their debtors by taste alone.
+Illus.	 Seb McKinnon
+Rarity:	 Uncommon
+Set Number:	 #64/166
 
 Name:	Deputy of Acquittals
 Cost:	 WU
@@ -283,6 +660,7 @@ When Deputy of Acquittals enters the battlefield, you may return another target 
 Flavor Text:	 "Everyone deserves a day in court."
 Illus.	 James Ryman
 Rarity:	 Common
+Set Number:	 #65/166
 
 Name:	Dragonshift
 Cost:	 1{U}{R}
@@ -291,12 +669,16 @@ Rules Text:	 Until end of turn, target creature you control becomes a 4/4 blue a
 Overload {3}{U}{U}{R}{R}
 Illus.	 Svetlin Velinov
 Rarity:	 Rare
+Set Number:	 #66/166
 
 Name:	Drown in Filth
 Cost:	 BG
 Type:	 Sorcery
 Rules Text:	 Choose target creature. Put the top four cards of your library into your graveyard, then that creatures gets -1/-1 until end of turn for each land card in your graveyard.
+Flavor Text:	 The rot farmer's first rite of passage is to craft a pair of work stilts.
+Illus.	 Seb McKinnon
 Rarity:	 Common
+Set Number:	 #67/166
 
 Name:	Emmara Tandris
 Cost:	 5GW
@@ -306,6 +688,7 @@ Rules Text:	 Prevent all damage that would be dealt to creature tokens you contr
 Flavor Text:	 When Selesnya needed a champion, Emmara put the ranks of her guild before herselfâ€”making her the perfect choice.
 Illus.	 Mark Winters
 Rarity:	 Rare
+Set Number:	 #68/166
 
 Name:	Exava, Rakdos Blood Witch
 Cost:	 2br
@@ -316,13 +699,28 @@ Unleash
 Each other creature you control with a +1/+1 counter on it has haste.
 Illus.	 Aleksi Briclot
 Rarity:	 Rare
+Set Number:	 #69/166
+
+Name:	Feral Animist
+Cost:	 1RG
+Type:	 Creature - Goblin Shaman
+Pow/Tgh:	 2/1
+Rules Text:	 {3}: Feral Animist gets +X/+0 until end of turn, where X is its power.
+Flavor Text:	 "Channeling the rage of the beast is the easy part. Explaining why you woke up with no memory in a pile of mangled lawmagesâ€”that's trickier."
+Illus.	 Dave Kendall
+Rarity:	 Uncommon
+Set Number:	 #70/166
 
 Name:	Fluxcharger
 Cost:	 2ur
 Type:	 Creature - Weird
 Pow/Tgh:	 1/5
-Rules Text:	 Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.
+Rules Text:	 Flying
+Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.
+Flavor Text:	 One part mizzium, two parts elemental energy, eleven parts danger.
+Illus.	 William Murai
 Rarity:	 Uncommon
+Set Number:	 #71/166
 
 Name:	Gaze of Granite
 Cost:	 xbbg
@@ -352,12 +750,17 @@ Flavor Text:	 "All pilots and prototypes destroyed. Extensive collateral damage 
 â€”Manual of Melek
 Illus.	 Svetlin Velinov
 Rarity:	 Uncommon
+Set Number:	 #74/166
 
 Name:	Gruul War Chant
 Cost:	 2RG
 Type:	 Enchantment
 Rules Text:	 Each attacking creature you control gets +1/+0 and can't be blocked except by two or more creatures.
+Flavor Text:	 "We are the heart of the wild, the fire in its eyes, and the howl in its throat. Come, join the battle to which you were born."
+â€”Kroshkar, Gruul shaman
+Illus.	 Dave Kendall
 Rarity:	 Uncommon
+Set Number:	 #75/166
 
 Name:	Haunter of Nightveil
 Cost:	 3ub
@@ -389,6 +792,17 @@ Rules Text:	 Deathtouch
 Flavor Text:	 "Welcome to my collection."
 Illus.	 Volkan Baga
 Rarity:	 Uncommon
+Set Number:	 #78/166
+
+Name:	Krasis Incubation
+Cost:	 2GU
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+{1}{g}{u}, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.
+Illus.	 Marco Nelor
+Rarity:	 Uncommon
+Set Number:	 #79/166
 
 Name:	Lavinia of the Tenth
 Cost:	 3WU
@@ -408,6 +822,7 @@ White creatures you control get +0/+1.
 {r}{w}, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gains haste until end of turn.
 Illus.	 Jaime Jones
 Rarity:	 Mythic Rare
+Set Number:	 #81/166
 
 Name:	Master of Cruelties
 Cost:	 3BR
@@ -418,6 +833,17 @@ Master of Cruelties can only attack alone.
 Whenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.
 Illus.	 Chase Stone
 Rarity:	 Mythic Rare
+Set Number:	 #82/166
+
+Name:	Maw of the Obzedat
+Cost:	 3WB
+Type:	 Creature - Thrull
+Pow/Tgh:	 3/3
+Rules Text:	 Sacrifice a creature: Creatures you control get +1/+1 until end of turn.
+Flavor Text:	 The devout sacrifice themselves to it hoping for escape from their debts to the guild, but many end up owing in the afterlife.
+Illus.	 Randy Gallegos
+Rarity:	 Uncommon
+Set Number:	 #83/166
 
 Name:	Melek, Izzet Paragon
 Cost:	 4UR
@@ -428,6 +854,7 @@ You may cast the top card of your library if it's an instant or sorcery card.
 Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.
 Illus.	 Jason Chan
 Rarity:	 Rare
+Set Number:	 #84/166
 
 Name:	Mirko Vosk, Mind Drinker
 Cost:	 3UB
@@ -438,6 +865,16 @@ Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player r
 Illus.	 Chase Stone
 Rarity:	 Rare
 Set Number:	 #85/166
+
+Name:	Morgue Burst
+Cost:	 4BR
+Type:	 Sorcery
+Rules Text:	 Return target creature card from your graveyard to your hand. Morgue Burst deals damage to target creature or player equal to the power of the card returned this way.
+Flavor Text:	 "Let him in. He's on the list."
+â€”Olrich, Rakdos club owner
+Illus.	 Raymond Swanland
+Rarity:	 Common
+Set Number:	 #86/166
 
 Name:	Nivix Cyclops
 Cost:	 1UR
@@ -473,7 +910,20 @@ Name:	Pilfered Plans
 Cost:	 1ub
 Type:	 Sorcery
 Rules Text:	 Target player puts the top two cards of his or her library into his or her graveyard. Draw two cards.
+Flavor Text:	 Mirko Vosk hunted anyone with knowledge of the maze, draining the chances of the other guilds.
+Illus.	 Michael C. Hayes
 Rarity:	 Common
+Set Number:	 #90/166
+
+Name:	Plasm Capture
+Cost:	 uugg
+Type:	 Instant
+Rules Text:	 Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spellâ€™s converted mana cost.
+Flavor Text:	 "Everything serves a purpose. Even you."
+â€”Vorel of the Hull Clade
+Illus.	 Chase Stone
+Rarity:	 Rare
+Set Number:	 #91/166
 
 Name:	Progenitor Mimic
 Cost:	 4ug
@@ -492,6 +942,7 @@ Flavor Text:	 "We are all decaying, always in a state of near-death. One moment 
 â€”Cevraya, Golgari shaman
 Illus.	 Igor Kieryluk
 Rarity:	 Uncommon
+Set Number:	 #93/166
 
 Name:	Ral Zarek
 Cost:	 2UR
@@ -502,6 +953,15 @@ Rules Text:	 +1: Tap target permanent, then untap another target permanent.
 -7: Flip 5 coins. Take an extra turn after this one for each coin that comes up heads.
 Illus.	 Eric Deschamps
 Rarity:	 Mythic Rare
+Set Number:	 #94/166
+
+Name:	Reap Intellect
+Cost:	 X2ub
+Type:	 Sorcery
+Rules Text:	 Target opponent reveals his or her hand. You choose X non-land cards from among them. Search that player's library, hand and graveyard for cards with the same name as those cards and exile them. Then, that player shuffles his or her library.
+Illus.	 Steven Belledin
+Rarity:	 Mythic Rare
+Set Number:	 #95/166
 
 Name:	Render Silent
 Cost:	 WUU
@@ -516,7 +976,11 @@ Name:	Restore the Peace
 Cost:	 1WU
 Type:	 Instant
 Rules Text:	 Return each creature that dealt damage this turn to its owner's hand.
+Flavor Text:	 "You can always count on the Azorius to ruin a party."
+â€”Massacre Girl
+Illus.	 Kev Walker
 Rarity:	 Uncommon
+Set Number:	 #97/166
 
 Name:	Rot Farm Skeleton
 Cost:	 2BG
@@ -537,6 +1001,7 @@ Ruric Thar, the Unbowed attacks each turn if able.
 Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.
 Illus.	 Tyler Jacobsen
 Rarity:	 Rare
+Set Number:	 #99/166
 
 Name:	Savageborn Hydra
 Cost:	 Xrg
@@ -547,6 +1012,17 @@ Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
 {1}{rg}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could play a sorcery.
 Illus.	 Raymond Swanland
 Rarity:	 Mythic Rare
+Set Number:	 #100/166
+
+Name:	Scab-Clan Giant
+Cost:	 4RG
+Type:	 Creature - Giant Warrior
+Pow/Tgh:	 4/5
+Rules Text:	 When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random.
+Flavor Text:	 For the Gruul, bone-crushing rage is the first priority. Accuracy comes in a distant ninetieth.
+Illus.	 Zoltan Boros
+Rarity:	 Uncommon
+Set Number:	 #101/166
 
 Name:	Showstopper
 Cost:	 1br
@@ -555,6 +1031,7 @@ Rules Text:	 Until end of turn, creatures you control gain "When this creature d
 Flavor Text:	 The audience quickly realized a few things: it wasn't a magic trick, there wasn't candy in there, and they'd need new clothes.
 Illus.	 Steve Prescott
 Rarity:	 Uncommon
+Set Number:	 #102/166
 
 Name:	Sin Collector
 Cost:	 1WB
@@ -573,13 +1050,28 @@ Pow/Tgh:	 6/4
 Rules Text:	 At the beginning of each end step, each player discards his or her hand.
 Illus.	 Peter Mohrbacher
 Rarity:	 Rare
+Set Number:	 #104/166
 
 Name:	Species Gorger
 Cost:	 3gu
 Type:	 Creature - Frog Beast
 Pow/Tgh:	 6/6
 Rules Text:	 At the beginning of your upkeep, return a creature you control to its owners hand.
+Flavor Text:	 "We raised eelhawks to control the squidflies, then waspcrabs to prey on the eelhawks. Now what do we do with all these waspcrabs?"
+â€”Gulistan, Simic biomancer
+Illus.	 Min Yum
 Rarity:	 Uncommon
+Set Number:	 #105/166
+
+Name:	Spike Jester
+Cost:	 BR
+Type:	 Goblin Warrior
+Pow/Tgh:	 3/1
+Rules Text:	 Haste
+Flavor Text:	 For the Rakdos, "suicidal charge" and "good showmanship" are one and the same.
+Illus.	 Ryan Barger
+Rarity:	 Uncommon
+Set Number:	 #106/166
 
 Name:	Tajic, Blade of the Legion
 Cost:	 2rw
@@ -590,6 +1082,7 @@ Battalion â€” Whenever Tajic and at least two other creatures attack, Tajic
 Flavor Text:	 "I run the maze alone, but I fight with the full might of the Legion."
 Illus.	 James Ryman
 Rarity:	 Rare
+Set Number:	 #107/166
 
 Name:	Teysa, Envoy of Ghosts
 Cost:	 5wb
@@ -599,6 +1092,7 @@ Rules Text:	 Vigilance, protection from creatures
 Whenever a creature deals damage to you, destroy that creature. Put a 1/1 white and black Spirit token with flying onto the battlefield.
 Illus.	 Karla Ortiz
 Rarity:	 Rare
+Set Number:	 #108/166
 
 Name:	Tithe Drinker
 Cost:	 wb
@@ -606,7 +1100,9 @@ Type:	 Creature - Vampire
 Pow/Tgh:	 2/1
 Rules Text:	 Lifelink
 Extort
+Illus.	 Slawomir Maniak
 Rarity:	 Common
+Set Number:	 #109/166
 
 Name:	Trostani's Summoner
 Cost:	 5GW
@@ -615,6 +1111,7 @@ Pow/Tgh:	 1/1
 Rules Text:	 When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.
 Illus.	 Howard Lyon
 Rarity:	 Uncommon
+Set Number:	 #110/166
 
 Name:	Unflinching Courage
 Cost:	 1wg
@@ -624,6 +1121,7 @@ Enchanted creature gets +2/+2 and has trample and lifelink.
 Flavor Text:	 As Trostani's influence grew, vitality spread through the Conclaveâ€”much to the other guilds' dismay.
 Illus.	 Mike Bierek
 Rarity:	 Uncommon
+Set Number:	 #111/166
 
 Name:	Varolz, the Scar-Striped
 Cost:	 1bg
@@ -633,6 +1131,7 @@ Rules Text:	 Each creature card in you graveyard has scavenge. The scavenge cost
 Sacrifice another creature: Regenerate Valroz, the Scar-Striped.
 Illus.	 Adam Paquette
 Rarity:	 Rare
+Set Number:	 #112/166
 
 Name:	Viashino Firstblade
 Cost:	 1rw
@@ -644,6 +1143,7 @@ Flavor Text:	 "All that steel doesn't make them slower. It makes them bolder."
 â€”Tajic, Blade of the Legion
 Illus.	 Matt Stewart
 Rarity:	 Common
+Set Number:	 #113/166
 
 Name:	Voice of Resurgence
 Cost:	 gw
@@ -652,6 +1152,7 @@ Pow/Tgh:	 2/2
 Rules Text:	 Whenever an opponent casts a spell during your turn, or whenever Voice of Resurgence dies, put a green and white Elemental creature token onto the battlefield with "This creature's power and toughness are each equal to the number of creatures you control."
 Illus.	 Winona Nelson
 Rarity:	 Mythic Rare
+Set Number:	 #114/166
 
 Name:	Vorel of the Hull Clade
 Cost:	 1GU
@@ -661,6 +1162,7 @@ Rules Text:	 {G}{U}, {T}: For each counter on target artifact, creature, or land
 Flavor Text:	 "I used to hurl rocks and eat scraps of meat burned over a fire. Look at what I've become and tell me Simic does not hold infinite possibility."
 Illus.	 Mike Bierek
 Rarity:	 Rare
+Set Number:	 #115/166
 
 Name:	Warleader's Helix
 Cost:	 2rw
@@ -686,7 +1188,11 @@ Cost:	 UB
 Type:	 Creature - Insect
 Pow/Tgh:	 2/1
 Rules Text:	 Forestwalk, protection from green
+Flavor Text:	 "We learned something from the Simic. Unfortunately for them."
+â€”Nefara, Dimir agent
+Illus.	 Greg Staples
 Rarity:	 Uncommon
+Set Number:	 #118/166
 
 Name:	Zhur-Taa Ancient
 Cost:	 3rg
@@ -696,29 +1202,20 @@ Rules Text:	 Whenever a player taps a land for mana, that player adds one mana t
 Flavor Text:	 Many Ravnicans think of nature as orderly groves and elf-tended rot farms. They haven't seen the Gruul wilds.
 Illus.	 Adam Paquette
 Rarity:	 Rare
+Set Number:	 #119/166
 
-Name:	Plasm Capture
-Cost:	 uugg
-Type:	 Instant
-Rules Text:	 Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spellâ€™s converted mana cost.
-Rarity:	 Rare
-Set Number:	 #91/166
+Name:	Zhur-Taa Druid
+Cost:	 RG
+Type:	 Creature - Human Druid
+Pow/Tgh:	 1/1
+Rules Text:	 {T}: Add {G} to your mana pool.
+Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.
+Flavor Text:	 "Only the decadent think magic should be pristine and without cost."
+Illus.	 Mark Winters
+Rarity:	 Common
+Set Number:	 #120/166
 
-Name:	Reap Intellect
-Cost:	 X2ub
-Type:	 Sorcery
-Rules Text:	 Target opponent reveals his or her hand. You choose X non-land cards from among them. Search that player's library, hand and graveyard for cards with the same name as those cards and exile them. Then, that player shuffles his or her library.
-Rarity:	 Mythic Rare
-
-Name:	Spike Jester
-Cost:	 BR
-Type:	 Goblin Warrior
-Pow/Tgh:	 3/1
-Rules Text:	 Haste
-Flavor Text:	 For the Rakdos, "suicidal charge" and "showmanship" are the same thing.
-Illus.	 Ryan Barger
-Rarity:	 Uncommon
-Set Number:	 #106/166
+Splitcard (15)
 
 Name:	Alive // Well
 Cost:	 3G//w
@@ -751,6 +1248,7 @@ Put four 1/1 white Bird creature tokens with flying onto the battlefield.
 Fuse (You may cast one or both halves of this card from your hand.)
 Illus.	 Adam Paquette
 Rarity:	 Rare
+Set Number:	 #123/166
 
 Name:	Breaking // Entering
 Cost:	 ub//4br
@@ -761,6 +1259,7 @@ Put a creature card from a graveyard onto the battlefield under your control. It
 Fuse (You may cast one or both halves of this card from your hand.)
 Illus.	 Mathias Kollros
 Rarity:	 Rare
+Set Number:	 #124/166
 
 Name:	Catch // Release
 Cost:	 1UR//4RW
@@ -771,6 +1270,7 @@ Each player sacrifices an artifact, a creature, an enchantment, a land, and a pl
 Fuse (You may cast one or both halves of this card from your hand.)
 Illus.	 Kev Walker
 Rarity:	 Rare
+Set Number:	 #125/166
 
 Name:	Down // Dirty
 Cost:	 3b//2g
@@ -779,7 +1279,9 @@ Rules Text:	 Target player discards two cards.
 //
 Return target card from your graveyard to your hand.
 Fuse (You may cast one or both halves of this card from your hand.)
+Illus.	 Svetlin Velinov
 Rarity:	 Uncommon
+Set Number:	 #126/166
 
 Name:	Far // Away
 Cost:	 1U//2B
@@ -812,15 +1314,18 @@ Remove all +1/+1 counters from target creature you control. Draw that many cards
 Flavor Text:	 Fuse (You may cast one or both halves of this card from your hand.)
 Illus.	 Steve Prescott
 Rarity:	 Uncommon
+Set Number:	 #129/166
 
 Name:	Profit // Loss
-Cost:	 2w//2b
+Cost:	 1w//2b
 Type:	 Instant // Instant
 Rules Text:	 Creatures you control get +1/+1 until end of turn.
 //
 Creatures your opponents control get -1/-1 until end of turn.
 Fuse (You may cast one or both halves of this card from your hand.)
+Illus.	 Kev Walker
 Rarity:	 Uncommon
+Set Number:	 #130/166
 
 Name:	Protect // Serve
 Cost:	 2w//1u
@@ -829,7 +1334,9 @@ Rules Text:	 Target creature gets +2/+4 until end of turn.
 //
 Target creature gets -6/-0 until end of turn.
 Fuse (You may cast one or both halves of this card from your hand.)
+Illus.	 Ryan Barger
 Rarity:	 Uncommon
+Set Number:	 #131/166
 
 Name:	Ready // Willing
 Cost:	 1gw//1wb
@@ -838,7 +1345,9 @@ Rules Text:	 Creatures you control are indestructible this turn. Untap each crea
 //
 Creatures you control gain deathtouch and lifelink until end of turn.
 Fuse (You may cast one or both halves of this card from your hand.)
+Illus.	 Zoltan Boros
 Rarity:	 Rare
+Set Number:	 #132/166
 
 Name:	Toil // Trouble
 Cost:	 2B//2R
@@ -849,6 +1358,7 @@ Trouble deals damage to target player equal to the number of cards in that playe
 Fuse (You may cast one or both halves of this card from your hand.)
 Illus.	 Nils Hamm
 Rarity:	 Uncommon
+Set Number:	 #133/166
 
 Name:	Turn // Burn
 Cost:	 2u//1r
@@ -859,6 +1369,7 @@ Burn deals 2 damage to target creature or player.
 Fuse (You may cast one or both halves of this card from your hand.)
 Illus.	 Ryan Barger
 Rarity:	 Uncommon
+Set Number:	 #134/166
 
 Name:	Wear // Tear
 Cost:	 1R//W
@@ -869,6 +1380,7 @@ Destroy target enchantment.
 Fuse (You may play one or both halves of this card from your hand.)
 Illus.	 Ryan Pancoast
 Rarity:	 Uncommon
+Set Number:	 #135/166
 
 Artifact (10)
 
@@ -880,6 +1392,7 @@ Rules Text:	 {T}: Add {W} or {U} to your mana pool.
 Flavor Text:	 Its three sides represent the Sova, judges and arbitrators; the Jellen, scribes and elocutors; and the Lyev, lawmages and enforcers.
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #136/166
 
 Name:	Boros Cluestone
 Cost:	 3
@@ -890,6 +1403,7 @@ Flavor Text:	 "In case of fire, treachery, citywide riot, political upheaval, or
 â€”Cluestone inscription
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #137/166
 
 Name:	Dimir Cluestone
 Cost:	 3
@@ -899,6 +1413,7 @@ Rules Text:	 {T}: Add {U} or {B} to your mana pool.
 Flavor Text:	 It waits in the chill of the undercity, holding nameless secrets for those who dare to touch it.
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #138/166
 
 Name:	Golgari Cluestone
 Cost:	 3
@@ -908,6 +1423,7 @@ Rules Text:	 {T}: Add {B} or {G} to your mana pool.
 Flavor Text:	 Golgari mold collects whispers, intelligence that is later harvested by Jarad and his high chancellors.
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #139/166
 
 Name:	Gruul Cluestone
 Cost:	 3
@@ -917,6 +1433,7 @@ Rules Text:	 {T}: Add {R} or {G} to your mana pool.
 Flavor Text:	 Forgotten under rocks and vines, Gruul symbols mark the sites of primitive rituals where shamans once chanted to the wild.
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #140/166
 
 Name:	Izzet Cluestone
 Cost:	 3
@@ -926,6 +1443,7 @@ Rules Text:	 {T}: Add {U} or {R} to your mana pool.
 Flavor Text:	 It holds within it an unsolvable riddle. A creative answer yields an invitation to the guild.
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #141/166
 
 Name:	Orzhov Cluestone
 Cost:	 3
@@ -935,6 +1453,7 @@ Rules Text:	 {T}: Add {W} or {B} to your mana pool.
 Flavor Text:	 A symbol of power and wealth, the only commodities that matter to the Orzhov.
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #142/166
 
 Name:	Rakdos Cluestone
 Cost:	 3
@@ -945,6 +1464,7 @@ Flavor Text:	 "Burn. Bleed. Enjoy."
 â€”Cluestone inscription
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #143/166
 
 Name:	Selesnya Cluestone
 Cost:	 3
@@ -955,6 +1475,7 @@ Flavor Text:	 "Break it if you must. The loss of one relic is nothing next to th
 â€”Suniel the Woodwise
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #144/166
 
 Name:	Simic Cluestone
 Cost:	 3
@@ -964,6 +1485,8 @@ Rules Text:	 {T}: Add {G} or {U} to your mana pool.
 Flavor Text:	 Simic symbols are among the most intricate and fragile, yet few vandalize them for fear of the strange lifeforms that might be released.
 Illus.	 Raoul Vitale
 Rarity:	 Common
+Set Number:	 #145/166
+
 
 Name:	Azorius Guildgate
 Type:	 Land

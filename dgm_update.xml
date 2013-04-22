@@ -1,0 +1,1766 @@
+<card> 
+<name>Mindstatic</name> 
+<set picURL="http://media.wizards.com/images/magic/tcg/products/dgm/tiwoirwiixix/y3ambw1jkv_EN.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>3U</manacost> 
+<type>Instant</type>
+<tablerow>2</tablerow> 
+<text>Counter target spell unless its controller pays 6.</text> 
+</card> 
+
+<card> 
+<name>Bane Alley Blackguard</name> 
+<set picURL="http://media.wizards.com/images/magic/tcg/products/dgm/tiwoirwiixix/7nqcesulcd_EN.jpg" picURLSt="">DGM</set> 
+<color>B</color> 
+<manacost>1B</manacost> 
+<type>Creature - Human Rogue</type>
+<pt>1/3</pt> 
+<tablerow>2</tablerow> 
+<text></text> 
+</card>
+		
+<card> 
+<name>Haazda Snare Guard</name> 
+<set picURL="http://media.wizards.com/images/magic/tcg/products/dgm/tiwoirwiixix/9o1jybmyn7_EN.jpg" picURLSt="">DGM</set> 
+<color>W</color> 
+<manacost>2W</manacost> 
+<type>Creature - Human Soldier</type>
+<pt>1/4</pt> 
+<tablerow>2</tablerow> 
+<text>Whenever Haazda Snare Guard attacks, you may pay W. If you do, tap target creature an opponent controls.</text> 
+</card>
+
+<card> 
+<name>Give // Take</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/givetake.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>U</color> 
+<manacost>2G // 2U</manacost> 
+<type>Sorcery</type> 
+<tablerow>3</tablerow> 
+<text>Put three +1/+1 counters on target creature.
+--
+Remove all +1/+1 counters from target creature you control. Draw that many cards.
+Fuse (You may cast one or both halves of this card from your hand.)</text> 
+</card> 
+
+
+<card> 
+<name>Alive // Well</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/alivewell.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>W</color> 
+<manacost>3G // W</manacost> 
+<type>Sorcery</type> 
+<tablerow>3</tablerow> 
+<text>Put a 3/3 green Centaur creature token onto the battlefield.
+--
+You gain 2 life for each creature you control.
+Fuse (You may cast one or both halves of this card from your hand.)</text> 
+</card> 
+
+<card> 
+<name>Breaking // Entering</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/breakingentering.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>R</color>
+<color>B</color> 
+<manacost>UB // 4BR</manacost> 
+<type>Sorcery</type> 
+<tablerow>3</tablerow> 
+<text>Target player puts the top eight cards of his or her library into his or her graveyard.
+--
+Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn.
+Fuse (You may cast one or both halves of this card from your hand.)</text> 
+</card> 
+
+<card> 
+<name>Plasm Capture</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/plasmcapture.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>G</color> 
+<manacost>UUGG</manacost> 
+<type>Instant</type> 
+<tablerow>2</tablerow> 
+<text>Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell’s converted mana cost.</text> 
+</card> 
+
+<card> 
+<name>Progenitor Mimic</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/progenitormimic.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>G</color> 
+<manacost>4UG</manacost> 
+<type>Creature - Shapeshifter</type>
+<pt>0/0</pt> 
+<tablerow>2</tablerow> 
+<text>You may have Progenitor Mimic enter the battlefield as a copy of any creature on the battlefield except it gains “At the beginning of your upkeep, if this creature isn’t a token, put a token onto the battlefield that’s a copy of this creature.” </text> 
+</card> 
+
+<card> 
+<name>Ubul Sar Gatekeepers</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/ubulsargatekeepers.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<manacost>3B</manacost> 
+<type>Creature - Zombie Soldier</type>
+<pt>2/4</pt> 
+<tablerow>2</tablerow> 
+<text>Whenever Ubul Sar Gatekeepers enters the battlefield, if you control two or more Gates, target creature an opponent controls gets -2/-2 until end of turn.</text> 
+</card>
+
+<card> 
+<name>Saruli Gatekeepers</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/saruligatekeepers.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>3G</manacost> 
+<type>Creature - Elf Warrior</type>
+<pt>2/4</pt> 
+<tablerow>2</tablerow> 
+<text>When Saruli Gatekeepers enters the battlefield, if you control two or more Gates, gain 7 life.</text> 
+</card> 
+
+<card> 
+<name>Sunspire Gatekeepers</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/sunspiregatekeepers.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<manacost>3W</manacost> 
+<type>Creature - Human Soldier</type>
+<pt>2/4</pt> 
+<tablerow>2</tablerow> 
+<text>When Sunspire Gatekeepers enter the battlefield, if you control two or more Gates, put a 2/2 Knight creature token with vigilance onto the battlefield.</text> 
+</card> 
+
+<card> 
+<name>Opal Lake Gatekeepers</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/opallakegatekeepers.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>3U</manacost> 
+<type>Creature - Vedalken Soldier</type>
+<pt>2/4</pt> 
+<tablerow>2</tablerow> 
+<text>When Opal Lake Gatekeepers enters the battlefield, if you control two or more Gates, you may draw a card.</text> 
+</card> 
+
+<card> 
+<name>Smelt-Ward Gatekeepers</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/smeltwardgatekeepers.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<manacost>3R</manacost> 
+<type>Creature - Human Warrior</type>
+<pt>2/4</pt> 
+<tablerow>2</tablerow> 
+<text>When Smelt-Ward Gatekeepers enters the battlefield, if you control two or more Gates, gain control of target creature an opponent controls until end of turn. Untap that creature. That creature gains haste until end of turn.</text> 
+</card>
+
+<card> 
+<name>Azorius Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/azoriuscluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type> 
+<tablerow>2</tablerow> 
+<text>T, Add W or U to your mana pool.
+WU, T, Sacrifice Azorius Cluestone: Draw a card.</text> 
+</card>
+
+<card> 
+<name>Boros Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/boroscluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type> 
+<tablerow>2</tablerow> 
+<text>T, Add R or W to your mana pool.
+RW, T, Sacrifice Boros Cluestone: Draw a card.</text> 
+</card> 
+
+<card> 
+<name>Dimir Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/dimircluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type> 
+<tablerow>2</tablerow> 
+<text>T, Add U or B to your mana pool.
+UB, T, Sacrifice Dimir Cluestone: Draw a card.</text> 
+</card> 
+
+<card> 
+<name>Golgari Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/golgaricluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type> 
+<tablerow>2</tablerow> 
+<text>T, Add B or G to your mana pool.
+BG, T, Sacrifice Golgari Cluestone: Draw a card.</text> 
+</card> 
+
+<card> 
+<name>Gruul Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/gruulcluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type> 
+<tablerow>2</tablerow> 
+<text>T, Add R or G to your mana pool.
+RG, T, Sacrifice Gruul Cluestone: Draw a card.</text> 
+</card> 
+
+<card> 
+<name>Izzet Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/izzetcluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type> 
+<tablerow>2</tablerow> 
+<text>T, Add U or R to your mana pool.
+UR, T, Sacrifice Izzet Cluestone: Draw a card.</text> 
+</card> 
+
+<card> 
+<name>Orzhov Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/orzhovcluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type> 
+<tablerow>2</tablerow> 
+<text>T, Add W or B to your mana pool.
+WB, T, Sacrifice Orzhov Cluestone: Draw a card.</text> 
+</card> 
+
+<card> 
+<name>Rakdos Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/rakdoscluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type>
+<tablerow>2</tablerow> 
+<text>T, Add B or R to your mana pool.
+BR T, Sacrifice Rakdos Cluestone: Draw a card.</text> 
+</card> 
+
+<card> 
+<name>Selesnya Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/selesnyacluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type> 
+<tablerow>2</tablerow> 
+<text>T, Add G or W to your mana pool.
+GW, T, Sacrifice Selesnya Cluestone: Draw a card.</text> 
+</card> 
+
+<card> 
+<name>Simic Cluestone</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/simiccluestone.jpg" picURLSt="">DGM</set> 
+<manacost>3</manacost> 
+<type>Artifact</type> 
+<tablerow>2</tablerow> 
+<text>T, Add G or U to your mana pool.
+GU, T, Sacrifice Simic Cluestone: Draw a card.</text> 
+</card> 
+
+<card> 
+<name>Possibility Storm</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/possibilitystorm.jpg" picURLSt="">DGM</set> 
+<color>R</color> 
+<manacost>3RR</manacost> 
+<type>Enchantment</type> 
+<tablerow>1</tablerow> 
+<text>Whenever a player casts a spell from his or her hand, that player exiles it, then exiles cards from the top of his or her library until he or she exiles a card that shares a card type with it. That player may cast that card without paying its mana cost. Then he or she puts all cards exiled with Possibility Storm on the bottom of his or her library in a random order.</text> 
+</card>
+
+<card> 
+<name>Legion's Initiative</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/legionsinitiative.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>W</color> 
+<manacost>RW</manacost> 
+<type>Enchantment</type> 
+<tablerow>1</tablerow> 
+<text>Red creatures you control get +1/+0.
+White creatures you control get +0/+1.
+RW, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.</text> 
+</card>
+
+<card> 
+<name>Deadbridge Chant</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/deadbridgechant.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>G</color> 
+<manacost>4BG</manacost> 
+<type>Enchantment</type> 
+<tablerow>1</tablerow> 
+<text>When Deadbridge Chant enters the battlefield, put the top ten cards of your library into your graveyard.
+At the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.</text> 
+</card>
+
+<card> 
+<name>Nivix Cyclops</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/nivixcyclops.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>R</color> 
+<manacost>1UR</manacost> 
+<type>Creature - Cyclops</type>
+<pt>1/4</pt> 
+<tablerow>2</tablerow> 
+<text>Defender
+Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.</text> 
+</card>
+
+<card> 
+<name>Warped Physique</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/warpedphysique.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>B</color> 
+<manacost>UB</manacost> 
+<type>Instant</type>
+<tablerow>2</tablerow> 
+<text>Target creature gets +X/-X until end of turn, where X is the number of cards in your hand.</text> 
+</card> 
+
+<card> 
+<name>Tajic, Blade of the Legion</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/tajicbladeofthelegion.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>W</color> 
+<manacost>2RW</manacost> 
+<type>Legendary Creature - Human Soldier</type>
+<pt>2/2</pt> 
+<tablerow>2</tablerow> 
+<text>Tajic, Blade of the Legion is indestructible.
+Battalion — Whenever Tajic and at least two other creatures attack, Tajic gets +5/+5 until end of turn.</text> 
+
+</card> 
+
+<card> 
+<name>Blood Baron of Vizkopa</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/bloodbaronofvizkopa.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>B</color> 
+<manacost>3WB</manacost> 
+<type>Creature - Vampire</type>
+<pt>4/4</pt> 
+<tablerow>2</tablerow> 
+<text>Lifelink, protection from white and from black.
+As long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying.</text> 
+</card> 
+
+<card> 
+<name>Savageborn Hydra</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/savagebornhydra.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>G</color> 
+<manacost>XRG</manacost> 
+<type>Creature - Hydra</type> 
+<pt>0/0</pt> 
+<tablerow>2</tablerow> 
+<text>Double strike
+Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
+1(R/G): Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could play a sorcery.</text></card>
+
+<card> 
+<name>Showstopper</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/showstopper.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>R</color> 
+<manacost>1BR</manacost> 
+<type>Instant</type> 
+<tablerow>2</tablerow>
+<text>Until end of turn, creatures you control gain "When this creature dies, it deals 2 damage to target creature an opponent controls."</text>
+</card> 
+
+<card>
+<name>Varolz, the Scar-Striped</name>
+<set picURL="http://www.mythicspoiler.com/dgm/cards/varolzthescarstriped.jpg" picURLHq="" picURLSt="">DGM</set>
+<color>B</color>
+<color>G</color>
+<manacost>1BG</manacost>
+<type>Legendary Creature - Troll Warrior</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>Each creature card in you graveyard has scavenge. The scavenge cost is equal to its mana cost. (Exile a creature card from your graveyard: Put a number of +1/+1 counters equal to that card's power on target creature. Scavenge only as a sorcery.)
+Sacrifice another creature: Regenerate Varolz, the Scar-Striped.</text>
+</card>
+		
+
+<card>
+<name>Goblin Test Pilot</name>
+<set picURL="http://mythicspoiler.com/dgm/cards/goblintestpilot.jpg" picURLSt="">DGM</set>
+<color>U</color>
+<color>R</color>
+<manacost>1UR</manacost>
+<type>Creature - Goblin Wizard</type>
+<pt>0/2</pt>
+<tablerow>2</tablerow>
+<text>Flying
+T, Goblin Test Pilot deals 2 damage to target creature or player chosen at random.</text>
+</card>
+
+<card>
+<name>Council of the Absolute</name>
+<set picURL="http://mythicspoiler.com/dgm/cards/counciloftheabsolute.jpg" picURLSt="">DGM</set>
+<color>U</color>
+<color>W</color>
+<manacost>2WU</manacost>
+<type>Creature - Human Advisor</type>
+<pt>2/4</pt>
+<tablerow>2</tablerow>
+<text>As Council of the Absolute enters the battlefield, name a card other than a creature or a land card.
+Your opponents can't cast cards with the chosen name.
+Spells with the chosen name you cast cost 2 less.</text>
+</card>
+
+<card>
+<name>Voice of Resurgence</name>
+<set picURL="http://mythicspoiler.com/dgm/cards/voiceofresurgence.jpg" picURLSt="">DGM</set>
+<color>G</color>
+<color>W</color>
+<manacost>GW</manacost>
+<type>Creature - Elemental</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>Whenever an opponent casts a spell during your turn or whenever Voice of Resurgence dies, put a green and white Elemental creature token onto the battlefield with "This creature's power and toughness are each equal to the number of creatures you control."</text>
+</card>
+
+<card>
+<name>Bred for the Hunt</name>
+<set picURL="http://mythicspoiler.com/dgm/cards/bredforthehunt.jpg" picURLSt="">DGM</set>
+<color>G</color>
+<color>U</color>
+<manacost>1GU</manacost>
+<type>Enchantment</type>
+<tablerow>1</tablerow>
+<text>Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card.</text>
+</card>
+
+<card>
+<name>Mirko Vosk, Mind Drinker</name>
+<set picURL="http://mythicspoiler.com/dgm/cards/mirkovoskminddrinker.jpg" picURLSt="">DGM</set>
+<color>U</color>
+<color>B</color>
+<manacost>3UB</manacost>
+<type>Legendary Creature - Vampire</type>
+<pt>2/4</pt> 
+<tablerow>2</tablerow>
+<text>Flying
+Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of his or her library until he or she reveals four land cards, then puts those cards into his or her graveyard.</text>
+</card>
+
+<card>
+
+<name>Rot Farm Skeleton</name>
+<set picURL="http://mythicspoiler.com/dgm/cards/rotfarmskeleton.jpg" picURLSt="">DGM</set>
+<color>B</color>
+<color>G</color> 
+<manacost>2BG</manacost>
+<type>Creature - Plant Skeleton</type>
+<pt>4/1</pt> 
+<tablerow>2</tablerow>
+<text>Rot Farm Skeleton can't block.
+2BG, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.</text>
+</card>
+
+<card> 
+<name>Obzedat's Aid</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/obzedatsaid.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>B</color> 
+<manacost>3WB</manacost> 
+<type>Sorcery</type> 
+<tablerow>2</tablerow> 
+<text>Return target permanent card from your graveyard to the battlefield.</text> 
+</card>
+
+<card> 
+<name>Renegade Krasis</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/renegadekrasis.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>1GG</manacost> 
+<type>Creature - Beast Mutant</type> 
+<pt>3/2</pt> 
+<tablerow>2</tablerow> 
+<text>Evolve
+Whenever Renegade Krasis evolves, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.</text> 
+</card> 
+
+<card> 
+<name>Far // Away</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/faraway.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>B</color> 
+<manacost>1U // 2B</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Return target creature to its owner's hand.
+--
+Target player sacrifices a creature.
+Fuse (You may cast one or both halves of this card from your hand.)</text> 
+</card>
+
+<card> 
+<name>Flesh // Blood</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/fleshblood.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>G</color>
+<color>R</color> 
+<manacost>3BG // RG</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Exile target creature card from a graveyard. Put X +1/+1 counters on target creature, where X is the power of the exiled card.
+--
+Target creature you control deals damage equal to its power to target creature or player.
+Fuse (You may cast one or both halves of this card from your hand.)</text> 
+</card>
+
+
+<card> 
+<name>Lavinia of the Tenth</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/laviniaofthetenth.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>U</color>
+<manacost>3WU</manacost> 
+<type>Legendary Creature - Human Soldier</type>
+<pt>4/4</pt> 
+<tablerow>2</tablerow>
+<text>Protection from red 
+When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)</text> 
+</card>
+
+<card> 
+<name>Teysa, Envoy of Ghosts</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/teysaenvoyofghosts.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>B</color>
+<manacost>5WB</manacost> 
+<type>Legendary Creature - Human Advisor</type>
+<pt>4/4</pt>
+<tablerow>2</tablerow>
+<text>Vigilance, protection from creatures 
+Whenever a creature deals combat damage to you, destroy that creature. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.</text> 
+</card>
+
+<card> 
+<name>Melek, Izzet Paragon</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/melekizzetparagon.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>R</color>
+<manacost>4UR</manacost> 
+<type>Legendary Creature - Weird Wizard</type>
+<pt>2/4</pt>
+<tablerow>2</tablerow>
+<text>Play with the top card of your library revealed. 
+You may cast the top card of your library if it's an instant or sorcery card.
+Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.</text> 
+</card>
+
+<card> 
+<name>Exava, Rakdos Blood Witch</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/exavarakdosbloodwitch.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>B</color>
+<manacost>2RB</manacost> 
+<type>Legendary Creature - Human Cleric</type>
+<pt>3/3</pt>
+<tablerow>2</tablerow>
+<text>First strike, haste 
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.) 
+Each other creature you control with a +1/+1 counter on it has haste.</text> 
+</card>
+
+<card> 
+<name>Ral Zarek</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/ralzarek.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>R</color>
+<manacost>2UR</manacost> 
+<type>Planeswalker - Ral Zarek</type>
+<tablerow>1</tablerow>
+<loyalty>4</loyalty>
+<text>+1: Tap target permanent, then untap another target permanent. 
+-2: Ral Zarek deals 3 damage to target creature or player. 
+-7: Flip five coins. Take an extra turn after this one for each coin that comes up heads.</text> 
+</card>
+
+<card> 
+<name>Master of Cruelties</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/masterofcruelties.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>R</color>
+<manacost>3BR</manacost> 
+<type>Creature - Demon</type>
+<pt>1/4</pt>
+<tablerow>2</tablerow>
+<text>First strike, deathtouch 
+Master of Cruelties can only attack alone. 
+Whenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.</text> 
+</card>
+
+<card> 
+<name>Turn // Burn</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/turnburn.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>R</color>
+<manacost>2U // 1R</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Target Creature loses all abilities and becomes a 0/1 red Weird until end of turn
+--
+Burn deals 2 damage to target creature or player.
+Fuse (You may cast one or both halve of this card from your hand.)</text> 
+</card>
+
+<card> 
+<name>Toil // Trouble</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/toiltrouble.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>R</color>
+<manacost>2B / 2R</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Target player draws two cards and loses 2 life.//Trouble deals damage to target player equal to the number of cards in that player's hand.</text> 
+</card>
+
+<card> 
+<name>Notion Thief</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/notionthief.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>B</color>
+<manacost>2UB</manacost> 
+<type>Creature - Human Rogue</type>
+<pt>3/1</pt>
+<tablerow>2</tablerow>
+<text>Flash
+If an opponent would draw a card except for the first one he or she draws in each of his or her draw steps, instead that player skips that draw and you draw a card.</text> 
+</card>
+
+<card> 
+<name>Render Silent</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/rendersilentpromo.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>U</color>
+<manacost>WUU</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Counter target spell. Its controller can't cast spells this turn. </text> 
+</card>
+
+<card> 
+<name>Sire of Insanity</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/sireofinsanity.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>R</color>
+<manacost>4BR</manacost> 
+<type>Creature - Demon</type>
+<pt>6/4</pt>
+<tablerow>2</tablerow>
+<text>At the beginning of each end step, each player discards his or her hand. </text> 
+</card>
+
+<card> 
+<name>Deputy of Acquittals</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/deputyofacquittals.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>U</color>
+<manacost>WU</manacost> 
+<type>Creature - Human Wizard</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>Flash
+When Deputy of Acquittals enters the battlefield, you may return another target creature you control to its ownder's hand.</text> 
+</card>
+
+<card> 
+<name>Sin Collector</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/sincollector.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>B</color>
+<manacost>1WB</manacost> 
+<type>Creature - Human Cleric</type>
+<pt>2/1</pt>
+<tablerow>2</tablerow>
+<text>When Sin Collector enters the battlefield, target opponent reveals his or her hand. You choose an instant of sorcery card from it and exile that card.</text> 
+</card>
+
+<card> 
+<name>Vorel of the Hull Clade</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/vorelofthehullclade.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>G</color>
+<manacost>1GU</manacost> 
+<type>Legendary Creature - Human Merfolk</type>
+<pt>1/4</pt>
+<tablerow>2</tablerow>
+<text>GU, T: For each counter on target artifact, creature, or land, put another of those counters on that permanent.</text> 
+</card>
+
+<card> 
+<name>Ruric Thar, the Unbowed</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/ruricthartheunbowed.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>G</color>
+<manacost>4RG</manacost> 
+<type>Legendary Creature - Ogre Warrior</type>
+<pt>6/6</pt>
+<tablerow>3</tablerow>
+<text>Vigilance, reach 
+Ruric Thar, the Unbowed attacks each turn if able. 
+Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.</text> 
+</card>
+
+<card> 
+<name>Armed // Dangerous</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/armeddangerous.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>G</color>
+<manacost>1R / 3G</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Target creature gets +1/+1 and gains doublestrike until end of turn.
+--
+All creatures able to block target creature this turn do so.
+Fuse (You may cast one or both halves of this card from your hand.)</text> 
+</card>
+
+<card> 
+<name>Wear // Tear</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/weartear.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>W</color>
+<manacost>1R / W</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Destroy target artifact.
+--
+Destroy target enchantment.
+Fuse (You may cast one or both halves of this card from your hand.)</text> 
+</card>
+
+<card> 
+<name>Zhur-Taa Ancient</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/zhurtaaancient.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>G</color>
+<manacost>3RG</manacost> 
+<type>Creature - Beast</type>
+<pt>7/5</pt>
+<tablerow>2</tablerow>
+<text>Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.</text> 
+</card>
+
+<card> 
+<name>Viashino Firstblade</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/viashinofirstblade.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>W</color>
+<manacost>1RW</manacost> 
+<type>Creature - Viashino Soldier</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>Haste 
+When Viashino Firstblade enters the battlefield, it gets +2/+2 until end of turn.</text> 
+</card>
+
+<card> 
+<name>Advent of the Wurm</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/adventofthewurm.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>W</color>
+<manacost>1GGW</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Put a 5/5 green Wurm creature token with trample onto the battlefield.</text> 
+</card>
+
+<card> 
+<name>Trostani's Summoner</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/trostanissummoner.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>W</color>
+<manacost>5GW</manacost> 
+<type>Creature - Elf Shaman</type>
+<pt>1/1</pt>
+<tablerow>2</tablerow>
+<text>When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.</text> 
+</card>
+
+<card> 
+<name>Maze Behemoth</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mazebehemoth.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>5G</manacost> 
+<type>Creature - Elemental</type>
+<pt>5/4</pt>
+<tablerow>2</tablerow>
+<text>Trample 
+Multicolored creatures you control have trample.</text> 
+</card>
+
+<card> 
+<name>Maze Rusher</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mazerusher.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<manacost>5R</manacost> 
+<type>Creature - Elemental</type>
+<pt>6/3</pt>
+<tablerow>2</tablerow>
+<text>Haste 
+Multicolored creatures you control have haste.</text> 
+</card>
+
+<card> 
+<name>Maze Abomination</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mazeabomination.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<manacost>5B</manacost> 
+<type>Creature - Elemental</type>
+<pt>4/5</pt>
+<tablerow>2</tablerow>
+<text>Deathtouch (Any amount of damage thise deals to a creature is enough to destroy it.) 
+Multicolored creatures you control have deathtouch.</text> 
+</card>
+
+<card> 
+<name>Maze Glider</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mazeglider.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>5U</manacost> 
+<type>Creature - Elemental</type>
+<pt>3/5</pt>
+<tablerow>2</tablerow>
+<text>Flying 
+Multicolored creatures you control have flying.</text> 
+</card>
+
+<card> 
+<name>Helldagrif</name> 
+<set picURL="http://i.imgur.com/yed3Hqh.jpg" picURLSt="">DGM</set>
+<color>W</color>
+<color>B</color>
+<color>R</color>
+<manacost>1WBR</manacost> 
+<type>Legendary Creature - Phelddagrif</type>
+<pt>4/4</pt>
+<tablerow>2</tablerow>
+<text>W: Helldagrif gains first strike until end of turn and deals 3 damage to itself.
+B: Helldagrif gains deathtouch until end of turn. You lose 2 life.
+R: Helldagrif gets +2/+0 until end of turn and deals 1 damage to you.</text> 
+</card>
+
+<card> 
+<name>Maze Sentinel</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mazesentinel.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<manacost>5W</manacost> 
+<type>Creature - Elemental</type>
+<pt>3/6</pt>
+<tablerow>2</tablerow>
+<text>Vigilance 
+Multicolored creatures you control have vigilance.</text> 
+</card>
+
+<card> 
+<name>Renounce the Guilds</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/renouncetheguilds.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<manacost>1W</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Each player sacrifices a multicolored permanent.</text> 
+</card>
+
+<card> 
+<name>Uncovered Clues</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/uncoveredclues.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>2U</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Look at the top four cards of your library. You may reveal up to two instant and/or sorcery cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.</text> 
+</card>
+
+<card> 
+<name>Beck // Call</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/beckcall.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>U</color>
+<color>W</color>
+<manacost>GU / 4WU</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Whenever a creature enters the battlefield this turn, you may draw a card.
+--
+Put 4 1/1 bird tokens onto the battlefield.
+Fuse (You may cast one or both halves of this card from your hand.)</text>
+</card>
+
+<card> 
+<name>Catch // Release</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/catchrelease.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>R</color>
+<color>W</color>
+<manacost>1RU // 4RW</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Gain control of target permanent until end of turn. Untap it. It gains haste until end of turn.
+--
+Each player sacrifices an artifact, a creature, an enchantment, a land and a planeswalker.
+Fuse (You may cast one or both halves of this card from your hand.)</text> 
+</card>
+
+<card> 
+<name>Maze's End</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mazesend.jpg" picURLSt="">DGM</set> 
+<manacost></manacost> 
+<type>Land</type>
+<tablerow>0</tablerow>
+<text>Maze's End enters the battlefield tapped.
+T: Add 1 to your mana pool. 
+3,T, Return Maze's End to your hand: Search your library for a Gate Card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.</text> 
+</card>
+
+<card> 
+<name>Warleader's Helix</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/warleadershelix1.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>W</color>
+<manacost>2RW</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Warleader's Helix deals 4 damage to target creature or player and you gain 4 life. </text> 
+</card>
+	
+<card> 
+<name>Pyrewild Shaman</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/pyrewildshaman.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<manacost>2R</manacost> 
+<type>Creature - Goblin</type>
+<pt>3/1</pt>
+<tablerow>2</tablerow>
+<text>Bloodrush - 1R, Discard Pyrewild Shaman: Target attacking creatue gets +3/+1 until end of turn. 
+Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay 3. If you do, return Pyrewild Shaman to your hand.</text> 
+</card>
+
+<card> 
+<name>Emmara Tandris</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/emmaratandris.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>W</color>
+<manacost>5GW</manacost> 
+<type>Legendary Creature - Elf Shaman</type>
+<pt>5/7</pt>
+<tablerow>2</tablerow>
+<text>Prevent all damage that would be dealt to creature tokens you control. </text> 
+</card>
+
+<card> 
+<name>Wake the Reflections</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/wakethereflections.jpg" picURLSt="">DGM</set>
+<color>W</color>
+<manacost>W</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Populate (Put a token onto the battlefield that's a copy of a creature token you control.)</text> 
+</card>	
+
+<card> 
+<name>Blood Scrivener</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/bloodscrivener.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<manacost>1B</manacost> 
+<type>Creature - Zombie Wizard</type>
+<pt>2/1</pt>
+<tablerow>2</tablerow>
+<text>If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life. </text> 
+</card>
+
+<card> 
+<name>Reap Intellect</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/reapintellect2.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>B</color>
+<manacost>X2UB</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Target opponent reveals his or her hand. You choose X non-land cards from among them. Search that player's library, hand and graveyard for cards with the same name as those cards and exile them. Then, that player shuffles his or her library. </text> 
+</card>
+
+<card> 
+<name>Dragonshift</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/dragonshift.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>R</color>
+<manacost>Instant</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Until end of turn, target creature you control becomes a 4/4 blue and red Dragon, loses all abilities, and gains flying. 
+Overload 3UURR (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</text> 
+</card>
+
+<card> 
+<name>Korozda Gorgon</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/korozdagorgon.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>G</color>
+<manacost>3BG</manacost> 
+<type>Creature - Gorgon</type>
+<pt>2/5</pt>
+<tablerow>2</tablerow>
+<text>Deathtouch
+2, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn.</text> 
+</card>
+
+<card> 
+<name>Unflinching Courage</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/unflinchingcourage.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>W</color>
+<manacost>1GW</manacost> 
+<type>Enchantment - Aura</type>
+<tablerow>2</tablerow>
+<text>Enchanted creature gets +2/+2 and has trample and lifelink.</text> 
+</card>
+
+<card> 
+<name>Blast of Genius</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/blastofgenius.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>R</color>
+<manacost>4UR</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player. </text> 
+</card>
+
+<card> 
+<name>AEtherling</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/aetherling.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>4UU</manacost> 
+<type>Creature - Shapeshifter</type>
+<pt>4/5</pt>
+<tablerow>2</tablerow>
+<text>U: Exile Ætherling, Return it to the battlefield under its owner's control at the beginning of the next end step. 
+U: Ætherling is unblockable this turn. 
+1: Ætherling gets +1/-1 until end of turn. 
+1: Ætherling gets -1/+1 until end of turn.</text> 
+</card>
+
+<card> 
+<name>Riot Piker</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/riotpiker.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<manacost>1R</manacost> 
+<type>Creature - Goblin Berserker</type>
+<pt>2/1</pt>
+<tablerow>2</tablerow>
+<text>First strike 
+Riot Piker attacks each turn if able.</text> 
+</card>
+	
+<card> 
+<name>Weapon Surge</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/weaponsurge.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<manacost>R</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Target creature you control gets +1/+0 and gains first strike until end of turn. 
+Overload 1R (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</text> 
+</card>
+	
+<card> 
+<name>Battering Krasis</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/batteringkrasis.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>2G</manacost> 
+<type>Creature - Fish Beast</type>
+<pt>2/1</pt>
+<tablerow>2</tablerow>
+<text>Trample 
+Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</text> 
+</card>
+	
+<card> 
+<name>Mending Touch</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mendingtouch.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>G</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Regenerate target creature.</text> 
+</card>
+	
+<card> 
+<name>Kraul Warrior</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/kraulwarrior.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>1G</manacost> 
+<type>Creature - Insect Warrior</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>5G: Kraul Warrior gets +3/+3 until end of turn. </text> 
+</card>
+	
+<card> 
+<name>Thrashing Mossdog</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/thrashingmossdog.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>3G</manacost> 
+<type>Creature - Plant Hound</type>
+<pt>3/3</pt>
+<tablerow>2</tablerow>
+<text>Reach (This creature can block creatures with flying.) 
+Scavenge 4GG (4GG, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)</text> 
+</card>
+	
+<card> 
+<name>Mutant's Prey</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mutantsprey.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>G</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Target creature you control with a +1/+1 counter on it fights target creature an opponent controls. (Each deals damage equal to its power to the other.) Target creature you control with a +1/+1 counter on it fights target creature an opponent controls. (Each deals damage equal to its power to the other.) </text> 
+</card>
+	
+<card> 
+<name>Phytoburst</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/phytoburst.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>1G</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Target creature gets +5/+5 until end of turn. </text> 
+</card>
+	
+<card> 
+<name>Riot Control</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/riotcontrol.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<manacost>2W</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>You gain 1 life for each creature your opponents control. Prevent all damage that would be dealt to you this turn. </text> 
+</card>
+	
+<card> 
+<name>Runner's Bane</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/runnersbane.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>1U</manacost> 
+<type>Enchantment - Aura</type>
+<tablerow>2</tablerow>
+<text>Enchant creatrue with power 3 or less 
+When Runner's Bane enters the battlefield, tap enchanted creature.</text> 
+</card>
+	
+<card> 
+<name>Trait Doctoring</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/traitdoctoring.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>U</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another until end of turn. 
+Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)</text> 
+</card>
+	
+<card> 
+<name>Fatal Fumes</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/fatalfumes.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<manacost>3B</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Target creature gets -4/-2 until end of turn. </text> 
+</card>
+	
+<card> 
+<name>Wind Drake</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/winddrake.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>2U</manacost> 
+<type>Creature - Drake</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>Flying</text> 
+</card>
+	
+<card> 
+<name>Hired Torturer</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/hiredtorturer.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<manacost>2B</manacost> 
+<type>Creature - Human Rogue</type>
+<pt>2/3</pt>
+<tablerow>2</tablerow>
+<text>Defender
+3B, T: Target opponent loses 2 life, then reveals a card at random from his or her hand. </text> 
+</card>
+	
+<card> 
+<name>Rakdos Drake</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/rakdosdrake.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<manacost>2B</manacost> 
+<type>Creature - Drake</type>
+<pt>1/2</pt>
+<tablerow>2</tablerow>
+<text>Flying 
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</text> 
+</card>
+	
+<card> 
+<name>Sinister Possession</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/sinisterpossession.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<manacost>B</manacost> 
+<type>Enchantment - Aura</type>
+<tablerow>2</tablerow>
+<text>Enchant creature
+Whenever enchanted creature attacks or blocks, its controller loses 2 life. </text> 
+</card>
+	
+<card> 
+<name>Awe for the Guilds</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/awefortheguilds.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<manacost>2R</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Monocolored creatures can't block this turn. </text> 
+</card>
+	
+<card> 
+<name>Clear a Path</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/clearapath.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<manacost>R</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Destroy target creature with defender.</text> 
+</card>
+	
+<card> 
+<name>Rubblebelt Maaka</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/rubblebeltmaaka.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<manacost>3R</manacost> 
+<type>Creature - Cat</type>
+<pt>3/3</pt>
+<tablerow>2</tablerow>
+<text>Bloodrush - R, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn. </text> 
+</card>
+	
+<card> 
+<name>Punish the Enemy</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/punishtheenemy.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<manacost>4R</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Punish the Enemy deals 3 damage to target player and 3 damage to target creature. </text> 
+</card>
+	
+<card> 
+<name>Debt to the Deathless</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/debttothedeathless.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>B</color>
+<manacost>XWWBB</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Each opponent loses two times X life. You gain life equal to the life lost this way. </text> 
+</card>
+	
+<card> 
+<name>Feral Animist</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/feralanimist.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>G</color>
+<manacost>1RG</manacost> 
+<type>Creature - Goblin Shaman</type>
+<pt>2/1</pt>
+<tablerow>2</tablerow>
+<text>3: Feral Animist gets +X/+0 until end of turn, where X is its power. </text> 
+</card>
+	
+<card> 
+<name>Krasis Incubation</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/krasisincubation.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>U</color>
+<manacost>2GU</manacost> 
+<type>Enchantment - Aura</type>
+<tablerow>2</tablerow>
+<text>Enchant creature 
+Enchanted creature can't attack or block, and its activated abilities can't be activated. 
+1GU, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.</text> 
+</card>
+	
+<card> 
+<name>Maw of the Obzedat</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mawoftheobzedat.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>B</color>
+<manacost>3WB</manacost> 
+<type>Creature - Thrull</type>
+<pt>3/3</pt>
+<tablerow>2</tablerow>
+<text>Sacrifice a creature: Creatures you control get +1/+1 until end of turn. </text> 
+</card>
+	
+<card> 
+<name>Morgue Burst</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/morgueburst.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>R</color>
+<manacost>4RB</manacost> 
+<type>Sorcery</type>
+<tablerow>2</tablerow>
+<text>Return target creature card from your graveyard to your hand. Morgue Burst deals damage to target creature or player equal to the power of the card returned this way. </text> 
+</card>
+	
+<card> 
+<name>Scab-Clan Giant</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/scabclangiant.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>G</color>
+<manacost>4RG</manacost> 
+<type>Creature - Giant Warrior</type>
+<pt>4/5</pt>
+<tablerow>2</tablerow>
+<text>When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random. </text> 
+</card>
+	
+<card> 
+<name>Boros Mastiff</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/borosmastiff.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<manacost>1W</manacost> 
+<type>Creature - Hound</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>Battalion - Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. </text> 
+</card>
+	
+<card> 
+<name>Haazda Snare Squad</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/haazdasnaresquad.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<manacost>2W</manacost> 
+<type>Creature - Human Soldier</type>
+<pt>1/4</pt>
+<tablerow>2</tablerow>
+<text>Whenever Haazda Snare Squad attacks, you may pay W. If you do, tap target creature an opponent controls. </text> 
+</card>
+	
+<card> 
+<name>Lyev Decree</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/lyevdecree.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<manacost>1W</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Detain up to two target creatures your opponents control. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)</text> 
+</card>
+	
+<card> 
+<name>Mind Static</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/mindstatic.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>3U</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Counter target spell unless its controller pays 6. </text> 
+</card>
+	
+<card> 
+<name>Murmuring Phantasm</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/murmuringphantasm.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>1U</manacost> 
+<type>Creature - Spirit</type>
+<pt>0/5</pt>
+<tablerow>2</tablerow>
+<text>Defender </text> 
+</card>
+	
+<card> 
+<name>Steeple Roc</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/steepleroc.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<manacost>4W</manacost> 
+<type>Creature - Bird</type>
+<pt>3/1</pt>
+<tablerow>2</tablerow>
+<text>Flying, first strike </text> 
+</card>
+	
+<card> 
+<name>Tithe Drinker</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/tithedrinker.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>B</color>
+<manacost>WB</manacost> 
+<type>Creature - Vampire</type>
+<pt>2/1</pt>
+<tablerow>2</tablerow>
+<text>Lifelink 
+Extort (Whenever you cast a spell, you may pay (w/b) . If you do, each opponent loses 1 life and you gain that much life.)</text> 
+</card>
+	
+<card> 
+<name>Woodlot Crawler</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/woodlotcrawler.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>B</color>
+<manacost>UB</manacost> 
+<type>Creature - Insect</type>
+<pt>2/1</pt>
+<tablerow>2</tablerow>
+<text>Forestwalk, protection from green </text> 
+</card>
+	
+<card> 
+<name>Species Gorger</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/speciesgorger.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>U</color>
+<manacost>3GU</manacost> 
+<type>Creature - Frog Beast</type>
+<pt>6/6</pt>
+<tablerow>2</tablerow>
+<text>At the beginning of your upkeep, return a creature you control to its owner's hand. </text> 
+</card>
+	
+<card> 
+<name>Pilfered Plans</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/pilferedplans.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>B</color>
+<manacost>1UB</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Target player puts the top two cards of his or her library into his or her graveyard. 
+Draw two cards.</text> 
+</card>
+	
+<card> 
+<name>Fluxcharger</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/fluxcharger.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>R</color>
+<manacost>2UR</manacost> 
+<type>Creature - Weird</type>
+<pt>1/5</pt>
+<tablerow>2</tablerow>
+<text>Flying 
+Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.</text> 
+</card>
+	
+<card> 
+<name>Pontiff of Blight</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/pontiffofblight.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<manacost>4BB</manacost> 
+<type>Creature - Zombie Cleric</type>
+<pt>2/7</pt>
+<tablerow>2</tablerow>
+<text>Extort (Whenever you cast a spell, you may pay (w/b). If you do, each opponent loses 1 life and you gain that much life.) 
+Other creatures you control have extort. (If a creature has multiple intances of extort, each triggers seperately.)</text> 
+</card>
+
+	
+<card> 
+<name>Drown in Filth</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/drowninfilth.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>G</color>
+<manacost>BG</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Choose target creature. Put the top 4 cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard. </text> 
+</card>
+	
+<card> 
+<name>Gruul War Chant</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/gruulwarchant.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>G</color>
+<manacost>2RG</manacost> 
+<type>Enchantment</type>
+<tablerow>1</tablerow>
+<text>Each attacking creature you control gets +1/+0 and can't be blocked except by 2 or more creatures. </text> 
+</card>
+
+	
+<card> 
+<name>Gaze of Granite</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/gazeofgranite.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>G</color>
+<manacost>XBBG</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Destroy each nonland permanent with converted mana cost X or less. </text> 
+</card>
+	
+<card> 
+<name>Gleam of Battle</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/gleamofbattle.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>W</color>
+<manacost>4RW</manacost> 
+<type>Enchantment</type>
+<tablerow>1</tablerow>
+<text>Whenever a creature you control attacks, put a +1/+1 counter on it. </text> 
+</card>
+
+	
+<card> 
+<name>Haunter of Nightveil</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/haunterofnightveil.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<color>B</color>
+<manacost>3UB</manacost> 
+<type>Creature - Spirit</type>
+<pt>3/4</pt>
+<tablerow>2</tablerow>
+<text>Creatures your opponents control get -1/-0 </text> 
+</card>
+	
+<card> 
+<name>Jelenn Sphinx</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/jelennsphinx.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>U</color>
+<manacost>3WU</manacost> 
+<type>Creature - Sphinx</type>
+<pt>1/5</pt>
+<tablerow>2</tablerow>
+<text>Flying, vigilance
+Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until end of turn.</text> 
+</card>
+
+	
+<card> 
+<name>Zhur-Taa Druid</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/zhurtaadruid.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>G</color>
+<manacost>RG</manacost> 
+<type>Creature - Human Druid</type>
+<pt>1/1</pt>
+<tablerow>2</tablerow>
+<text>T: Add G to your mana pool. 
+Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.</text> 
+</card>
+	
+<card> 
+<name>Armored Wolf-Rider</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/armoredwolfrider.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>W</color>
+<manacost>3GW</manacost> 
+<type>Creature - Elf Knight</type>
+<pt>4/6</pt>
+<tablerow>2</tablerow>
+<text></text> 
+</card>
+
+	
+<card> 
+<name>Ascended Lawmage</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/ascendedlawmage.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>U</color>
+<manacost>2WU</manacost> 
+<type>Creature - Vedalken Wizard</type>
+<pt>3/2</pt>
+<tablerow>2</tablerow>
+<text>Flying, hexproof </text> 
+</card>
+	
+<card> 
+<name>Carnage Gladiator</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/carnagegladiator.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>R</color>
+<manacost>2BR</manacost> 
+<type>Creature - Skeleton Warrior</type>
+<pt>4/2</pt>
+<tablerow>2</tablerow>
+<text>Whenever a creature blocks, that creature's controller loses 1 life. 
+1BR: Regenerate Carnage Gladiator.</text> 
+</card>
+
+	
+<card> 
+<name>Bronzebeak Moa</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/bronzebeakmoa.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>W</color>
+<manacost>2GW</manacost> 
+<type>Creature - Bird</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn. </text> 
+</card>
+	
+<card> 
+<name>Boros Battleshaper</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/borosbattleshaper.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>W</color>
+<manacost>5RW</manacost> 
+<type>Creature - Minotaur Soldier</type>
+<pt>5/5</pt>
+<tablerow>2</tablerow>
+<text>At the beginning of each combat, up to one target creature attacks or blocks this combat if able and up to one target creature can't attack or block this combat. </text> 
+</card>
+	
+<card> 
+<name>Blaze Commando</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/blazecommando.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>W</color>
+<manacost>3RW</manacost> 
+<type>Creature - Minotaur Soldier</type>
+<pt>5/3</pt>
+<tablerow>2</tablerow>
+<text>Whenever an instant or sorcery spell you control deals damage, put two 1/1 red and white Soldier creature tokens with haste onto the battlefield. </text> 
+</card>
+	
+<card> 
+<name>Spike Jester</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/spikedjester.jpg" picURLSt="">DGM</set> 
+<color>R</color>
+<color>B</color>
+<manacost>RB</manacost> 
+<type>Creature - Goblin Warrior</type>
+<pt>3/1</pt>
+<tablerow>2</tablerow>
+<text>Haste</text> 
+</card>
+	
+<card> 
+<name>Hidden Strings</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/hiddenstrings.jpg" picURLSt="">DGM</set> 
+<color>U</color>
+<manacost>1U</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>You may tap or untap target permanent, then you may tap or untap another target permanent. 
+Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)</text> 
+</card>
+	
+<card> 
+<name>Crypt Incursion</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/cryptincursion.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<manacost>2B</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Exile all creature cards from target player's graveyard. You gain 3 life for each card exiled this way. </text> 
+</card>
+
+<card> 
+<name>Beetleform Mage</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/beetleformmage.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>U</color>
+<manacost>1GU</manacost> 
+<type>Creature - Human Insect Wizard</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>GU: Beetleform Mage gets +2/+2 and gains flying until EOT. Activate this ability only once each turn. </text> 
+</card>
+	
+<card> 
+<name>Restore the Peace</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/restorethepeace.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>U</color>
+<manacost>1WU</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Return each creature that dealt damage this turn to its owner's hand. </text> 
+</card>
+
+<card> 
+<name>Ready // Willing</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/readywilling.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<color>W</color>
+<color>B</color>
+<manacost>1GW // 1WB</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Creatures you control are indestructible this turn. Untap each creature you control. 
+--
+Creatures you control gain deathtouch and lifelink until end of turn. 
+Fuse (You may cast one or both halves of this card from your hand.)</text> 
+</card>
+	
+<card> 
+<name>Skylasher</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/skylasher.jpg" picURLSt="">DGM</set> 
+<color>G</color>
+<manacost>1G</manacost> 
+<type>Creature - Spider</type>
+<pt>2/2</pt>
+<tablerow>2</tablerow>
+<text>Skylasher can't be countered. 
+Flash 
+Reach, protection from blue.</text> 
+</card>
+
+<card> 
+<name>Scion of Vitu-Ghazi</name> 
+<set picURL="http://mythicspoiler.com/dgm/cards/scionofvitughazi.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<manacost>3WW</manacost> 
+<type>Creature - Elemental</type>
+<pt>4/4</pt>
+<tablerow>2</tablerow>
+<text>If you cast Scion of Vitu-Ghazi from your hand, put a 1/1 white Bird token with flying onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)</text> 
+</card>
+	
+<card> 
+<name>Protect // Serve</name> 
+<set picURL="http://media.wizards.com/images/magic/tcg/products/dgm/tiwoirwiixix/ibc4yc0awn_EN.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>U</color>
+<manacost>2W // 1U</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>Target creture gets +2/+4 until end of turn.
+--
+Target creature gets -6/-0 until end of turn.
+Fuse(You may cast one or both halves of this card from your hand.)</text> 
+</card>
+
+<card> 
+<name>Profit // Loss</name> 
+<set picURL="http://media.wizards.com/images/magic/tcg/products/dgm/tiwoirwiixix/0tkyglg4ph_EN.jpg" picURLSt="">DGM</set> 
+<color>W</color>
+<color>B</color>
+<manacost>1W // 2B</manacost> 
+<type>Instant</type>
+<tablerow>3</tablerow>
+<text>
+Creatures you control get +1/+1 until end of turn.
+--
+Creatures your opponents get -1/-1 until end of turn.
+Fuse(You may cast one or both halves of this card from your hand.)</text> 
+</card>
+	
+<card> 
+<name>Down // Dirty</name> 
+<set picURL="http://media.wizards.com/images/magic/tcg/products/dgm/tiwoirwiixix/hlmxzh58od_EN.jpg" picURLSt="">DGM</set> 
+<color>B</color>
+<color>G</color>
+<manacost>3B // 2G</manacost> 
+<type>Sorcery</type>
+<tablerow>3</tablerow>
+<text>Target player discards two cards.
+--
+Return target card from your graveyard to your hand.
+Fuse(You may cast one or both halves of this card from your hand.)</text> 
+</card>
