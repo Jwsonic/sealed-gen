@@ -1,5 +1,5 @@
 Boros Mastiff~Common~Orzhov|Selesnya|Boros|Azorius
-Haazda Snare Guard~Common~Orzhov|Selesnya|Boros|Azorius
+Haazda Snare Squad~Common~Orzhov|Selesnya|Boros|Azorius
 Lyev Decree~Common~Orzhov|Selesnya|Boros|Azorius
 Maze Sentinel~Common~Orzhov|Selesnya|Boros|Azorius
 Renounce the Guilds~Rare~Orzhov|Selesnya|Boros|Azorius

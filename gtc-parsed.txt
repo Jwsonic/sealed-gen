@@ -236,14 +236,14 @@ Razortip Whip~Common~None
 Riot Gear~Common~None
 Simic Keyrune~Uncommon~None
 Skyblinder Staff~Common~None
-Boros Guildgate~Common~None
+Boros Guildgate~Basic Land~Boros
 Breeding Pool~Rare~None
-Dimir Guildgate~Common~None
+Dimir Guildgate~Basic Land~Dimir
 Godless Shrine~Rare~None
-Gruul Guildgate~Common~None
-Orzhov Guildgate~Common~None
+Gruul Guildgate~Basic Land~Gruul
+Orzhov Guildgate~Basic Land~Orzhov
 Sacred Foundry~Rare~None
-Simic Guildgate~Common~None
+Simic Guildgate~Basic Land~Simic
 Stomping Ground~Rare~None
 Thespian's Stage~Rare~None
 Watery Grave~Rare~None

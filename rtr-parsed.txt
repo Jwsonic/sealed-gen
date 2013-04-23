@@ -234,21 +234,16 @@ Selesnya Keyrune~Uncommon~Selesnya
 Street Sweeper~Uncommon~None
 Tablet of the Guilds~Uncommon~None
 Volatile Rig~Rare~None
-Azorius Guildgate~Common~Azorius
+Azorius Guildgate~Basic Land~Azorius
 Blood Crypt~Rare~Rakdos
-Golgari Guildgate~Common~Golgari
+Golgari Guildgate~Basic Land~Golgari
 Grove of the Guardian~Rare~Selesnya
 Hallowed Fountain~Rare~Azorius
-Izzet Guildgate~Common~Izzet
+Izzet Guildgate~Basic Land~Izzet
 Overgrown Tomb~Rare~Golgari
-Rakdos Guildgate~Common~Rakdos
+Rakdos Guildgate~Basic Land~Rakdos
 Rogue's Passage~Uncommon~None
-Selesnya Guildgate~Common~Selesnya
+Selesnya Guildgate~Basic Land~Selesnya
 Steam Vents~Rare~Izzet
 Temple Garden~Rare~Selesnya
 Transguild Promenade~Common~None
-Plains~Basic Land~None
-Island~Basic Land~None
-Swamp~Basic Land~None
-Mountain~Basic Land~None
-Forest~Basic Land~None
