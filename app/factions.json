@@ -1,118 +1,128 @@
 [{
   "name": "Jeskai",
-  "promo": ["Master of Pearls", "Thousand Winds", "Sage of the Inward Eye"
-    "Dragon-Style Twins", "Flying Crane Technique", "Jeskai Ascendancy",
-    "Mantis Rider", "Narset, Enlightened Master"
-  ],
-  "uncommon": ["Seeker of the Way", "Dragon's Eye Savants",
-    "Jeskai Elder", "Mistfire Weaver", "Quiet Contemplation",
-    "Riverwheel Aerialists", "Monastery Swiftspear", "Highspire Mantis",
-    "Jeskai Charm", "Warden of the Eye"
-  ],
-  "common": ["Jeskai Student", "Sage-Eye Harrier", "Jeskai Windscout",
-    "Mystic of the Hidden Way", "Whirlwind Adept", "Bloodfire Expert",
-    "Bloodfire Mentor", "Leaping Master", "Efreet Weaponmaster",
-    "Jeskai Banner", "Swiftwater Cliffs", "Tranquil Cove", "Wind-Scarred Crag",
-    "Alabaster Kirin", "Defiant Strike", "Erase", "Feat of Resistance",
-    "Kill Shot", "Rush of Battle", "Siegecraft", "Smite the Monstrous",
-    "Take Up Arms", "Cancel", "Crippling Chill", "Disdainful Stroke",
-    "Monastery Flock", "Singing Bell Strike", "Weave Fate",
-    "Wetland Sambar", "Act of Treason", "Bring Low", "Shatter",
-    "Summit Prowler", "Swift Kick", "Tormenting Voice", "Trumpet Blast"
-  ],
-  "land": ["Mystic Monastery"]
+  "cards": {
+    "promo": ["Master of Pearls", "Thousand Winds", "Sage of the Inward Eye",
+      "Dragon-Style Twins", "Flying Crane Technique", "Jeskai Ascendancy",
+      "Mantis Rider", "Narset, Enlightened Master"
+    ],
+    "uncommon": ["Seeker of the Way", "Dragon's Eye Savants",
+      "Jeskai Elder", "Mistfire Weaver", "Quiet Contemplation",
+      "Riverwheel Aerialists", "Monastery Swiftspear", "Highspire Mantis",
+      "Jeskai Charm", "Warden of the Eye"
+    ],
+    "common": ["Jeskai Student", "Sage-Eye Harrier", "Jeskai Windscout",
+      "Mystic of the Hidden Way", "Whirlwind Adept", "Bloodfire Expert",
+      "Bloodfire Mentor", "Leaping Master", "Efreet Weaponmaster",
+      "Jeskai Banner", "Swiftwater Cliffs", "Tranquil Cove", "Wind-Scarred Crag",
+      "Alabaster Kirin", "Defiant Strike", "Erase", "Feat of Resistance",
+      "Kill Shot", "Rush of Battle", "Siegecraft", "Smite the Monstrous",
+      "Take Up Arms", "Cancel", "Crippling Chill", "Disdainful Stroke",
+      "Monastery Flock", "Singing Bell Strike", "Weave Fate",
+      "Wetland Sambar", "Act of Treason", "Bring Low", "Shatter",
+      "Summit Prowler", "Swift Kick", "Tormenting Voice", "Trumpet Blast"
+    ],
+    "land": ["Mystic Monastery"]
+  }
 }, {
   "name": "Mardu",
-  "promo": ["Bloodsoaked Champion", "Howl of the Horde",
-    "Jeering Instigator", "Ankle Shanker", "Butcher of the Horde",
-    "Crackling Doom", "Mardu Ascendancy", "Zurgo Helmsmasher"
-  ],
-  "uncommon": ["Timely Hordemate", "Bellowing Saddlebrute",
-    "Horde Ambusher", "Mardu Blazebringer", "Mardu Heart-Piercer",
-    "War-Name Aspirant", "Chief of the Edge", "Mardu Charm",
-    "Mardu Roughrider"
-  ],
-  "common": ["Firehoof Cavalry", "Mardu Hateblade", "Mardu Hordechief",
-    "Mardu Skullhunter", "Arrow Storm", "Canyon Lurkers",
-    "Mardu Warshrieker", "Valley Dasher", "Ponyback Brigade", "Mardu Banner",
-    "Bloodfell Caves", "Scoured Barrens", "Wind-Scarred Crag",
-    "Alabaster Kirin", "Defiant Strike", "Erase", "Feat of Resistance",
-    "Kill Shot", "Rush of Battle", "Siegecraft", "Smite the Monstrous",
-    "Take Up Arms", "Act of Treason", "Bring Low", "Shatter",
-    "Summit Prowler", "Swift Kick", "Tormenting Voice", "Trumpet Blast",
-    "Bitter Revelation", "Debilitating Injury", "Dutiful Return",
-    "Molting Snakeskin", "Rakshasa's Secret", "Rite of the Serpent",
-    "Rotting Mastodon", "Throttle"
-  ],
-  "land": ["Nomad Outpost"]
+  "cards": {
+    "promo": ["Bloodsoaked Champion", "Howl of the Horde",
+      "Jeering Instigator", "Ankle Shanker", "Butcher of the Horde",
+      "Crackling Doom", "Mardu Ascendancy", "Zurgo Helmsmasher"
+    ],
+    "uncommon": ["Timely Hordemate", "Bellowing Saddlebrute",
+      "Horde Ambusher", "Mardu Blazebringer", "Mardu Heart-Piercer",
+      "War-Name Aspirant", "Chief of the Edge", "Mardu Charm",
+      "Mardu Roughrider"
+    ],
+    "common": ["Firehoof Cavalry", "Mardu Hateblade", "Mardu Hordechief",
+      "Mardu Skullhunter", "Arrow Storm", "Canyon Lurkers",
+      "Mardu Warshrieker", "Valley Dasher", "Ponyback Brigade", "Mardu Banner",
+      "Bloodfell Caves", "Scoured Barrens", "Wind-Scarred Crag",
+      "Alabaster Kirin", "Defiant Strike", "Erase", "Feat of Resistance",
+      "Kill Shot", "Rush of Battle", "Siegecraft", "Smite the Monstrous",
+      "Take Up Arms", "Act of Treason", "Bring Low", "Shatter",
+      "Summit Prowler", "Swift Kick", "Tormenting Voice", "Trumpet Blast",
+      "Bitter Revelation", "Debilitating Injury", "Dutiful Return",
+      "Molting Snakeskin", "Rakshasa's Secret", "Rite of the Serpent",
+      "Rotting Mastodon", "Throttle"
+    ],
+    "land": ["Nomad Outpost"]
+  }
 }, {
   "name": "Temur",
-  "promo": ["Icy Blast", "Crater's Claws", "Rattleclaw Mystic",
-    "Avalanche Tusker", "Savage Knuckleblade", "Surrak Dragonclaw",
-    "Temur Ascendancy", "Trap Essence"
-  ],
-  "uncommon": ["Scion of Glaciers", "Stubborn Denial", "Dragon Grip",
-    "Heir of the Wilds", "Pine Walker", "Roar of Challenge",
-    "Temur Charger", "Bear's Companion", "Icefeather Aven",
-    "Temur Charm"
-  ],
-  "common": ["Embodiment of Spring", "Force Away", "Glacial Stalker",
-    "Scaldkin", "Ainok Tracker", "Barrage of Boulders", "Feed the Clan",
-    "Savage Punch", "Woolly Loxodon", "Snowhorn Rider", "Temur Banner",
-    "Rugged Highlands", "Swiftwater Cliffs", "Thornwood Falls",
-    "Cancel", "Crippling Chill", "Disdainful Stroke",
-    "Monastery Flock", "Singing Bell Strike", "Weave Fate",
-    "Wetland Sambar", "Act of Treason", "Bring Low", "Shatter",
-    "Summit Prowler", "Swift Kick", "Tormenting Voice", "Trumpet Blast",
-    "Alpine Grizzly", "Awaken the Bear", "Dragonscale Boon",
-    "Highland Game", "Naturalize", "Tusked Colossodon"
-  ],
-  "land": ["Frontier Bivouac"]
+  "cards": {
+    "promo": ["Icy Blast", "Crater's Claws", "Rattleclaw Mystic",
+      "Avalanche Tusker", "Savage Knuckleblade", "Surrak Dragonclaw",
+      "Temur Ascendancy", "Trap Essence"
+    ],
+    "uncommon": ["Scion of Glaciers", "Stubborn Denial", "Dragon Grip",
+      "Heir of the Wilds", "Pine Walker", "Roar of Challenge",
+      "Temur Charger", "Bear's Companion", "Icefeather Aven",
+      "Temur Charm"
+    ],
+    "common": ["Embodiment of Spring", "Force Away", "Glacial Stalker",
+      "Scaldkin", "Ainok Tracker", "Barrage of Boulders", "Feed the Clan",
+      "Savage Punch", "Woolly Loxodon", "Snowhorn Rider", "Temur Banner",
+      "Rugged Highlands", "Swiftwater Cliffs", "Thornwood Falls",
+      "Cancel", "Crippling Chill", "Disdainful Stroke",
+      "Monastery Flock", "Singing Bell Strike", "Weave Fate",
+      "Wetland Sambar", "Act of Treason", "Bring Low", "Shatter",
+      "Summit Prowler", "Swift Kick", "Tormenting Voice", "Trumpet Blast",
+      "Alpine Grizzly", "Awaken the Bear", "Dragonscale Boon",
+      "Highland Game", "Naturalize", "Tusked Colossodon"
+    ],
+    "land": ["Frontier Bivouac"]
+  }
 }, {
   "name": "Abzan",
-  "promo": ["Herald of Anafenza", "High Sentinels of Arashin",
-    "Retribution of the Ancients", "Hardened Scales", "Abzan Ascendancy",
-    "Anafenza, the Foremost", "Duneblast", "Ivorytusk Fortress", "Siege Rhino"
-  ],
-  "uncommon": ["Abzan Battle Priest", "Abzan Falconer", "Brave the Sands",
-    "Dazzling Ramparts", "Watcher of the Roost", "Mer-Ek Nightblade",
-    "Tuskguard Captain", "Abzan Charm", "Armament Corps", "Chief of the Scale"
-  ],
-  "common": ["Ainok Bond-Kin", "Dazzling Ramparts", "Salt Road Patrol",
-    "War Behemoth", "Disowned Ancestor", "Krumar Bond-Kin", "Unyielding Krumar",
-    "Archers' Parapet", "Kin-Tree Warden", "Longshot Squad", "Abzan Guide",
-    "Abzan Banner", "Blossoming Sands", "Jungle Hollow", "Scoured Barrens",
-    "Alpine Grizzly", "Awaken the Bear", "Dragonscale Boon",
-    "Highland Game", "Naturalize", "Tusked Colossodon", "Bitter Revelation",
-    "Debilitating Injury", "Dutiful Return", "Molting Snakeskin",
-    "Rakshasa's Secret", "Rite of the Serpent", "Rotting Mastodon",
-    "Throttle", "Alabaster Kirin", "Defiant Strike", "Erase",
-    "Feat of Resistance", "Kill Shot", "Rush of Battle", "Siegecraft",
-    "Smite the Monstrous", "Take Up Arms"
-  ],
-  "land": ["Sandsteppe Citadel"]
+  "cards": {
+    "promo": ["Herald of Anafenza", "High Sentinels of Arashin",
+      "Retribution of the Ancients", "Hardened Scales", "Abzan Ascendancy",
+      "Anafenza, the Foremost", "Duneblast", "Ivorytusk Fortress", "Siege Rhino"
+    ],
+    "uncommon": ["Abzan Battle Priest", "Abzan Falconer", "Brave the Sands",
+      "Dazzling Ramparts", "Watcher of the Roost", "Mer-Ek Nightblade",
+      "Tuskguard Captain", "Abzan Charm", "Armament Corps", "Chief of the Scale"
+    ],
+    "common": ["Ainok Bond-Kin", "Dazzling Ramparts", "Salt Road Patrol",
+      "War Behemoth", "Disowned Ancestor", "Krumar Bond-Kin", "Unyielding Krumar",
+      "Archers' Parapet", "Kin-Tree Warden", "Longshot Squad", "Abzan Guide",
+      "Abzan Banner", "Blossoming Sands", "Jungle Hollow", "Scoured Barrens",
+      "Alpine Grizzly", "Awaken the Bear", "Dragonscale Boon",
+      "Highland Game", "Naturalize", "Tusked Colossodon", "Bitter Revelation",
+      "Debilitating Injury", "Dutiful Return", "Molting Snakeskin",
+      "Rakshasa's Secret", "Rite of the Serpent", "Rotting Mastodon",
+      "Throttle", "Alabaster Kirin", "Defiant Strike", "Erase",
+      "Feat of Resistance", "Kill Shot", "Rush of Battle", "Siegecraft",
+      "Smite the Monstrous", "Take Up Arms"
+    ],
+    "land": ["Sandsteppe Citadel"]
+  }
 }, {
   "name": "Sultai",
-  "promo": ["Dig Through Time", "Kheru Spellsnatcher", "Grim Haruspex",
-    "Necropolis Fiend", "Meandering Towershell", "Kheru Lich Lord",
-    "Rakshasa Deathdealer", "Rakshasa Vizier", "Sidisi, Brood Tyrant",
-    "Sultai Ascendancy", "Villainous Wealth"
-  ],
-  "uncommon": ["Set Adrift", "Dead Drop", "Kheru Bloodsucker",
-    "Murderous Cut", "Ruthless Ripper", "Become Immense",
-    "Sultai Flayer", "Death Frenzy", "Sultai Charm", "Sultai Soothsayer"
-  ],
-  "common": ["Taigam's Scheming", "Treasure Cruise", "Kheru Dreadmaw",
-    "Shambling Attendants", "Sidisi's Pet", "Sultai Scavenger",
-    "Hooting Mandrills", "Sagu Archer", "Scout the Borders",
-    "Smoke Teller", "Abomination of Gudul", "Sultai Banner", "Dismal Backwater",
-    "Jungle Hollow", "Thornwood Falls", "Cancel", "Crippling Chill",
-    "Disdainful Stroke", "Monastery Flock", "Singing Bell Strike",
-    "Weave Fate", "Wetland Sambar", "Bitter Revelation",
-    "Debilitating Injury", "Dutiful Return", "Molting Snakeskin",
-    "Rakshasa's Secret", "Rite of the Serpent", "Rotting Mastodon",
-    "Throttle", "Alpine Grizzly", "Awaken the Bear", "Dragonscale Boon",
-    "Highland Game", "Naturalize", "Tusked Colossodon"
-  ],
-  "land": ["Opulent Palace"]
+  "cards": {
+    "promo": ["Dig Through Time", "Kheru Spellsnatcher", "Grim Haruspex",
+      "Necropolis Fiend", "Meandering Towershell", "Kheru Lich Lord",
+      "Rakshasa Deathdealer", "Rakshasa Vizier", "Sidisi, Brood Tyrant",
+      "Sultai Ascendancy", "Villainous Wealth"
+    ],
+    "uncommon": ["Set Adrift", "Dead Drop", "Kheru Bloodsucker",
+      "Murderous Cut", "Ruthless Ripper", "Become Immense",
+      "Sultai Flayer", "Death Frenzy", "Sultai Charm", "Sultai Soothsayer"
+    ],
+    "common": ["Taigam's Scheming", "Treasure Cruise", "Kheru Dreadmaw",
+      "Shambling Attendants", "Sidisi's Pet", "Sultai Scavenger",
+      "Hooting Mandrills", "Sagu Archer", "Scout the Borders",
+      "Smoke Teller", "Abomination of Gudul", "Sultai Banner", "Dismal Backwater",
+      "Jungle Hollow", "Thornwood Falls", "Cancel", "Crippling Chill",
+      "Disdainful Stroke", "Monastery Flock", "Singing Bell Strike",
+      "Weave Fate", "Wetland Sambar", "Bitter Revelation",
+      "Debilitating Injury", "Dutiful Return", "Molting Snakeskin",
+      "Rakshasa's Secret", "Rite of the Serpent", "Rotting Mastodon",
+      "Throttle", "Alpine Grizzly", "Awaken the Bear", "Dragonscale Boon",
+      "Highland Game", "Naturalize", "Tusked Colossodon"
+    ],
+    "land": ["Opulent Palace"]
+  }
 }]
