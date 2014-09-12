@@ -22,7 +22,6 @@ var app = angular.module('sealedGenApp', [
   'ngSanitize',
   'ngTouch'
 ]).config(function($routeProvider) {
-  console.log('hello');
   $routeProvider
     .when('/', {
       templateUrl: 'views/main.html',
@@ -46,8 +45,6 @@ var app = angular.module('sealedGenApp', [
 }).config([
   '$compileProvider',
   function($compileProvider) {
-    console.log('hello');
     $compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|ftp|mailto|blob|chrome-extension):/);
-    // Angular before v1.2 uses $compileProvider.urlSanitizationWhitelist(...)
   }
 ]);
